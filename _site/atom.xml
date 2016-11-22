@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>12 inci di belakang kamera</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2016-11-22T10:14:51+07:00</updated>
- <id>http://localhost:4000</id>
+ <title>12" di belakang kamera</title>
+ <link href="http://rana.endy.muhardin.com/atom.xml" rel="self"/>
+ <link href="http://rana.endy.muhardin.com/"/>
+ <updated>2016-11-22T10:26:29+07:00</updated>
+ <id>http://rana.endy.muhardin.com</id>
  <author>
    <name></name>
    <email>endy.muhardin@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Stock Photo</title>
-   <link href="http://localhost:4000/bisnis/stock-photo/"/>
+   <link href="http://rana.endy.muhardin.com/bisnis/stock-photo/"/>
    <updated>2016-11-21T19:55:00+07:00</updated>
-   <id>http://localhost:4000/bisnis/stock-photo</id>
+   <id>http://rana.endy.muhardin.com/bisnis/stock-photo</id>
    <content type="html">&lt;p&gt;Stock Photo&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -163,9 +163,9 @@
  
  <entry>
    <title>Alienco Photography</title>
-   <link href="http://localhost:4000/review/alienco-photography/"/>
+   <link href="http://rana.endy.muhardin.com/review/alienco-photography/"/>
    <updated>2014-10-28T20:51:17+07:00</updated>
-   <id>http://localhost:4000/review/alienco-photography</id>
+   <id>http://rana.endy.muhardin.com/review/alienco-photography</id>
    <content type="html">&lt;p&gt;Memilih fotografer untuk peristiwa penting semisal pernikahan adalah pekerjaan yang memusingkan. Apalagi di jaman sekarang, harga kamera terus turun menjadi semakin murah. Kualitas gambar yang dihasilkan juga semakin bagus. Bahkan kamera DSLR yang paling murah, kualitas gambarnya sudah lebih dari cukup bila ingin sekedar tampil di media sosial. Dengan semakin murahnya harga kamera, banyak orang kemudian merasa bisa menangani event penting sekelas pernikahan. Padahal, fotografi hobi sangat berbeda dengan fotografi profesional.&lt;/p&gt;
 
 &lt;p&gt;Pada artikel kali ini, kita akan membahas salah satu fotografer yang aktif dalam komunitas fotografi yang saya ikuti, yaitu &lt;a href=&quot;http://alienco.net/&quot;&gt;Alienco Photography&lt;/a&gt;. Alienco Photography dimotori oleh Ali Umar. Awalnya bekerja sebagai karyawan bank, tapi kemudian banting setir menjadi full time photographer.&lt;/p&gt;
@@ -250,9 +250,9 @@
  
  <entry>
    <title>Subject Isolation</title>
-   <link href="http://localhost:4000/teknik/subject-isolation/"/>
+   <link href="http://rana.endy.muhardin.com/teknik/subject-isolation/"/>
    <updated>2013-12-20T14:55:00+07:00</updated>
-   <id>http://localhost:4000/teknik/subject-isolation</id>
+   <id>http://rana.endy.muhardin.com/teknik/subject-isolation</id>
    <content type="html">&lt;p&gt;Hal terpenting dalam suatu foto tentulah subjek atau &lt;em&gt;point of interest&lt;/em&gt;. Subjek ini bisa bermacam-macam, misalnya:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -459,9 +459,9 @@
  
  <entry>
    <title>Memahami Lensa</title>
-   <link href="http://localhost:4000/gears/memahami-lensa/"/>
+   <link href="http://rana.endy.muhardin.com/gears/memahami-lensa/"/>
    <updated>2013-11-19T23:01:00+07:00</updated>
-   <id>http://localhost:4000/gears/memahami-lensa</id>
+   <id>http://rana.endy.muhardin.com/gears/memahami-lensa</id>
    <content type="html">&lt;p&gt;Kalau kita ikut di komunitas fotografi, baik itu grup Facebook, milis, forum internet, kaskus, atau apapun yang lainnya, seminggu sekali kita akan menemui pertanyaan klasik ini&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -789,9 +789,9 @@ Nilai aperture dinyatakan dalam &lt;code class=&quot;highlighter-rouge&quot;&gt;
  
  <entry>
    <title>Belajar Lighting</title>
-   <link href="http://localhost:4000/referensi/belajar-lighting/"/>
+   <link href="http://rana.endy.muhardin.com/referensi/belajar-lighting/"/>
    <updated>2013-11-13T09:14:00+07:00</updated>
-   <id>http://localhost:4000/referensi/belajar-lighting</id>
+   <id>http://rana.endy.muhardin.com/referensi/belajar-lighting</id>
    <content type="html">&lt;p&gt;Enaknya belajar fotografi di jaman Youtube, segala macam tutorial ada. Saking banyaknya, kita kesulitan memilih mana yang bagus mana yang jelek. Mau ditonton semua, bisa-bisa menghabiskan masa remaja.&lt;/p&gt;
 
 &lt;p&gt;Untuk menghemat waktu kita semua, saya sudah mengumpulkan beberapa video di Youtube yang bagus cara penyampaiannya. Semoga bermanfaat.&lt;/p&gt;
@@ -1085,9 +1085,9 @@ Nilai aperture dinyatakan dalam &lt;code class=&quot;highlighter-rouge&quot;&gt;
  
  <entry>
    <title>Segitiga Exposure</title>
-   <link href="http://localhost:4000/teknik/segitiga-exposure/"/>
+   <link href="http://rana.endy.muhardin.com/teknik/segitiga-exposure/"/>
    <updated>2013-11-12T14:51:00+07:00</updated>
-   <id>http://localhost:4000/teknik/segitiga-exposure</id>
+   <id>http://rana.endy.muhardin.com/teknik/segitiga-exposure</id>
    <content type="html">&lt;p&gt;Segitiga Exposure&lt;/p&gt;
 
 &lt;p&gt;Pada &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;artikel sebelumnya&lt;/a&gt; kita sudah membahas bahwa untuk mengatur cahaya sesuai indikator light meter, kita bisa mengubah tiga variabel, yaitu:&lt;/p&gt;
@@ -1327,9 +1327,9 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
  
  <entry>
    <title>Thought Process</title>
-   <link href="http://localhost:4000/proses/thought-process/"/>
+   <link href="http://rana.endy.muhardin.com/proses/thought-process/"/>
    <updated>2013-11-08T10:31:00+07:00</updated>
-   <id>http://localhost:4000/proses/thought-process</id>
+   <id>http://rana.endy.muhardin.com/proses/thought-process</id>
    <content type="html">&lt;p&gt;Kita sering melihat foto bagus di internet. Coba saja browsing ke &lt;a href=&quot;http://www.500px.com&quot;&gt;500px&lt;/a&gt;, &lt;a href=&quot;http://www.flickr.com&quot;&gt;Flickr&lt;/a&gt;, dan berbagai website sharing foto lainnya. Kita sering berpikir bahwa fotografer yang membuat foto bagus tersebut adalah orang jenius yang cuma lahir 10 orang setiap tahunnya. Kita yang &lt;em&gt;manusia biasa&lt;/em&gt; tidak akan bisa membuat karya sebagus itu.&lt;/p&gt;
 
 &lt;p&gt;Tapi kenyataannya tidak demikian. Semua fotografer itu ya manusia biasa seperti kita. Kenapa mereka bisa menghasilkan karya yang bagus? Tipsnya cuma ada dua:&lt;/p&gt;
@@ -1358,9 +1358,9 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
  
  <entry>
    <title>Exposure dan Metering</title>
-   <link href="http://localhost:4000/teknik/exposure-dan-metering/"/>
+   <link href="http://rana.endy.muhardin.com/teknik/exposure-dan-metering/"/>
    <updated>2013-11-04T17:20:00+07:00</updated>
-   <id>http://localhost:4000/teknik/exposure-dan-metering</id>
+   <id>http://rana.endy.muhardin.com/teknik/exposure-dan-metering</id>
    <content type="html">&lt;p&gt;Saya pertama belajar fotografi di tahun 1995, menggunakan kamera film Nikon F3. Di tahun itu belajar fotografi tidak semudah sekarang. Saat ini, kita tinggal cari di Youtube, video tutorial sangat berlimpah. Mulai dari pengenalan kamera, komposisi, lighting, teknik berpose dan mengarahkan model, apapun yang kita butuhkan tersedia. Panduan saya di jaman dulu adalah buku saku &lt;a href=&quot;http://www.amazon.com/KODAK-Pocket-Guide-35MM-Photography/dp/0879857692&quot;&gt;Kodak Pocket Guide to 35mm Photography&lt;/a&gt; milik teman sesama pehobi.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/kodak-pocket-guide.jpg&quot; alt=&quot; Kodak Pocket Guide &quot; /&gt;&lt;/p&gt;
@@ -1604,9 +1604,9 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
  
  <entry>
    <title>Tips Memotret dengan Handphone</title>
-   <link href="http://localhost:4000/referensi/tips-memotret-dengan-handphone/"/>
+   <link href="http://rana.endy.muhardin.com/referensi/tips-memotret-dengan-handphone/"/>
    <updated>2013-10-31T09:36:00+07:00</updated>
-   <id>http://localhost:4000/referensi/tips-memotret-dengan-handphone</id>
+   <id>http://rana.endy.muhardin.com/referensi/tips-memotret-dengan-handphone</id>
    <content type="html">&lt;p&gt;Smartphone jaman sekarang sudah bisa menghasilkan kualitas foto yang sangat baik. Ditambah lagi dengan adanya berbagai filter kreatif dan Instagram, sangat memudahkan kita untuk membuat dan mengekspresikan kreativitas kita.&lt;/p&gt;
 
 &lt;p&gt;Walaupun demikian, yang lebih penting adalah visi dan skill yang dimiliki pembuat foto, yang dirangkum dalam &lt;a href=&quot;http://www.digitalinformationworld.com/2013/10/phone-tography-101-infographic-tips-and.html&quot;&gt;infografis dari &lt;code class=&quot;highlighter-rouge&quot;&gt;Totally Rad&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1616,9 +1616,9 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
  
  <entry>
    <title>Membeli Perlengkapan</title>
-   <link href="http://localhost:4000/gears/membeli-perlengkapan/"/>
+   <link href="http://rana.endy.muhardin.com/gears/membeli-perlengkapan/"/>
    <updated>2013-10-17T08:57:00+07:00</updated>
-   <id>http://localhost:4000/gears/membeli-perlengkapan</id>
+   <id>http://rana.endy.muhardin.com/gears/membeli-perlengkapan</id>
    <content type="html">&lt;p&gt;Hobi fotografi identik dengan biaya tinggi. 
 Untuk bisa memulai, kita harus beli kamera yang harganya mahal.
 Setelah itu, beli lensa, aksesoris ini itu, yang harganya juga selangit.
