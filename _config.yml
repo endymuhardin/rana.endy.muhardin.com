@@ -26,8 +26,18 @@ github_username:  endymuhardin
 permalink: /:categories/:title/
 paginate: 10
 recent_posts: 5
+excerpt_separator: <!--more-->
 excerpt_link: "Read on &rarr;"
 titlecase: true
+
+# Contact List
+author:
+  email: endy.muhardin@gmail.com
+  email_md5: a3c8a6a973fc0c0fa3d89cb69c103ad0
+  twitter: endymuhardin
+  flickr: endymuhardin
+  instagram: endymuhardin
+  facebook: endy.muhardin
 
 # Google Analytics
 google_analytics_tracking_id: UA-36102948-1
@@ -40,9 +50,9 @@ facebook_appid: 269506799827290
 
 # Build settings
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock

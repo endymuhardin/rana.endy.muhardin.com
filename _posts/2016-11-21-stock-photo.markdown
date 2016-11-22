@@ -105,6 +105,14 @@ Selain melalui laptop, kita juga bisa langsung mengupload dari smartphone dengan
 
 [![Aplikasi Mobile](https://lh3.googleusercontent.com/RLyJ5yL65-l1FbovfQd0aZUPKe9jalsBli5FbAdAAY_puV2ZIrg1TBUvkUcNeSJS6HyFxcKTIXy7=w379-h671-no)](https://lh3.googleusercontent.com/RLyJ5yL65-l1FbovfQd0aZUPKe9jalsBli5FbAdAAY_puV2ZIrg1TBUvkUcNeSJS6HyFxcKTIXy7=w379-h671-no)
 
+## Foto Terjual ##
+
+Bila kita sudah menginstal aplikasi mobile, dia akan memberikan notifikasi pada saat foto kita ada yang beli.
+
+[![Foto Terjual](https://lh3.googleusercontent.com/5TPJ08gJEicOsuXSV2YrQUNH7_FAiJ5A2oJtZwcf8xbrwRZdfAK_NSYfeJ7BCPl2ekSsJnw-9x7B=w379-h671-no)](https://lh3.googleusercontent.com/5TPJ08gJEicOsuXSV2YrQUNH7_FAiJ5A2oJtZwcf8xbrwRZdfAK_NSYfeJ7BCPl2ekSsJnw-9x7B=w379-h671-no)
+
+Lumayan, foto saya tadi laku seharga $0.25 :D
+
 ## Beberapa Tips dan Trik ##
 
 Ada beberapa kiat-kiat yang berhasil saya kumpulkan dari berbagai sumber. Benar atau tidaknya, apakah masih relevan saat ini, saya sendiri belum membuktikan. Silahkan para pembaca membuktikannya sendiri:
