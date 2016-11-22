@@ -1,5 +1,1516 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-21T21:31:57+07:00</updated><id>http://localhost:4000//</id><title type="html">12 inci di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
-</subtitle><entry><title type="html">Membeli Perlengkapan</title><link href="http://localhost:4000/gears/membeli-perlengkapan/" rel="alternate" type="text/html" title="Membeli Perlengkapan" /><published>2013-10-17T08:57:00+07:00</published><updated>2013-10-17T08:57:00+07:00</updated><id>http://localhost:4000/gears/membeli-perlengkapan</id><content type="html" xml:base="http://localhost:4000/gears/membeli-perlengkapan/">&lt;p&gt;Hobi fotografi identik dengan biaya tinggi. 
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-22T08:40:32+07:00</updated><id>http://localhost:4000//</id><title type="html">12 inci di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
+</subtitle><entry><title type="html">Stock Photo</title><link href="http://localhost:4000/bisnis/stock-photo/" rel="alternate" type="text/html" title="Stock Photo" /><published>2016-11-21T19:55:00+07:00</published><updated>2016-11-21T19:55:00+07:00</updated><id>http://localhost:4000/bisnis/stock-photo</id><content type="html" xml:base="http://localhost:4000/bisnis/stock-photo/">&lt;p&gt;Stock Photo&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Pernahkah kita ingin membuat slide presentasi atau website, kemudian membutuhkan foto-foto untuk memperindah tampilannya?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tentunya pernah. Biasanya kita mencari foto-foto yang sesuai dengan tema yang ingin kita sampaikan, misalnya : kekompakan, semangat, keakraban, perjuangan, dan lain sebagainya.&lt;/p&gt;
+
+&lt;p&gt;Foto-foto penunjang seperti itu umum disebut dengan istilah &lt;strong&gt;stock photo&lt;/strong&gt;. Jaman sekarang, ada banyak layanan penyedia stock photo, misalnya :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Shutterstock&lt;/li&gt;
+  &lt;li&gt;iStock&lt;/li&gt;
+  &lt;li&gt;Adobe Stock&lt;/li&gt;
+  &lt;li&gt;Fotolia&lt;/li&gt;
+  &lt;li&gt;dan lain sebagainya&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para penyedia stock photo ini menerima kontribusi dari seluruh dunia. Para fotografer mengupload hasil karyanya ke penyedia stock photo untuk kemudian dijualkan oleh mereka. Harga jualnya sebetulnya sangat murah, bisa sampai $0.01 per foto. Tapi model bisnisnya adalah berharap foto tersebut diunduh ratusan ribu kali, sehingga kita bisa mendapatkan 100.000 * $0.01 = $1000.&lt;/p&gt;
+
+&lt;p&gt;Sebagai fotografer ala-ala, saya berpikir begini. Daripada foto-foto saya cuma bikin penuh harddisk dan cuma diupload di Flickr, Instagram, atau Facebook, lebih baik saya upload ke stock photo. Sukur-sukur ada yang beli, lumayan dapat uang. Jadilah kemudian saya daftar dan mencoba upload.&lt;/p&gt;
+
+&lt;p&gt;Penyedia stock photo memiliki kriteria dalam menerima foto, diantaranya:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tidak boleh ada logo merek yang bisa dikenali&lt;/li&gt;
+  &lt;li&gt;fotonya harus benar secara teknis (tajam, pencahayaan cukup, white balance tidak meleset, dan lainnya)&lt;/li&gt;
+  &lt;li&gt;bila ada orang yang bisa dikenali, maka harus ada ijin tertulis (Model Release) dari orang bersangkutan&lt;/li&gt;
+  &lt;li&gt;bila ada bangunan terkenal atau barang terkenal (misalnya barang antik atau lukisan), maka harus ada ijin tertulis dari pemiliknya (Property Release)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sampai artikel ini ditulis, saya baru mengupload 14 foto, 8 diterima dan 6 ditolak. Berikut pengalaman saya mulai dari mendaftar sampai berhasil mengupload foto.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;pendaftaran&quot;&gt;Pendaftaran&lt;/h2&gt;
+
+&lt;p&gt;Untuk mendaftar caranya tidak sulit. Silahkan langsung masuk ke &lt;a href=&quot;http://submit.shutterstock.com&quot;&gt;halaman kontributor&lt;/a&gt;. Kemudian isi informasi pribadi. Siapkan juga beberapa foto untuk diupload, misalnya 10 foto.&lt;/p&gt;
+
+&lt;p&gt;Kita juga akan dimintai identitas resmi. Anjuran mereka adalah identitas yang diakui secara internasional, seperti paspor. Karena saya punya paspor, saya upload scan paspor saya. Untuk yang tidak punya, mungkin bisa dicoba untuk mengupload KTP atau SIM. Mudah-mudahan diterima ;)&lt;/p&gt;
+
+&lt;h2 id=&quot;upload-foto&quot;&gt;Upload Foto&lt;/h2&gt;
+
+&lt;p&gt;Selanjutnya, kita bisa mulai mengupload foto.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lh3.googleusercontent.com/zpnL7WF6QuwU5zdY7-6maL5wZotwJLYfKODR0wL9BsgagaaedRPHfUVVXA61Ef5TYNPgpzLgJzH1=w1160-h571-no&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/zpnL7WF6QuwU5zdY7-6maL5wZotwJLYfKODR0wL9BsgagaaedRPHfUVVXA61Ef5TYNPgpzLgJzH1=w1160-h571-no&quot; alt=&quot;Upload Foto&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pastikan foto kita berukuran minimal 4 megapixel. Sebetulnya ukuran ini tidak terlalu besar. Mayoritas smartphone jaman sekarang sudah bisa memenuhi persyaratan ini. Jadi kita bisa juga mengambil foto sambil jalan dengan smartphone kita.&lt;/p&gt;
+
+&lt;h2 id=&quot;metadata&quot;&gt;Metadata&lt;/h2&gt;
+
+&lt;p&gt;Inilah bagian paling melelahkan dalam keseluruhan proses. Kita harus menyediakan informasi tentang foto kita supaya mudah dicari, ditemukan, dan dibeli orang. Informasi ini disebut dengan istilah metadata.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lh3.googleusercontent.com/QFkqAoQ8sbCJ98o3ijIcfto6H5wlwBnRxKF6rWrar5ZqyKqhX-CQTn_jTjhzr9qHVymNd1-btAcc=w974-h621-no&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/QFkqAoQ8sbCJ98o3ijIcfto6H5wlwBnRxKF6rWrar5ZqyKqhX-CQTn_jTjhzr9qHVymNd1-btAcc=w974-h621-no&quot; alt=&quot;Input Description dan Keyword&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Untungnya ShutterStock memiliki fitur untuk mengcopy metadata dari foto lain yang sejenis. Klik link Suggest Keyword di bawah kotak inputan. Shutterstock akan menampilkan halaman pencarian foto.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lh3.googleusercontent.com/zKICqtUyBoNSSwprdiZh2LTs0Vh-tw0Gf1xlYfogUJ9p-_AKeo-tJPMeVv84qVzq_G-hoz1nsq6i=w1235-h582-no&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/zKICqtUyBoNSSwprdiZh2LTs0Vh-tw0Gf1xlYfogUJ9p-_AKeo-tJPMeVv84qVzq_G-hoz1nsq6i=w1235-h582-no&quot; alt=&quot;Cari Foto Sejenis&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cari foto yang sejenis, kemudian centang yang kira-kira mirip. Begitu kita klik OK, ShutterStock akan mengcopy metadata dari foto yang kita pilih.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lh3.googleusercontent.com/v8OomBKhyX1t6n4nJwdOcs6aJw5mR_oBlbd82FFH9vNpqo0_IJPJSF6t2yVZg5zZuGh284es0EfO=w1234-h580-no&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/v8OomBKhyX1t6n4nJwdOcs6aJw5mR_oBlbd82FFH9vNpqo0_IJPJSF6t2yVZg5zZuGh284es0EfO=w1234-h580-no&quot; alt=&quot;Copy Metadata&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kita bisa tambahkan metadata kita sendiri, kemudian klik OK.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lh3.googleusercontent.com/cwplS8kw6Gma5u88ZGh8rBCXVZTl6APhZBzI9J2WwcAgKYat58JA_tS0EYxE93Fu0gZWjPE_MeRd=w956-h623-no&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/cwplS8kw6Gma5u88ZGh8rBCXVZTl6APhZBzI9J2WwcAgKYat58JA_tS0EYxE93Fu0gZWjPE_MeRd=w956-h623-no&quot; alt=&quot;Metadata yang sudah dicopy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Walaupun demikian, kita perlu berhati-hati dan jangan asal copy. Periksa lagi jangan-jangan ada keyword yang tidak diinginkan. Sebagai contoh, ketika saya mengupload foto sate, cari image sejenis, kemudian copy metadata, ada keyword lain yang ikut serta seperti &lt;code class=&quot;highlighter-rouge&quot;&gt;philippines&lt;/code&gt; yang tentu kita tidak inginkan.&lt;/p&gt;
+
+&lt;p&gt;Setelah semua metadata diisi, selanjutnya kita submit foto untuk direview.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lh3.googleusercontent.com/LMCHVZl47oop--c9fqUWmy8vqYAtVtlj5xR7HscMIenp3kmff96NPnYG9uNyRHbc5aq2fyK2k_Lb=w670-h453-no&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/LMCHVZl47oop--c9fqUWmy8vqYAtVtlj5xR7HscMIenp3kmff96NPnYG9uNyRHbc5aq2fyK2k_Lb=w670-h453-no&quot; alt=&quot;Submit Review&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kemudian kita tunggu hasil reviewnya. Biasanya hasilnya akan keluar dalam 1-4 jam.&lt;/p&gt;
+
+&lt;h2 id=&quot;hasil-review&quot;&gt;Hasil Review&lt;/h2&gt;
+
+&lt;p&gt;Foto yang kita upload akan diperiksa oleh tim reviewer mereka. Beberapa hal yang harus diperhatikan agar tidak ditolak:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Zoom foto ke 100% pada waktu memeriksa. Jangan dilihat sekilas saja&lt;/li&gt;
+  &lt;li&gt;Periksa apakah fotonya tajam di bagian yang penting. Misalnya foto orang, matanya harus tajam. Tidak boleh blur.&lt;/li&gt;
+  &lt;li&gt;Periksa white balance. Biasanya kalau kita foto di dalam kafe atau restoran, lampunya cenderung kuning. Edit dulu supaya benda putih benar-benar terlihat putih (color correction)&lt;/li&gt;
+  &lt;li&gt;Tidak boleh ada logo. Bila ada, silahkan hilangkan dulu. Saya sih males ngedit, jadi gak mau repot-repot. Kalau ada logo, gak usah diupload. Lain kali motret, diatur supaya gak ada logo apa-apa.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Berikut beberapa screenshot foto saya yang ditolak oleh ShutterStock. Mereka memberikan alasan penolakan, sehingga bisa kita perbaiki&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pencahayaan buruk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lh3.googleusercontent.com/NcX78ZUze32dyRVisy30iuQo7wuPZg0_5EvCfno1FpqwfNN646tvSm-tsJXZuadfEkx8HYLYN5ek=w868-h540-no&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/NcX78ZUze32dyRVisy30iuQo7wuPZg0_5EvCfno1FpqwfNN646tvSm-tsJXZuadfEkx8HYLYN5ek=w868-h540-no&quot; alt=&quot;Email Penolakan&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;White Balance salah&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lh3.googleusercontent.com/cP-wLoVuUkNMWVf-daSxhLJQk4ZDZuIEE1gwavhBsvnFUDcE87fDmLmS22gtlBk56TmpW6Mc3np7=w639-h453-no&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/cP-wLoVuUkNMWVf-daSxhLJQk4ZDZuIEE1gwavhBsvnFUDcE87fDmLmS22gtlBk56TmpW6Mc3np7=w639-h453-no&quot; alt=&quot;Poor Lighting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ada logo produk tertentu dan fokusnya kurang&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lh3.googleusercontent.com/24Q6OiTJ7CF7LuQh3RNipBUt3RDYEf0uCwcBACYY7CTiWseIatK4DzSuGzwiSgYwSsV2voklmISi=w615-h241-no&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/24Q6OiTJ7CF7LuQh3RNipBUt3RDYEf0uCwcBACYY7CTiWseIatK4DzSuGzwiSgYwSsV2voklmISi=w615-h241-no&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;aplikasi-mobile&quot;&gt;Aplikasi Mobile&lt;/h2&gt;
+
+&lt;p&gt;Selain melalui laptop, kita juga bisa langsung mengupload dari smartphone dengan aplikasi.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lh3.googleusercontent.com/RLyJ5yL65-l1FbovfQd0aZUPKe9jalsBli5FbAdAAY_puV2ZIrg1TBUvkUcNeSJS6HyFxcKTIXy7=w379-h671-no&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/RLyJ5yL65-l1FbovfQd0aZUPKe9jalsBli5FbAdAAY_puV2ZIrg1TBUvkUcNeSJS6HyFxcKTIXy7=w379-h671-no&quot; alt=&quot;Aplikasi Mobile&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;beberapa-tips-dan-trik&quot;&gt;Beberapa Tips dan Trik&lt;/h2&gt;
+
+&lt;p&gt;Ada beberapa kiat-kiat yang berhasil saya kumpulkan dari berbagai sumber. Benar atau tidaknya, apakah masih relevan saat ini, saya sendiri belum membuktikan. Silahkan para pembaca membuktikannya sendiri:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;banyak melihat foto-foto stok yang digunakan orang agar ada referensi&lt;/li&gt;
+  &lt;li&gt;pada saat memotret, rencanakan untuk diupload, sehingga sudah bisa langsung memenuhi kriteria&lt;/li&gt;
+  &lt;li&gt;buat foto sesuai trend untuk mendapatkan income musiman&lt;/li&gt;
+  &lt;li&gt;buat foto yang bisa mengilustrasikan suatu ide, tapi tidak terlalu menarik perhatian&lt;/li&gt;
+  &lt;li&gt;buat foto yang tidak memerlukan banyak pengolahan lagi dan bisa langsung dipakai (ditambah tulisan atau dipasang di slide presentasi, brosur, atau website)&lt;/li&gt;
+  &lt;li&gt;buat foto sesuai keinginan pasar, lihat apa yang laku, kemudian buat yang sama. We’re doing business here, not pursuing idealism :D&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;referensi&quot;&gt;Referensi&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.michaeljayfoto.com/beginners-guide/how-to-make-200-from-shutterstock-istockphoto-or-fotolia/&quot;&gt;Cara Mendapatkan Uang dari Stock Photo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.michaeljayfoto.com/agency-news/from-zero-to-100-a-month-with-microstock-in-2016/&quot;&gt;Memaksimalkan pendapatan dari stock photo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pXW-r62YOfQ&quot;&gt;Video : Cara Membuat Stock Photo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Vg3j-4tkGf4&quot;&gt;Video : 13 Tips Stock Photo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><summary type="html">Stock Photo</summary></entry><entry><title type="html">Alienco Photography</title><link href="http://localhost:4000/review/alienco-photography/" rel="alternate" type="text/html" title="Alienco Photography" /><published>2014-10-28T20:51:17+07:00</published><updated>2014-10-28T20:51:17+07:00</updated><id>http://localhost:4000/review/alienco-photography</id><content type="html" xml:base="http://localhost:4000/review/alienco-photography/">&lt;p&gt;Memilih fotografer untuk peristiwa penting semisal pernikahan adalah pekerjaan yang memusingkan. Apalagi di jaman sekarang, harga kamera terus turun menjadi semakin murah. Kualitas gambar yang dihasilkan juga semakin bagus. Bahkan kamera DSLR yang paling murah, kualitas gambarnya sudah lebih dari cukup bila ingin sekedar tampil di media sosial. Dengan semakin murahnya harga kamera, banyak orang kemudian merasa bisa menangani event penting sekelas pernikahan. Padahal, fotografi hobi sangat berbeda dengan fotografi profesional.&lt;/p&gt;
+
+&lt;p&gt;Pada artikel kali ini, kita akan membahas salah satu fotografer yang aktif dalam komunitas fotografi yang saya ikuti, yaitu &lt;a href=&quot;http://alienco.net/&quot;&gt;Alienco Photography&lt;/a&gt;. Alienco Photography dimotori oleh Ali Umar. Awalnya bekerja sebagai karyawan bank, tapi kemudian banting setir menjadi full time photographer.&lt;/p&gt;
+
+&lt;p&gt;Dengan mengamati hasil foto Alienco, kita bisa belajar bagaimana memilih fotografer yang tepat untuk dipercayakan menangani peristiwa penting kita yang tidak mungkin terulang lagi.&lt;/p&gt;
+
+&lt;p&gt;Ada banyak kriteria yang bisa digunakan kalau kita ingin memilih fotografer untuk mengabadikan peristiwa penting kita seperti misalnya pernikahan, wisuda, dan lain sebagainya. Beberapa kriteria tersebut diantaranya :&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;jam-terbang-dan-pengalaman&quot;&gt;Jam terbang dan pengalaman&lt;/h2&gt;
+
+&lt;p&gt;Kita tentu tidak ingin ada momen penting yang terlewat karena fotografernya tidak paham mana momen penting dan mana yang tidak. Kita juga ingin sang fotografer paham urut-urutan acara yang akan terjadi, sehingga dia bisa mengantisipasi dan mengambil posisi yang bagus pada saat acara berlangsung&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2014/alienco/IMG_87911.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dengan jam terbang yang tinggi, fotografer bisa mengetahui momen di mana terjadi interaksi emosional yang wajib diabadikan.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2014/alienco/IMG_88781.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;kreatifitas&quot;&gt;Kreatifitas&lt;/h2&gt;
+
+&lt;p&gt;Kita tentu ingin foto kita unik dan berbeda dengan orang lain. Pada waktu ada tamu datang ke rumah dan kita tunjukkan foto-foto kita, jangan sampai tamu tersebut berpikir, “Wah kok ini posenya mirip dengan foto kita di rumah ya”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2014/alienco/IMG_4366.jpg&quot; alt=&quot;  &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kalau fotografernya kreatif, dia bisa menghasilkan foto-foto yang berbeda dan unik, diambil dari berbagai angle yang tidak biasa.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2014/alienco/LIMG_8718.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;kemampuan-teknis&quot;&gt;Kemampuan Teknis&lt;/h2&gt;
+
+&lt;p&gt;Ada banyak teknik dalam fotografi. Kita tentu ingin fotografer yang kita pekerjakan menguasai berbagai teknik fotografi sehingga hasil fotonya bagus dan bervariasi.&lt;/p&gt;
+
+&lt;p&gt;Misalnya sudut pengambilan gambar&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2014/alienco/puput1-19.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Komposisi&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2014/alienco/dita.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pemilihan waktu yang tepat supaya hasil fotonya bagus&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2014/alienco/foto-prewedding-14.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Juga teknik penggunaan lampu kilat (flash)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2014/alienco/dance.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;profesionalisme&quot;&gt;Profesionalisme&lt;/h2&gt;
+
+&lt;p&gt;Semua hal di atas tidak ada gunanya bila perilaku selama bekerja tidak profesional. Bagaimana fotonya mau bagus kalau fotografer datang terlambat. Bisa-bisa subjeknya keburu bete dan cemberut selama sesi foto.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2014/alienco/testi2.png&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Urusan profesionalisme ini tentu paling tepat diceritakan oleh customer yang sudah pernah menggunakan jasa fotografer. Jadi jangan malas untuk mencari &lt;a href=&quot;http://discussion.weddingku.com/discussionclass.asp?zona=JKT&amp;amp;discussionID=1250818&amp;amp;discussionTypeID=7&quot;&gt;review di internet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2014/alienco/testi1.png&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;harga&quot;&gt;Harga&lt;/h2&gt;
+
+&lt;p&gt;Nah, faktor terakhir tentu saja apakah fee fotografer sesuai dengan budget yang kita miliki. Untuk event pernikahan, biasanya fotografer sudah satu paket dengan katering. Coba negosiasikan berapa potongan harga yang kita dapatkan bila fotografer kita sediakan sendiri.&lt;/p&gt;
+
+&lt;h2 id=&quot;kesimpulan&quot;&gt;Kesimpulan&lt;/h2&gt;
+
+&lt;p&gt;Demikian sekilas sharing tentang memilih fotografer untuk mengabadikan event kita, sekaligus review singkat tentang Alienco Photograpy. Bila ingin menghubungi Alienco, silahkan langsung ke&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Contact Person : RENNY&lt;/li&gt;
+  &lt;li&gt;Call/Wa : 08128464361&lt;/li&gt;
+  &lt;li&gt;BBM : 27c6be20&lt;/li&gt;
+  &lt;li&gt;Email : alienco.photography@gmail.com&lt;/li&gt;
+  &lt;li&gt;Website : http://www.alienco.net&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Catatan : semua foto di atas merupakan hasil karya Alienco Photography dan digunakan dengan ijin dari pemiliknya. Hak cipta foto ada pada Alienco Photography.&lt;/p&gt;
+&lt;/blockquote&gt;</content><summary type="html">Memilih fotografer untuk peristiwa penting semisal pernikahan adalah pekerjaan yang memusingkan. Apalagi di jaman sekarang, harga kamera terus turun menjadi semakin murah. Kualitas gambar yang dihasilkan juga semakin bagus. Bahkan kamera DSLR yang paling murah, kualitas gambarnya sudah lebih dari cukup bila ingin sekedar tampil di media sosial. Dengan semakin murahnya harga kamera, banyak orang kemudian merasa bisa menangani event penting sekelas pernikahan. Padahal, fotografi hobi sangat berbeda dengan fotografi profesional.</summary></entry><entry><title type="html">Subject Isolation</title><link href="http://localhost:4000/teknik/subject-isolation/" rel="alternate" type="text/html" title="Subject Isolation" /><published>2013-12-20T14:55:00+07:00</published><updated>2013-12-20T14:55:00+07:00</updated><id>http://localhost:4000/teknik/subject-isolation</id><content type="html" xml:base="http://localhost:4000/teknik/subject-isolation/">&lt;p&gt;Hal terpenting dalam suatu foto tentulah subjek atau &lt;em&gt;point of interest&lt;/em&gt;. Subjek ini bisa bermacam-macam, misalnya:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;orang: misalnya portrait, foto keluarga, foto pernikahan&lt;/li&gt;
+  &lt;li&gt;suasana: misalnya kemacetan, ketenangan, sepi, ramai&lt;/li&gt;
+  &lt;li&gt;benda: misalnya foto produk, makanan&lt;/li&gt;
+  &lt;li&gt;dan masih banyak lagi lainnya&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tantangan kita sebagai fotografer adalah membuat subjek tersebut terlihat dengan jelas (isolated) dan tidak bercampur dengan benda-benda lain yang ikut dalam foto, sehingga orang yang melihat foto bisa tahu apa yang ingin kita tampilkan dalam foto tersebut. Ini disebut dengan istilah &lt;strong&gt;subject isolation&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pada artikel ini, kita akan membahas beberapa teknik subject isolation, yaitu:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;menggunakan focus&lt;/li&gt;
+  &lt;li&gt;menggunakan warna&lt;/li&gt;
+  &lt;li&gt;menggunakan posisi / ukuran&lt;/li&gt;
+  &lt;li&gt;menggunakan cahaya&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;a name=&quot;isolation-by-focus&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;menggunakan-focus&quot;&gt;Menggunakan Focus&lt;/h1&gt;
+
+&lt;p&gt;Ini adalah cara termudah. Kita cukup menggunakan lensa dengan bukaan lebar seperti f/2 atau lebih lebar. Dengan bukaan lebar, yang terlihat tajam hanya jarak tertentu dari lensa. Lebih jauh atau dekat dari jarak tersebut, langsung menjadi blur.&lt;/p&gt;
+
+&lt;p&gt;Mata manusia secara alami akan tertarik pada bagian yang tajam dan mengabaikan bagian yang blur. Dengan demikian, apabila kita letakkan subjek pada bagian tajam, dia akan mendapatkan perhatian utama.&lt;/p&gt;
+
+&lt;p&gt;Berikut contohnya&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7353/11385607474_f3ee68fe3a_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pada foto di atas, terlihat bahwa yang tajam hanya wajah subjek. Suasana di sekelilingnya tidak jelas (blur). Dengan demikian, mata pemirsa tidak punya pilihan lain selain mencermati wajah subjek.&lt;/p&gt;
+
+&lt;p&gt;Perhatikan contoh berikut ini&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3670/9380431077_9c0c7671ae_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pada foto di atas, kita memiliki dua subjek, yaitu subjek utama yang berada di depan dan subjek pendukung yang ada di belakang. Mata pemirsa akan tertarik ke subjek yang di depan karena lebih tajam. Pemirsa akan melihat tampang subjek utama yang jutek, kemudian menyimpulkan bahwa suasana hatinya sedang tidak bagus. Kemudian pemirsa akan melihat subjek kedua di latar belakang yang agak blur dan bisa menyimpulkan, “Mungkin mereka sedang bertengkar”. Dari benda yang dipegang subjek (pesawat mainan dan pesawat kertas), kita bisa mengira-ngira bahwa mereka memperebutkan pesawat tersebut.&lt;/p&gt;
+
+&lt;p&gt;Mari kita lihat foto ketiga&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm3.staticflickr.com/2882/10718508205_738f886fa1_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kalau kita perhatikan dengan seksama, di latar belakang ada colokan listrik dan kotak berwarna merah dan hijau. Seandainya semuanya tajam, maka subjek kita akan tercampur dengan benda-benda tersebut dan tidak terlihat menonjol.&lt;/p&gt;
+
+&lt;p&gt;Sekarang, kita lihat foto yang &lt;em&gt;kurang benar&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm3.staticflickr.com/2827/11459342373_e64d463467_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pada foto di atas, terlihat bahwa semua benda dalam foto, baik anak yang sedang lari, rangka-rangka kayu, dan pohon di background semua relatif sama tajam. Coba kita tanyakan, “Apa subjek dari foto tersebut?” Kurang jelas bukan? Apakah kita ingin menampilkan anak-anak? Atau mungkin rangka-rangka kayu yang bentuknya tidak lazim?&lt;/p&gt;
+
+&lt;p&gt;Memisahkan subjek menggunakan focus bisa dibilang cara yang paling mudah. Cukup dengan membeli lensa berbukaan lebar (harganya berkisar 800 ribu - 1,5 juta) semua orang bisa membuat foto seperti di atas. Bila tidak bisa menggunakan lensa (kameranya tidak bisa ganti lensa seperti kamera pocket atau kamera handphone), kita bisa siasati dengan meletakkan subjek sedekat mungkin dari kamera &lt;strong&gt;dan&lt;/strong&gt; sejauh mungkin dari latar belakang.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;isolation-by-color&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;menggunakan-warna&quot;&gt;Menggunakan Warna&lt;/h1&gt;
+
+&lt;p&gt;Warna cerah akan menarik perhatian kita. Konon ini adalah insting alami kita yang dibawa sejak jaman prasejarah dulu, untuk menyelamatkan kita dari benda-benda beracun dan berbahaya. Perhatikan foto berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3667/10433010455_cc16486e79_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kita dengan mudah menentukan bahwa subjeknya adalah anak yang sedang bermain pasir. Selain karena posisinya paling dekat, warna bajunya juga terlihat mencolok dibandingkan dengan pasir dan aspal di sekelilingnya.&lt;/p&gt;
+
+&lt;p&gt;Bandingkan dengan foto berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7452/11459853086_817f52cbe1_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kita sulit menentukan subjek pada foto di atas, karena terlalu banyak warna-warni yang berebut perhatian.&lt;/p&gt;
+
+&lt;p&gt;Setelah memahami pengaruh warna untuk memisahkan subjek, kita bisa mengatur pemilihan kostum sebelum berangkat foto-foto. Bila kita pergi ke tempat yang banyak pohon, misalnya Kebun Raya Bogor, jangan pakai warna hijau atau kuning, karena akan tercampur dengan pohon dan rumput yang warnanya hijau. Pilih warna komplementer dari hijau yaitu merah atau ungu. Warna komplementer adalah warna yang berseberangan di color wheel. Lebih lanjut bisa &lt;a href=&quot;http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm&quot;&gt;dibaca di sini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/12/subject-isolation/complementary-color.gif&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aplikasinya bisa dilihat di foto berikut.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3741/10512716334_db324989b5_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Perhatikan bahwa jilbab ungu terlihat menonjol di depan latar hijau.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;isolation-by-position&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;posisi--ukuran&quot;&gt;Posisi / Ukuran&lt;/h1&gt;
+
+&lt;p&gt;Benda yang terlihat besar terkesan dekat dengan kita. Dan benda yang lebih dekat cenderung menarik perhatian. Konon, ini juga merupakan insting prasejarah, dimana kita harus waspada dengan binatang buas yang dekat dengan kita.&lt;/p&gt;
+
+&lt;p&gt;Perhatikan foto berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5483/11448077314_612a6055a8_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jelas bahwa subjeknya adalah tong sampah, karena ukurannya begitu besar dibandingkan dengan benda-benda lain dalam foto. Bandingkan dengan foto berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm3.staticflickr.com/2809/11433200104_53699cf2f7_o_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Terlihat bahwa emua benda dalam foto berukuran relatif sama besar sehingga kita sulit menentukan yang mana subjek utama.&lt;/p&gt;
+
+&lt;p&gt;Perhatikan foto selanjutnya&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7421/9989979624_29f49f511c_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dalam frame di atas, kita melihat ada dua orang. Kita bisa menentukan bahwa subjek utama adalah anak berpakaian pink dan subjek pendukung adalah orang berpakaian putih. Subjek utama terlihat dengan jelas karena diperkuat menggunakan kombinasi berbagai teknik di atas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;warna pakaian pink, komplementer dengan hijaunya tulisan starbuck dan tembok berwarna abu-abu. Subjek pendukung menggunakan pakaian putih sehingga tidak terlalu menarik perhatian&lt;/li&gt;
+  &lt;li&gt;subjek utama tajam (focus) dan subjek pendukung blur&lt;/li&gt;
+  &lt;li&gt;ukuran subjek utama lebih besar daripada subjek pendukung, mengesankan posisinya lebih dekat, sehingga lebih menarik perhatian&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&quot;isolation-by-light&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;menggunakan-cahaya&quot;&gt;Menggunakan Cahaya&lt;/h1&gt;
+
+&lt;p&gt;Teknik terakhir ini relatif sulit, karena mengharuskan kita untuk mengasah kepekaan terhadap cahaya di sekeliling kita. Kepekaan ini harus dilatih terus menerus supaya semakin tajam.&lt;/p&gt;
+
+&lt;p&gt;Mata manusia secara alami akan tertarik ke bagian yang lebih terang dalam foto. Oleh karena itu, untuk menonjolkan subjek utama, kita buat dia menjadi lebih terang.&lt;/p&gt;
+
+&lt;p&gt;Kita mulai dengan contoh yang relatif ekstrim.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7351/9330424261_9146d4b759_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Saya menggunakan lampu kilat yang difokuskan untuk mengarahkan perhatian ke anak-anak yang sedang bermain gadget. Perhatian kita akan segera tertuju ke bagian terang. Setelah kita mengamati bagian terang, kita akan menyadari bahwa ada subjek pendukung di bagian gelap sebelah kanan. Dia terlihat sendiri memegang smartphone dan tidak ikut dalam kegembiraan bersama rekan-rekannya di bagian terang sebelah kiri. Dari tampangnya yang galau, kita jadi bertanya-tanya apa yang terjadi, mengapa dia main sendiri, mengapa dia terlihat sedih, dan seterusnya.&lt;/p&gt;
+
+&lt;p&gt;Dalam foto di atas, saya membuat latarnya sangat gelap, sehingga lokasi tempat kejadian tidak terlihat. Ini karena lokasinya tidak penting, jika ditampilkan justru akan menambah ramai foto tanpa ada nilai tambah.&lt;/p&gt;
+
+&lt;p&gt;Tapi ada kondisi di mana lokasi juga berperan untuk menambah cerita dalam foto, sehingga kita harus tampilkan juga. Tapi harus diperhatikan jangan sampai terlalu menarik perhatian sehingga mengganggu subjek utama. Perhatikan contoh berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5536/10663109326_760248c922_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Subjek utama jelas, pakaiannya putih sehingga terlihat paling terang. Sekelilingnya agak gelap, sehingga tidak berebut perhatian. Kalau kita lihat dengan teliti, ada cahaya dari belakang, sehingga memisahkan bahu, kepala, dan telinga dari latar belakangnya. Lokasi sekitarnya jelas terlihat, yaitu dapur. Tapi karena lebih gelap dari subjek, maka tidak terlalu berebut perhatian dengan subjek utama. Ada kekurangan di foto ini, yaitu kisi-kisi yang terlalu terang di kiri atas dekat penggorengan. Kita bisa menggelapkannya pada fase post-processing menggunakan Photoshop atau Gimp.&lt;/p&gt;
+
+&lt;p&gt;Selanjutnya, mari kita lihat contoh yang &lt;em&gt;‘salah’&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7298/11460819116_a7c8d09a15_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pada foto di atas, langitnya terlihat terlalu terang, sehingga mengalihkan perhatian kita dari model. Untuk mengatasinya, kita buat langit dan latar belakangnya &lt;em&gt;underexposed&lt;/em&gt; sehingga terlihat lebih gelap. Kemudian kita terangi modelnya menggunakan flash supaya lebih terang dan menarik perhatian. Hasilnya seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3783/11385182353_6e70d25071_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nah, terlihat lebih baik kan? Sekarang subjek utama terlihat dengan jelas, dan latarnya berperan sebagai pemanis dan pendukung saja. Berbeda dengan foto sebelumnya dimana latar terlihat sangat dominan sehingga mengganggu subjek utama.&lt;/p&gt;
+
+&lt;p&gt;Satu contoh lagi.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm3.staticflickr.com/2871/11324666586_0f36aae35a_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Perhatikan bahwa pandangan mata kita akan tertarik pada penjual ikan yang tajam dan berada di depan. Setelah itu berlanjut ke orang yang diterangi lampu biru. Kemudian pindah ke orang berbaju merah yang blur.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;isolation-merging&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;merging&quot;&gt;Merging&lt;/h1&gt;
+
+&lt;p&gt;Setelah bersusah payah memisahkan subjek dengan berbagai cara di atas, kita juga harus menghindari terjadinya &lt;em&gt;merging&lt;/em&gt;, yaitu subjek tercampur dengan benda lain yang tidak diinginkan. Merging bisa terjadi dalam beberapa bentuk diantaranya tumpukan dan clipping.&lt;/p&gt;
+
+&lt;p&gt;Contoh tumpukan yang paling populer adalah pohon tumbuh di kepala orang seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh5.googleusercontent.com/-7gO-8X5pM_g/UrRaVJqSS4I/AAAAAAAADSI/yttFv2fAN4o/w265-h400-no/DSC_8765.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Contoh lain, pada foto berikut antar orang saling bertumpukan sehingga tidak jelas mana subjek ataupun maksud dari fotonya.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh3.googleusercontent.com/-1QG5OVwY4n4/UqRu0kwXmLI/AAAAAAAACx8/p9NSaWqujeU/w909-h602-no/DSC_8728.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bandingkan dengan foto berikut, yang walaupun masih terjadi tumpukan, tapi masing-masing orang masih bisa dipisahkan dengan jelas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7449/11268859536_a120345143_b_d.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Merging tidak selalu untuk objek yang besar. Kadangkala kabel atau tali bisa juga mengganggu, seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh6.googleusercontent.com/-OYm7u98ftIA/UrzlCS7oCtI/AAAAAAAADTo/Jg5mxrJl6Nw/w869-h576-no/DSC_9498.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dengan bergeser sedikit ke kanan, kita bisa mengurangi merging. Berikut hasilnya&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh4.googleusercontent.com/-XYRCelCZnEs/UrzlBfjTtBI/AAAAAAAADTc/NQepG2DqiHw/w909-h541-no/DSC_9497.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Atau kita bisa menunggu subjek berpindah ke tempat yang lebih &lt;em&gt;clean&lt;/em&gt; sehingga bebas dari objek yang mengganggu&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh5.googleusercontent.com/-Q_HHqTTut5g/UrzlBQDL84I/AAAAAAAADTY/3ckPTKW8lCc/w869-h576-no/DSC_9496.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ketiga foto di atas diambil di tempat yang sama. Hanya fotografer dan subjeknya saja yang bergeser sedikit (kurang dari satu meter). Perhatikan bahwa hanya dengan bergeser sedikit saja, hasil foto kita bisa menjadi jauh lebih baik.&lt;/p&gt;
+
+&lt;p&gt;Selanjutnya, clipping. Yaitu dynamic range tidak lagi mampu menampung data karena perbedaan terang-gelap terlalu jauh. Lihat contoh berikut, dimana jilbab putih tidak bisa dibedakan lagi dengan langitnya.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2013/11/exposure-metering/highlight-clipping.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lebih detail tentang dynamic range, clipping, dan cara mengatasinya bisa disimak &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;di artikel terdahulu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Berikut kasus yang tidak se-ekstrim clipping. Di foto berikut, perbedaan antara subjek dan latar tidak terlalu signifikan (sama-sama gelap), sehingga tidak menghasilkan isolation yang cukup.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh6.googleusercontent.com/-VdtXRpQwXsY/UrzlBHOjlGI/AAAAAAAADTg/nb_BmLh0S0U/w908-h408-no/DSC_9375.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Solusinya, kita bisa menambahkan flash di rambut subjek supaya terang dan terpisah dari latarnya.&lt;/p&gt;
+
+&lt;h1 id=&quot;kesimpulan&quot;&gt;Kesimpulan&lt;/h1&gt;
+
+&lt;p&gt;Kita tentu ingin foto yang kita buat menarik perhatian pemirsa dan apa yang ingin kita sampaikan bisa ditangkap dengan jelas oleh yang melihatnya. Untuk itu, kita bisa memainkan beberapa variabel berikut untuk mendapatkan &lt;em&gt;subject isolation&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;bagian tajam (focus) dan bagian blur&lt;/li&gt;
+  &lt;li&gt;warna&lt;/li&gt;
+  &lt;li&gt;posisi dan ukuran&lt;/li&gt;
+  &lt;li&gt;cahaya&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Variabel mana yang kita gunakan ditentukan situasi dan kondisi pada saat kita mengambil foto. Pada waktu kita hanya memegang kamera handphone, maka tentu sulit bagi kita untuk memburamkan latar belakang. Kita harus pilih cara lain misalnya dengan menggunakan cahaya ataupun posisi subjek. Bila cahayanya pun kurang mendukung, kita bisa memindahkan subjek ke tempat yang warna latarnya komplementer dengan pakaian subjek, sehingga subjek bisa terlihat dominan.&lt;/p&gt;
+
+&lt;p&gt;Dan yang paling penting dari semuanya, sering-seringlah berlatih agar teknik-teknik menjadi refleks dan bisa digunakan dengan cepat tanpa harus banyak berpikir.&lt;/p&gt;</content><summary type="html">Hal terpenting dalam suatu foto tentulah subjek atau point of interest. Subjek ini bisa bermacam-macam, misalnya:</summary></entry><entry><title type="html">Memahami Lensa</title><link href="http://localhost:4000/gears/memahami-lensa/" rel="alternate" type="text/html" title="Memahami Lensa" /><published>2013-11-19T23:01:00+07:00</published><updated>2013-11-19T23:01:00+07:00</updated><id>http://localhost:4000/gears/memahami-lensa</id><content type="html" xml:base="http://localhost:4000/gears/memahami-lensa/">&lt;p&gt;Kalau kita ikut di komunitas fotografi, baik itu grup Facebook, milis, forum internet, kaskus, atau apapun yang lainnya, seminggu sekali kita akan menemui pertanyaan klasik ini&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Saya ingin membeli lensa. Lensa apa ya yang bagus?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dan biasanya selalu diikuti dengan tanggapan klasik juga&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tergantung budget&lt;/li&gt;
+  &lt;li&gt;tergantung lensa apa yang sudah dimiliki&lt;/li&gt;
+  &lt;li&gt;tergantung jenis fotografi apa yang diminati&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Masalahnya, si penanya biasanya tidak tahu apa perbedaan satu lensa dengan yang lain. Pastinya, spesifikasi dan harganya beda. Tapi apa pengaruhnya terhadap hasil foto? Mari kita bahas.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Ada beberapa variabel lensa yang menentukan karakteristiknya:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;focal length&lt;/li&gt;
+  &lt;li&gt;aperture&lt;/li&gt;
+  &lt;li&gt;stabilisasi&lt;/li&gt;
+  &lt;li&gt;merek&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&quot;focal-length&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;focal-length&quot;&gt;Focal Length&lt;/h1&gt;
+
+&lt;p&gt;Faktor utama yang membedakan lensa satu dan lainnya adalah focal length atau panjang fokus. Kita sering mendengar istilah lensa &lt;code class=&quot;highlighter-rouge&quot;&gt;35mm&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;50mm&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;18-55&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;70-200&lt;/code&gt;, dan sebagainya. Angka-angka tersebut adalah panjang fokus lensa dalam satuan milimeter (mm).&lt;/p&gt;
+
+&lt;p&gt;Berdasarkan focal length, lensa dikelompokkan menjadi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;normal : lensa yang sudut pandangnya mirip dengan mata kita. Focal length lensa normal adalah &lt;a href=&quot;http://en.wikipedia.org/wiki/Normal_lens&quot;&gt;50mm di kamera 35mm (full frame), atau 35mm di kamera APS-C / DX format&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;wide : lensa yang focal lengthnya lebih kecil dari lensa normal&lt;/li&gt;
+  &lt;li&gt;tele : lensa yang focal lengthnya lebih besar dari lensa normal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apa bedanya focal length satu dengan lainnya?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Focal length lensa akan menentukan:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;perspektif&lt;/li&gt;
+  &lt;li&gt;distorsi&lt;/li&gt;
+  &lt;li&gt;ukuran&lt;/li&gt;
+  &lt;li&gt;harga&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&quot;perspektif&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;perspektif&quot;&gt;Perspektif&lt;/h2&gt;
+
+&lt;p&gt;Perspektif di sini maksudnya adalah sudut pandang (angle of view) lensa. Lensa wide sudut pandangnya lebar sedangkan lensa tele sudut pandangnya sempit. Untuk melihat sudut pandang lensa, kita bisa gunakan &lt;a href=&quot;http://imaging.nikon.com/lineup/lens/simulator/&quot;&gt;simulator yang disediakan Nikon&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Kita bisa lihat perspektif lensa wide&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh4.googleusercontent.com/-aqquycWCS18/Uotxw_AfogI/AAAAAAAACSI/7xO7DyGJpfw/s800/simulator-wide-angle.png&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;dan perspektif lensa tele&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh6.googleusercontent.com/-JwDPOYBP0Fo/Uotxv1GoUnI/AAAAAAAACSA/MjWnW4Qt5jU/s800/simulator-tele-angle.png&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Di simulator tersebut, kita bisa menggeser-geser slider untuk mengubah focal length dan melihat efeknya terhadap sudut pandang.&lt;/p&gt;
+
+&lt;p&gt;Selain masalah jauh dekat, dalam melihat perspektif kita juga mempertimbangkan faktor kompresi. Lensa tele akan membuat jarak subjek ke latar terlihat dekat. Sebaliknya, lensa wide akan membuat subjek terlihat jauh dari latar. Bandingkan foto dengan ukuran subjek yang sama jika dibuat dengan lensa tele berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh4.googleusercontent.com/-ImuGO1_drY4/UotxqBVjjwI/AAAAAAAACRw/2zeQa7UtoN4/s800/DSC_7395.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;dan foto yang sama, dibuat menggunakan lensa wide&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh4.googleusercontent.com/-lHpAXtPGR1Y/Uotxtfve8kI/AAAAAAAACR4/RHvHd6AFNoI/s800/DSC_7398.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Perhatikan ukuran latar belakang, dan juga sudut pandang di kiri dan kanan subjek. Mendekatnya latar ke subjek biasa disebut dengan istilah kompresi perspektif (perspective compression). Sebaliknya, latar yang jauh dari subjek disebut dengan istilah kedalaman perspektif (perspective depth).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lalu kapan kita pakai wide dan kapan pakai tele?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dengan mempertimbangkan perspektif, kita gunakan tele biasanya pada waktu&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ingin memotret benda yang jauh, dimana kita sulit untuk mendekat&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7445/10512710054_2d36c85f7e_c.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ingin menyederhanakan portrait supaya latarnya tidak terlalu &lt;em&gt;ramai&lt;/em&gt; dan mengganggu subjek. Dengan sudut pandang sempit, berarti semakin sedikit latar yang masuk ke dalam foto, sehingga lebih mudah &lt;em&gt;membuang&lt;/em&gt; benda-benda yang mengganggu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm3.staticflickr.com/2839/10129026945_2bb85b5caf_c.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kita gunakan wide angle biasanya untuk&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;mengambil foto orang ramai. Dengan sudut pandang lebar, posisi kamera tidak perlu mundur terlalu jauh, sehingga mudah memotret di tempat yang sempit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh5.googleusercontent.com/-SRcEW4-YCRI/Uoi-mguljrI/AAAAAAAACNQ/WXTpJYpDiL4/s800/DSC_7805.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;membuat environmental portrait (portrait orang beserta lingkungannya). Portrait seperti ini lebih menarik daripada portrait dengan latar sederhana, karena lebih banyak cerita dalam satu frame foto&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;distorsi&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;distorsi&quot;&gt;Distorsi&lt;/h2&gt;
+
+&lt;p&gt;Lensa wide cenderung menimbulkan distorsi. Semakin wide, distorsi semakin besar. Perhatikan portrait yang diambil dengan lensa wide berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh6.googleusercontent.com/-Qe2V_bRWEqI/UoWVppAqbNI/AAAAAAAACFA/GscR9Na4Vvs/wide-angle-low-iso.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;dan foto berikut dengan komposisi mirip tapi focal length berbeda&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh5.googleusercontent.com/-b5AT_D1Ic34/UoWVmQy6rzI/AAAAAAAACFA/FyT6TRTPbk8/tele-angle-low-iso.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Karena faktor distorsi tersebut, umumnya kita lebih memilih lensa tele untuk membuat foto orang, supaya ukuran tubuhnya proporsional. Tidak menjadi &lt;em&gt;Hobbit&lt;/em&gt; seperti pada foto di atas.&lt;/p&gt;
+
+&lt;p&gt;Lebih lanjut mengenai perspektif lensa, bisa disimak di video berikut:&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/t3A3SnPFPk0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;ukuran-dan-harga&quot;&gt;Ukuran dan Harga&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apa kaitannya focal length dengan ukuran dan harga?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lensa normal biasanya ukurannya kecil dan harganya murah. Semakin wide, diameter lensa biasanya semakin besar dan sulit membuatnya. Ini menyebabkan harganya menjadi mahal.&lt;/p&gt;
+
+&lt;p&gt;Semakin tele, lensa biasanya semakin panjang dan berat. Harga tentu saja menyesuaikan. Pada saat artikel ini ditulis, &lt;a href=&quot;http://www.bhinneka.com/products/sku00308618/nikon_af-s_600mm_f_4g_ed_vr.aspx&quot;&gt;lensa Nikon 600mm&lt;/a&gt; panjangnya hampir setengah meter, bobotnya lima kilogram lebih, dan harganya 115 juta rupiah.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;prime-vs-zoom&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;prime-vs-zoom&quot;&gt;Prime vs Zoom&lt;/h2&gt;
+
+&lt;p&gt;Ada lensa yang focal length bisa diubah-ubah, disebut dengan istilah lensa zoom. Ada juga yang hanya memiliki satu focal length, disebut dengan istilah lensa prime.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lebih baik mana prime atau zoom?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mengenai hal ini, pendapat orang berbeda-beda, bahkan juga di kalangan profesional. Ada yang fanatik terhadap prime, ada juga yang mendewakan zoom. Tidak penting kubu mana yang akan Anda ikuti, masing-masing punya kelebihan.&lt;/p&gt;
+
+&lt;p&gt;Keunggulan lensa prime :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;lensa prime lebih mudah dibuat, sehingga&lt;/li&gt;
+  &lt;li&gt;harganya lebih murah&lt;/li&gt;
+  &lt;li&gt;pada level harga yang sama, kualitas prime lebih baik&lt;/li&gt;
+  &lt;li&gt;konstruksinya sederhana, sehingga bobot dan ukuran lebih ringan dan kecil&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Keunggulan lensa zoom :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;satu lensa banyak focal length, sehingga&lt;/li&gt;
+  &lt;li&gt;tidak perlu bawa banyak lensa. Cukup bawa satu bisa mendapat banyak perspektif.&lt;/li&gt;
+  &lt;li&gt;tidak repot gonta-ganti lensa, sehingga lebih tenang dalam menangkap momen.&lt;/li&gt;
+  &lt;li&gt;tidak perlu beli banyak lensa. Walaupun harga zoom lebih mahal, tapi bisa jadi lebih murah dibandingkan harus membeli beberapa lensa prime untuk mendapatkan beberapa focal length.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Walaupun fleksibel, jangan sampai lensa zoom membuat Anda menjadi malas. Kesalahan yang umum dilakukan orang adalah mengambil posisi dulu, angkat kamera ke depan muka, baru membuat komposisi dengan zoom. Cara kerja seperti ini akan membuat foto kita berkualitas &lt;em&gt;snapshot&lt;/em&gt;. Tentu keindahannya akan berbeda dengan foto yang direncanakan dan dipersiapkan dengan serius.&lt;/p&gt;
+
+&lt;p&gt;Cara kerja yang lebih tepat adalah:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Bayangkan komposisi yang diinginkan di imajinasi kita. Tentukan hubungan subjek dengan latarnya. Apakah kita ingin mengambil banyak latar? Apakah kita ingin membuat latar terlihat dekat dengan subjek?&lt;/li&gt;
+  &lt;li&gt;Tentukan focal length yang perspektifnya sesuai untuk membuat foto sesuai imajinasi kita di langkah sebelumnya. Untuk lensa prime, kita mungkin perlu mengganti lensa di tahap ini. Pengguna zoom tinggal memutar lensa ke focal length yang diinginkan.&lt;/li&gt;
+  &lt;li&gt;Ambil posisi yang sesuai dengan komposisi dan focal length yang dipilih.&lt;/li&gt;
+  &lt;li&gt;Terakhir, setting kamera sesuai keinginan, tunggu momen, jepret.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Lebih jelasnya bisa disimak di video berikut.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HG-vPzrEONM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;pilihan-pribadi&quot;&gt;Pilihan Pribadi&lt;/h2&gt;
+
+&lt;p&gt;Saya sendiri hanya punya lensa prime 35mm dan 85mm. Dua lensa ini sudah cukup untuk kebutuhan sehari-hari. Kalau ada acara piknik ke taman safari yang membutuhkan lensa 300mm, kita bisa sewa saja satu-dua hari. Toh piknik ke taman safari belum tentu setahun sekali.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apa tidak takut kehilangan momen karena sibuk ganti lensa?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sebetulnya hanya masalah penyesuaian cara kerja saja. Workflow memotret dengan prime berbeda dengan zoom. Kalau kita menggunakan prime, kita harus mengantisipasi momen, mengatur komposisi, dan mengambil posisi sebelum momen terjadi.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;aperture&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;aperture&quot;&gt;Aperture&lt;/h1&gt;
+
+&lt;p&gt;Aperture adalah lubang bukaan di lensa. 
+Nilai aperture dinyatakan dalam &lt;code class=&quot;highlighter-rouge&quot;&gt;f/&lt;/code&gt;, misalnya &lt;code class=&quot;highlighter-rouge&quot;&gt;f/2&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;f/4&lt;/code&gt;, dan sebagainya. Besaran ini menunjukkan diameter bukaan. Contohnya: &lt;code class=&quot;highlighter-rouge&quot;&gt;f/2&lt;/code&gt; di lensa 50mm diameter bukaannya adalah 25mm. Nilai yang sama &lt;code class=&quot;highlighter-rouge&quot;&gt;f/2&lt;/code&gt; di lensa 200mm, diameternya 100mm.&lt;/p&gt;
+
+&lt;p&gt;Sebagai ilustrasi, berikut adalah lensa 85mm yang dibuka di &lt;code class=&quot;highlighter-rouge&quot;&gt;f/2&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh4.googleusercontent.com/-l5bb9NAaEZc/UoWVih_0y-I/AAAAAAAACFA/iXhUSGddndk/s800/bukaan-besar.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bandingkan dengan lensa yang sama, dibuka di &lt;code class=&quot;highlighter-rouge&quot;&gt;f/8&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh4.googleusercontent.com/-h33bvAyMEt0/UoWVibtlY9I/AAAAAAAACFA/H13YJYIcx7Y/s800/bukaan-kecil.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aperture mempengaruhi &lt;em&gt;depth-of-field&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;depth-of-field&quot;&gt;Depth of Field&lt;/h2&gt;
+
+&lt;p&gt;Depth of field adalah ruang tajam, yaitu jarak terdekat dan terjauh (dari kamera) dimana gambarnya masih tajam. Coba bandingkan bukaan &lt;code class=&quot;highlighter-rouge&quot;&gt;f/2&lt;/code&gt; berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://lh5.googleusercontent.com/-F635M7_2x3o/UoWVkgOMf4I/AAAAAAAACFA/h8_rVXaH0Yg/s800/shallow-dof.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;dengan bukaan &lt;code class=&quot;highlighter-rouge&quot;&gt;f/8&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-SWeVwN2NCDs/UoWVsrXB6cI/AAAAAAAACFA/U-1N9c0Luc0/s800/wide-dof.JPG&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ukuran-dan-harga-1&quot;&gt;Ukuran dan Harga&lt;/h2&gt;
+
+&lt;p&gt;Seperti sudah dijelaskan di perhitungan aperture di atas, besar maksimal aperture akan menentukan ukuran lensa. Diameter bukaan &lt;code class=&quot;highlighter-rouge&quot;&gt;f/2&lt;/code&gt; di lensa 200mm adalah 100mm. Dengan sendirinya, ukuran kaca lensa juga harus lebih lebar daripada 100mm. Bobotnya makin besar, harganya makin mahal. Semakin enggan kita membawanya (karena berat), dan semakin terbebani dompet kita membelinya (karena mahal).&lt;/p&gt;
+
+&lt;h2 id=&quot;fixed-vs-variable&quot;&gt;Fixed vs Variable&lt;/h2&gt;
+
+&lt;p&gt;Untuk menyiasati faktor ukuran dan harga, pabrikan punya ide cemerlang.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bagaimana kalau untuk lensa zoom, aperture terbesarnya dibuat variabel saja?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Contohnya, lensa 18-55mm, memiliki bukaan maksimal &lt;code class=&quot;highlighter-rouge&quot;&gt;f/3.5-5.6&lt;/code&gt;. Artinya kalau posisi focal length di 18mm, kita bisa buka sebesar &lt;code class=&quot;highlighter-rouge&quot;&gt;f/3.5&lt;/code&gt;. Sedangkan kalau kita zoom ke 55mm, kita cuma bisa buka maksimal di &lt;code class=&quot;highlighter-rouge&quot;&gt;f/5.6&lt;/code&gt;. Dengan demikian, ukuran lensa tidak perlu besar dan harganya bisa ditekan.&lt;/p&gt;
+
+&lt;p&gt;Menggunakan lensa dengan &lt;em&gt;variable aperture&lt;/em&gt; seperti ini relatif merepotkan. Kita harus terlebih dulu memilih focal length (18mm atau 55mm) sebelum mengatur exposure. Kalau terbalik, atur kombinasi ISO-Aperture-Shutter dulu baru focal length, bisa-bisa aperture berubah ketika kita ganti focal length, sehingga fotonya menjadi &lt;em&gt;under&lt;/em&gt; atau &lt;em&gt;over&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Trik ini biasa digunakan untuk membuat lensa kit (lensa bawaan pada waktu membeli kamera).&lt;/p&gt;
+
+&lt;h1 id=&quot;stabilisasi&quot;&gt;Stabilisasi&lt;/h1&gt;
+
+&lt;p&gt;Bila kita menggunakan lensa yang besar dan berat, biasanya tangan kita akan kesulitan untuk menopangnya. Akibatnya, pada waktu memotret goyang dan hasilnya menjadi blur. Untuk mengatasi hal ini, pabrik lensa memasang suatu fitur stabilisasi untuk membuat hasil foto tetap tajam walaupun kita memotretnya sambil goyang.&lt;/p&gt;
+
+&lt;p&gt;Fitur ini diberi nama berbeda antar pabrik, mungkin supaya tidak dituntut pelanggaran merek. Jadi jangan bingung kalau menemui berbagai istilah ini, sebetulnya mengacu pada hal yang sama. Berikut beberapa istilah yang biasa digunakan:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nikon : Vibration Reduction (VR)&lt;/li&gt;
+  &lt;li&gt;Canon : Image Stabilization (IS)&lt;/li&gt;
+  &lt;li&gt;Sigma : Optical Stabilization (OS)&lt;/li&gt;
+  &lt;li&gt;Tamron : Vibration Compensation (VC)&lt;/li&gt;
+  &lt;li&gt;Sony : Super Steady Shot (SSS) dan Optical SteadyShot&lt;/li&gt;
+  &lt;li&gt;Pentax : Shake Reduction (SR)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sumber : &lt;a href=&quot;http://en.wikipedia.org/wiki/Image_stabilization&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sebetulnya teknologi stabilisasi ada yang dipasang di lensa dan juga ada yang dipasang di kamera. Tapi karena pembahasan kali ini tentang lensa, teknologi stabilisasi dalam kamera tidak kita bahas.&lt;/p&gt;
+
+&lt;p&gt;Untuk fitur ini saya tidak punya fotonya, karena tidak punya lensa yang dilengkapi dengan fitur ini.&lt;/p&gt;
+
+&lt;h2 id=&quot;mode-stabilisasi&quot;&gt;Mode Stabilisasi&lt;/h2&gt;
+
+&lt;p&gt;Goyangan pada kamera secara teknis dibagi menjadi dua:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Getaran tangan&lt;/li&gt;
+  &lt;li&gt;Goyangan tempat berdiri fotografer (misalnya memotret di atas perahu)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Kedua jenis goyangan ini berbeda karakteristiknya, sehingga biasanya ada switch di lensa untuk memilih kondisi mana yang lebih cocok. Lebih lanjut tentang kedua jenis setting ini bisa dibaca di &lt;a href=&quot;http://www.nikonusa.com/en_US/IMG/Images/Micro-Sites/VR/experience/tips/normal_and_active/&quot;&gt;website masing-masing pabrikan&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;ukuran-dan-harga-2&quot;&gt;Ukuran dan Harga&lt;/h2&gt;
+
+&lt;p&gt;Tanpa perlu dijelaskan, tentu saja tambahan motor di lensa ini akan menambah bobot dan biaya produksi. Sebagai gambaran, lensa Nikon 70-200 VRII &lt;a href=&quot;http://www.bhinneka.com/products/sku00005885/nikon_af-s_70-200mm_f_2.8g_ed_vr_ii.aspx&quot;&gt;bobotnya 1,5 kg dan harganya 28 juta&lt;/a&gt;. Lensa yang sama, dengan generasi VR terdahulu (VR I), harganya pada waktu masih diproduksi baru dulu berkisar 19 juta rupiah.&lt;/p&gt;
+
+&lt;h1 id=&quot;merek&quot;&gt;Merek&lt;/h1&gt;
+
+&lt;p&gt;Ada banyak pabrikan lensa, diantaranya:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Canon&lt;/li&gt;
+  &lt;li&gt;Leica&lt;/li&gt;
+  &lt;li&gt;Nikon&lt;/li&gt;
+  &lt;li&gt;Samyang&lt;/li&gt;
+  &lt;li&gt;Sigma&lt;/li&gt;
+  &lt;li&gt;Sony&lt;/li&gt;
+  &lt;li&gt;Tamron&lt;/li&gt;
+  &lt;li&gt;Tokina&lt;/li&gt;
+  &lt;li&gt;Zeiss&lt;/li&gt;
+  &lt;li&gt;dan sebagainya&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pada umumnya, lensa yang semerek dengan kamera kualitasnya lebih bagus dan harganya lebih mahal. Ada juga beberapa pabrikan yang sudah terkenal kualitasnya (dan tentu juga harganya) seperti Leica dan Zeiss.&lt;/p&gt;
+
+&lt;p&gt;Walaupun demikian, ada kalanya pabrikan pihak ketiga seperti Samyang dan Sigma membuat lensa yang bagus dan terkenal, dengan harga miring. Contohnya &lt;a href=&quot;http://www.dxomark.com/Lenses/Camera-Lens-Database/Sigma/Sigma-35mm-F14-DG-HSM-A-Nikon&quot;&gt;Sigma 35mm&lt;/a&gt; dan &lt;a href=&quot;http://www.dxomark.com/Lenses/Camera-Lens-Database/Samyang/85mm-f-1.4-Aspherical-IF-Nikon&quot;&gt;Samyang 85mm&lt;/a&gt; yang mendapat skor tinggi di DXOMark.&lt;/p&gt;
+
+&lt;h1 id=&quot;kesimpulan&quot;&gt;Kesimpulan&lt;/h1&gt;
+
+&lt;p&gt;Setelah memahami berbagai karakteristik lensa seperti:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;focal length&lt;/li&gt;
+  &lt;li&gt;aperture&lt;/li&gt;
+  &lt;li&gt;stabilisasi&lt;/li&gt;
+  &lt;li&gt;merek&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dan dibandingkan dengan kondisi kita:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ketersediaan dana&lt;/li&gt;
+  &lt;li&gt;jenis fotografi yang sering dilakukan&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Kita bisa menimbang-nimbang:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;mana lensa yang sebaiknya dibeli (karena terjangkau, dan nyaman dibawa sehingga sering dipakai)&lt;/li&gt;
+  &lt;li&gt;mana lensa yang sebaiknya dipinjam/disewa saja (karena mahal dan jarang dipakai)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mudah-mudahan artikel ini bisa membantu Anda dalam mengatur belanja lensa.&lt;/p&gt;</content><summary type="html">Kalau kita ikut di komunitas fotografi, baik itu grup Facebook, milis, forum internet, kaskus, atau apapun yang lainnya, seminggu sekali kita akan menemui pertanyaan klasik ini</summary></entry><entry><title type="html">Belajar Lighting</title><link href="http://localhost:4000/referensi/belajar-lighting/" rel="alternate" type="text/html" title="Belajar Lighting" /><published>2013-11-13T09:14:00+07:00</published><updated>2013-11-13T09:14:00+07:00</updated><id>http://localhost:4000/referensi/belajar-lighting</id><content type="html" xml:base="http://localhost:4000/referensi/belajar-lighting/">&lt;p&gt;Enaknya belajar fotografi di jaman Youtube, segala macam tutorial ada. Saking banyaknya, kita kesulitan memilih mana yang bagus mana yang jelek. Mau ditonton semua, bisa-bisa menghabiskan masa remaja.&lt;/p&gt;
+
+&lt;p&gt;Untuk menghemat waktu kita semua, saya sudah mengumpulkan beberapa video di Youtube yang bagus cara penyampaiannya. Semoga bermanfaat.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Di video tutorial ini, para instruktur menggunakan berbagai teknologi dan perangkat lampu. Jangan pusing dengan alat yang belum kita miliki. Perhatikanlah hal-hal berikut:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Penempatan posisi lampu terhadap subjek dan latar&lt;/li&gt;
+  &lt;li&gt;Intensitas cahaya&lt;/li&gt;
+  &lt;li&gt;Penggunaan modifier (payung, softbox, reflektor, gel, dsb)&lt;/li&gt;
+  &lt;li&gt;Bagian subjek yang terang (highlight)&lt;/li&gt;
+  &lt;li&gt;Posisi jatuhnya bayangan (shadow)&lt;/li&gt;
+  &lt;li&gt;Transisi dari highlight ke shadow (fall-off)&lt;/li&gt;
+  &lt;li&gt;Sifat bayangan, hard (tepi bayangan garisnya tegas) atau soft (tepi bayangan memiliki gradasi)&lt;/li&gt;
+  &lt;li&gt;Warna cahaya&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;in-studio&quot;&gt;In Studio&lt;/h2&gt;
+
+&lt;p&gt;Pertama, kita mulai dulu dengan penggunaan satu lampu. Tutorial dari The Slanted Lens ini merupakan fundamental lighting untuk portrait. Di sini kita juga memahami tentang berbagai teknik dan istilah dasar seperti Rembrandt Light, Split Light, Broad Light, Short Light, Butterfly/Paramount Light, Loop Light. Di akhir video ada sedikit penjelasan menggunakan tiga lampu untuk key, fill, dan rim.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gmmZECtP3oM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Untuk portrait, ada beberapa penggunaan cahaya, yaitu:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;key light : sumber cahaya utama yang menerangi subjek&lt;/li&gt;
+  &lt;li&gt;fill light : sumber cahaya lemah untuk mengurangi (tapi tidak menghilangkan) bayangan agar tidak terlalu kontras&lt;/li&gt;
+  &lt;li&gt;rim/separation light : cahaya untuk menerangi sisi (rim) subjek supaya tidak tercampur (separation) dengan latar&lt;/li&gt;
+  &lt;li&gt;background/kicker light : cahaya untuk menerangi latar belakang supaya lebih joss&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Selanjutnya, tonton video berikut untuk memahami keempat fungsi cahaya tersebut.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/maM4dWbK0A0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Setelah paham fungsi tersebut, kita bisa melanjutkan menonton video berikut. Intinya adalah, sumber cahaya tidak harus dari lampu, tapi bisa juga dari pantulan cahaya. Dengan bermodalkan satu lampu saja, hasilnya bisa sangat bervariasi. Tapi prinsip dasarnya tetap sama.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/F9gVQFhCXEQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Asal kita menguasai konsep 4 fungsi lighting tadi, kita bisa menggunakan lampu sebanyak kita mau. Coba tonton video berikut. Sekali lagi, jangan terpaku pada peralatan, tapi perhatikanlah fungsi dan dampak dari masing-masing sumber cahaya.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/dRgu84ZVYB0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;on-location&quot;&gt;On Location&lt;/h2&gt;
+
+&lt;p&gt;Memotret dalam studio relatif lebih mudah, karena semua faktor bisa kita kendalikan. Yang lebih menantang adalah sesi foto di luar ruangan (outdoor). Hasil fotonya juga lebih bagus, karena latar belakangnya lebih variatif.&lt;/p&gt;
+
+&lt;p&gt;Kita mulai dengan teknik dasar, bagaimana mengatur proporsi cahaya alami (ambient) dengan cahaya dari lampu (strobe). Konsep dasarnya tetap ada di &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;teknik metering&lt;/a&gt; dan &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/segitiga-exposure/&quot;&gt;pengaturan segitiga exposure&lt;/a&gt;. Karena kita menggunakan flash, ada beberapa konsep tambahan:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ISO : mempengaruhi intensitas ambient &lt;strong&gt;dan&lt;/strong&gt; strobe&lt;/li&gt;
+  &lt;li&gt;Aperture : mempengaruhi intensitas ambient &lt;strong&gt;dan&lt;/strong&gt; strobe&lt;/li&gt;
+  &lt;li&gt;Jarak/Power strobe : &lt;strong&gt;hanya&lt;/strong&gt; mempengaruhi intensitas &lt;strong&gt;strobe&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Shutter speed : &lt;strong&gt;hanya&lt;/strong&gt; mempengaruhi intensitas &lt;strong&gt;ambient&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Konsep di atas hanya berlaku kalau kita menggunakan setting manual di kamera dan manual juga di flash. Serba manual ini memudahkan kita untuk memahami cara kerjanya. Kalau nanti sudah paham, barulah kita gunakan mode otomatis (Aperture Priority dan TTL Flash) untuk mempercepat proses.&lt;/p&gt;
+
+&lt;p&gt;Pengaruh shutter speed terhadap ambient bisa dibaca &lt;a href=&quot;http://strobist.blogspot.com/2007/09/lighting-102-33-balancing-flashambient.html&quot;&gt;di sini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dengan konsep di atas, berarti kita bisa mengatur intensitas ambient dan strobe secara terpisah. Kita bisa buat ambient gelap dan subjek (yang diterangi strobe) terang, atau sebaliknya. Variasi dalam rasio ambient-strobe ini bisa membuat foto kita lebih &lt;em&gt;punchy&lt;/em&gt;. Kalau tidak percaya, bisa lihat contohnya &lt;a href=&quot;http://strobist.blogspot.com/2006/03/lighting-101-balancing-flash-and.html&quot;&gt;di sini&lt;/a&gt;. Proses berpikir dalam mengatur rasio bisa dibaca &lt;a href=&quot;http://neilvn.com/tangents/zones-of-light/&quot;&gt;di sini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Setelah paham konsepnya, kita lihat aplikasinya.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/dTrS-0v-BLg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Perhatikan mulai menit ke 4:00. Fotografer mengurangi shutter speed seiring dengan semakin gelapnya kondisi ambient. Lihat info shutter speed dan jam pemotretan di keterangan foto. Perhatikan bahwa aperture dan ISO tidak berubah, sehingga intensitas strobe tidak berubah. Tahu dari mana bahwa strobe tidak berubah? Lihat dahi subjek yang diterangi oleh strobe. Tingkat terangnya tidak berubah walaupun shutter speed turun terus.&lt;/p&gt;
+
+&lt;p&gt;Amati juga bahwa intensitas ambient (terlihat dari latar belakang langit) juga tidak berubah walaupun hari semakin senja. Ini dimungkinkan karena fotografer mengkompensasi semakin gelapnya langit dengan shutter speed yang semakin lambat.&lt;/p&gt;
+
+&lt;p&gt;Selanjutnya, lihat video berikut&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JuK_erfYaW0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Selalu menggunakan prinsip yang sama. Pertama, fotografer menggunakan matahari sebagai key light. Karena posisi matahari tidak bisa digeser-geser, maka subjek dan kamera yang bergeser. Semakin sore, matahari semakin gelap, sehingga tidak kuat lagi mengambil peran sebagai key. Oleh karena itu, strobe disuruh menjadi key light dan matahari menjadi fill light. Matahari sore warnanya oranye, sedangkan strobe putih, gunakan gel untuk mewarnai strobe supaya sama-sama oranye. Kalau warnanya sudah sama, nanti bisa diputihkan lagi di Photoshop. Terakhir, tambahkan satu strobe lagi supaya karavan terlihat.&lt;/p&gt;
+
+&lt;h2 id=&quot;light-modifier&quot;&gt;Light Modifier&lt;/h2&gt;
+
+&lt;p&gt;Di video-video sebelumnya, kita melihat penggunaan berbagai &lt;em&gt;light modifier&lt;/em&gt; seperti payung, softbox, dan sebagainya. Sebenarnya apa fungsi dari modifier tersebut?&lt;/p&gt;
+
+&lt;p&gt;Fungsi utamanya sebetulnya adalah untuk memperbesar ukuran sumber cahaya relatif terhadap subjek. Kalau hanya lampu saja, maka ukuran lampu lebih kecil dari wajah subjek, sehingga bayangannya &lt;em&gt;hard&lt;/em&gt;. Dengan menggunakan softbox atau payung, ukurannya menjadi besar, sehingga bayangannya menjadi &lt;em&gt;soft&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Selain modifier (softbox atau payung), perlu juga diperhatikan masalah jarak. Matahari adalah sumber cahaya yang besar, bahkan ukurannya lebih besar daripada bumi. Tapi karena jaraknya jauh, maka menjadi kecil kalau dibandingkan dengan wajah subjek. Demikian juga dengan modifier. Percuma kita pakai softbox sebesar gajah kalau ditaruh di jarak 50 meter dari subjeknya.&lt;/p&gt;
+
+&lt;p&gt;Seperti apa perbedaan antara &lt;em&gt;hard&lt;/em&gt; dan &lt;em&gt;soft&lt;/em&gt;, bisa disimak di penjelasan Om Joe McNally berikut&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vIsw495HtSI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Softbox ukurannya bermacam-macam, ada yang besar dan ada yang kecil. Apa bedanya? Simak penjelasan teorinya dari Om Jay P. Morgan berikut&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gVy2nwoataM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Lanjutkan dengan contoh penerapannya&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hmqDGCSDy0s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Payung sama dengan softbox, gunanya untuk memperbesar ukuran sumber cahaya.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apa bedanya softbox dan payung?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tonton penjelasan dari Om Mark Wallace&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pyJ3YRMnqto&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Selain modifier yang pakai lampu seperti softbox dan payung, ada juga modifier tanpa lampu. Contohnya reflektor (pemantul cahaya) dan scrim/diffuser (untuk menghalangi atau menyebarkan cahaya)&lt;/p&gt;
+
+&lt;p&gt;Contoh penggunaan scrim untuk menyebarkan cahaya didemonstrasikan oleh om Joe McNally di video ini&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eR7wXxvrRMA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Di bagian kedua, scrim digunakan untuk menghalangi cahaya&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AOhscpY-wQo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Reflektor berfungsi untuk memantulkan cahaya. Bisa cahaya dari strobe ataupun cahaya matahari. Biasanya tersedia dalam format 5 in 1, punya 5 sisi dalam 1 unit:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;hitam : untuk menghalangi cahaya (seperti scrim-nya Om Joe)&lt;/li&gt;
+  &lt;li&gt;translucent/semi-transparan : untuk menyebarkan cahaya (seperti scrim-nya Om Joe)&lt;/li&gt;
+  &lt;li&gt;putih : untuk memantulkan cahaya&lt;/li&gt;
+  &lt;li&gt;silver : memantulkan cahaya lebih banyak daripada putih&lt;/li&gt;
+  &lt;li&gt;gold : memantulkan cahaya berwarna emas, seperti matahari sore&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Contoh pemakaiannya bisa dilihat di sini&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QT2XTvuyQms&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Joe McNally pernah mengatakan,&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;John Loengard, the picture editor at Life, always used to tell me, ”If you want something to look interesting, don’t light all of it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Artinya, kita harus membatasi bagian yang terkena cahaya supaya fotonya lebih menarik. Salah satu cara membatasi cahaya adalah menggunakan grid.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/g5zxYDSQPNo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Jangan buru-buru beli grid mahal-mahal. Kita bisa bikin sendiri &lt;a href=&quot;http://strobist.blogspot.com/2006/10/free-and-so-easy-diy-grid-spots-for.html&quot;&gt;dari kardus&lt;/a&gt;, &lt;a href=&quot;http://www.flickr.com/photos/71265688@N00/sets/72157594358068593/show/&quot;&gt;coroplast&lt;/a&gt;, atau &lt;a href=&quot;http://lightingmods.blogspot.com/2007/06/diy-black-straws-snoot-grid-part-1.html&quot;&gt;dari sedotan bekas&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Masih banyak lagi jenis-jenis modifier lain seperti didemokan Om Mark Wallace&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8sKK_lvQiVA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;warna&quot;&gt;Warna&lt;/h2&gt;
+
+&lt;p&gt;Flash bisa diwarnai dengan plastik berwarna yang disebut dengan istilah &lt;code class=&quot;highlighter-rouge&quot;&gt;gel&lt;/code&gt;. Tujuannya macam-macam, diantaranya:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;supaya sama dengan ambient. Kalau sudah sama, gampang dinetralisir di Photoshop. Jauh lebih mudah menetralisir cahaya hijau yang seragam, daripada cahaya hijau dari kiri dan putih dari kanan.&lt;/li&gt;
+  &lt;li&gt;untuk menimbulkan efek dramatis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yang perlu diperhatikan, begitu kita bermain-main dengan warna, kita harus mematikan fitur &lt;code class=&quot;highlighter-rouge&quot;&gt;Auto White Balance&lt;/code&gt; di kamera. Kita harus mengatur sendiri &lt;code class=&quot;highlighter-rouge&quot;&gt;White Balance&lt;/code&gt; supaya warnanya sesuai dengan yang seharusnya, tidak diatur otomatis oleh kamera.&lt;/p&gt;
+
+&lt;p&gt;Untuk lebih jelasnya, simak penjelasan Om Mark Wallace&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LiPL73mLeJ8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Biasanya fotografer akan menggunakan kertas putih atau abu-abu sebagai patokan warna, sehingga nanti mudah melakukan koreksi di Photoshop. Kertas ini disebut dengan &lt;code class=&quot;highlighter-rouge&quot;&gt;white card&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;grey card&lt;/code&gt;. Bagaimana menggunakannya? Tonton penjelasan dari Om Mark&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/H5rW74-zCQ0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Setelah paham urusan &lt;code class=&quot;highlighter-rouge&quot;&gt;white balance&lt;/code&gt;, kita simak penerapannya oleh Om Joe McNally, bagian pertama&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ntoRpQCY60U&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;dan bagian kedua&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/W3azZ0wIXpo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Kalau mau lebih ekstrim, simak penggunaan gel oleh Om Bryan Peterson&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rK1rlkSKkD8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;intensitas&quot;&gt;Intensitas&lt;/h2&gt;
+
+&lt;p&gt;Seperti kita lihat di video-video di atas, intinya adalah bermain dengan kombinasi dan rasio terang-gelap. Untuk itu, kita harus mahir mengatur intensitas cahaya baik di subjek maupun di lingkungan sekitarnya. Pertama, kita kuasai dulu pengaturan power di strobe&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/E-ro-ST3iuo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Untuk flash kecil (speedlight), silahkan baca user manual merek dan tipe masing-masing.&lt;/p&gt;
+
+&lt;p&gt;Setelah bisa mengatur power, kita harus paham konsep Inverse Square Law. Intinya, bagaimana hubungan antara jarak lampu-subjek-latar terhadap &lt;em&gt;fall off&lt;/em&gt;, perbedaan intensitas cahaya antara subjek dan latarnya. Konsepnya bisa ditonton di sini&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/f5BIvSBjvLg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Dengan memahami konsep Inverse Square Law, kita bisa mengatur agar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;subjek dan latar sama terang&lt;/li&gt;
+  &lt;li&gt;subjek terang, latar gelap&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;hanya dengan mengubah jarak lampu –&amp;gt; subjek –&amp;gt; latar.&lt;/p&gt;
+
+&lt;h2 id=&quot;durasi-cahaya&quot;&gt;Durasi Cahaya&lt;/h2&gt;
+
+&lt;p&gt;Berdasarkan lama menyala, sumber cahaya bisa dibagi dua:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;continuous : menyala terus selama shutter terbuka. Contohnya matahari, lampu rumah.&lt;/li&gt;
+  &lt;li&gt;flash/instant : menyala sesaat saja. Contohnya flash, monolight&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Perbedaan antara keduanya bisa ditonton di sini&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4QaCI_SUc5c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Sumber cahaya instan (flash) hanya menyala sebentar saja. Sekitar 1/1000 detik atau lebih cepat. Oleh karena itu, setting shutter speed di kamera tidak mempengaruhi jumlah cahaya yang direkam sensor. Walaupun demikian, kita tidak bisa menggunakan shutter speed yang terlalu tinggi, karena dibatasi oleh sync-speed. Apa itu sync-speed? Saksikan penjelasan dari Om Mark Wallace&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fOayN2U1xZg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Karena durasi yang singkat, seperti halnya shutter speed, flash juga memiliki kemampuan membekukan gerakan. Semakin singkat durasi flash, semakin cepat gerakan yang bisa dibekukan. Durasi flash diukur dalam satuan &lt;code class=&quot;highlighter-rouge&quot;&gt;t5&lt;/code&gt; (waktu yang dibutuhkan flash sampai nyalanya tinggal 50%) dan &lt;code class=&quot;highlighter-rouge&quot;&gt;t1&lt;/code&gt; (waktu yang dibutuhkan flash sampai cahayanya tinggal 10%). Teori tentang durasi flash bisa dibaca &lt;a href=&quot;http://strobist.blogspot.com/2010/06/rise-and-fall-of-machines-understanding.html&quot;&gt;di sini&lt;/a&gt;. Sedangkan contoh aplikasinya didemokan oleh Om Sam McGuire di sini&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zLGDxKDE05I&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Pemanfaatan durasi flash untuk membekukan gerakan juga bisa dilihat di demo berikut&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/32792549?byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Dengan mengkombinasikan durasi shutter speed dan durasi flash, kita bisa membuat berbagai efek menarik seperti yang dicontohkan Om Bryan Peterson&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Dgnci8MH4sE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;permukaan&quot;&gt;Permukaan&lt;/h2&gt;
+
+&lt;p&gt;Belajar lighting belum lengkap kalau belum memotret permukaan yang aneh-aneh, yaitu:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tembus pandang. Misalnya gelas, botol, dan sejenisnya&lt;/li&gt;
+  &lt;li&gt;memantulkan cahaya. Misalnya sendok, garpu, panci, dan logam lainnya&lt;/li&gt;
+  &lt;li&gt;bertekstur. Misalnya kain, tembok, lukisan, dan lainnya&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Kita mulai dari permukaan tembus pandang. Silahkan tonton penjelasan Om Karl Taylor.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IIm-SZHKOW4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Inti dari memotret botol dan gelas adalah menghilangkan tepi sumber cahaya yang terlalu tajam. Ini dilakukan dengan cara &lt;code class=&quot;highlighter-rouge&quot;&gt;diffusion&lt;/code&gt;. Sumber cahaya dihalangi oleh bahan yang tembus cahaya tapi tidak bening. Kita bisa gunakan kertas kalkir yang tersedia di toko buku.&lt;/p&gt;
+
+&lt;p&gt;Dalam memotret benda mengkilap, kita justru harus memotret pantulan cahayanya. Prinsip yang digunakan ada di pelajaran IPA waktu SD, sudut datang cahaya = sudut pantul.&lt;/p&gt;
+
+&lt;p&gt;Berikutnya, memotret benda bertekstur.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2CnAcWAO5bU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Ada dua pilihan dalam memotret benda bertekstur seperti kain:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;menonjolkan teksturnya. Misalnya memotret jeans.&lt;/li&gt;
+  &lt;li&gt;menyembunyikan teksturnya. Misalnya memotret kemeja resmi.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Untuk menonjolkan tekstur, gunakan cahaya dari samping. Hard light dari sumber cahaya berukuran kecil juga bisa lebih menonjolkan kerutan-kerutan pada objek.&lt;/p&gt;
+
+&lt;p&gt;Sedangkan untuk menyembunyikan tekstur, gunakan cahaya lurus dari depan/atas. Kita bisa gunakan soft light dari sumber cahaya besar untuk membuat kerutan tidak terlalu terlihat.&lt;/p&gt;
+
+&lt;p&gt;Ilustrasinya dijelaskan &lt;a href=&quot;http://photography.tutsplus.com/articles/how-to-photograph-fabric-and-clothes--photo-12330&quot;&gt;di artikel ini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;kesimpulan&quot;&gt;Kesimpulan&lt;/h2&gt;
+
+&lt;p&gt;Demikianlah berbagai teknik tentang penggunaan lighting. Tidak perlu galau dengan banyaknya video di atas, intinya hanyalah pemahaman terhadap konsep:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;rasio/proporsi intensitas antar beberapa sumber cahaya&lt;/li&gt;
+  &lt;li&gt;sifat bayangan (hard atau soft), sering juga disebut dengan istilah &lt;code class=&quot;highlighter-rouge&quot;&gt;quality of light&lt;/code&gt; di tutorial berbahasa Inggris&lt;/li&gt;
+  &lt;li&gt;warna cahaya&lt;/li&gt;
+  &lt;li&gt;durasi cahaya&lt;/li&gt;
+  &lt;li&gt;karakteristik permukaan&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dan penguasaan teknik kontrol cahaya:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;kontrol intensitas ambient dengan mengubah shutter speed&lt;/li&gt;
+  &lt;li&gt;kontrol intensitas strobe dengan mengubah power lampu dan jarak lampu-subjek-latar&lt;/li&gt;
+  &lt;li&gt;kontrol sifat bayangan dengan mengubah ukuran sumber cahaya (menggunakan softbox atau payung)&lt;/li&gt;
+  &lt;li&gt;kontrol tempat jatuhnya highlight/shadow dengan mengatur penempatan sumber cahaya dan menggunakan reflektor, grid, snoot, gobo&lt;/li&gt;
+  &lt;li&gt;kontrol warna dengan gel dan setting white balance&lt;/li&gt;
+&lt;/ul&gt;</content><summary type="html">Enaknya belajar fotografi di jaman Youtube, segala macam tutorial ada. Saking banyaknya, kita kesulitan memilih mana yang bagus mana yang jelek. Mau ditonton semua, bisa-bisa menghabiskan masa remaja.</summary></entry><entry><title type="html">Segitiga Exposure</title><link href="http://localhost:4000/teknik/segitiga-exposure/" rel="alternate" type="text/html" title="Segitiga Exposure" /><published>2013-11-12T14:51:00+07:00</published><updated>2013-11-12T14:51:00+07:00</updated><id>http://localhost:4000/teknik/segitiga-exposure</id><content type="html" xml:base="http://localhost:4000/teknik/segitiga-exposure/">&lt;p&gt;Segitiga Exposure&lt;/p&gt;
+
+&lt;p&gt;Pada &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;artikel sebelumnya&lt;/a&gt; kita sudah membahas bahwa untuk mengatur cahaya sesuai indikator light meter, kita bisa mengubah tiga variabel, yaitu:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ISO&lt;/li&gt;
+  &lt;li&gt;Aperture&lt;/li&gt;
+  &lt;li&gt;Shutter Speed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ketiga variabel ini disebut dengan istilah segitiga exposure / exposure triangle.&lt;/p&gt;
+
+&lt;p&gt;Lalu dari tiga variabel yang tersedia, mana yang kita ubah? Penjelasan singkatnya bisa dilihat di infografik berikut.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/exposure-and-metering.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Infografis diambil &lt;a href=&quot;http://www.photographerabroad.com/image/24924941477&quot;&gt;dari sini&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bingung karena bahasanya Inggris? Butuh penjelasan lebih detail? Harus lihat contoh foto supaya mengerti?&lt;/p&gt;
+
+&lt;p&gt;Silahkan klik untuk penjelasan dalam bahasa Indonesia.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;a name=&quot;iso&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;iso&quot;&gt;ISO&lt;/h2&gt;
+
+&lt;p&gt;Kita ingin menggunakan ISO serendah mungkin, karena semakin tinggi ISO semakin jelek kualitas fotonya. Bandingkan foto berikut yang diambil dengan ISO 100&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/iso-rendah.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;dengan foto berikut, diambil dengan ISO 1600&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/iso-tinggi.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Seperti kita bisa lihat, foto dengan ISO tinggi terlihat memiliki banyak &lt;em&gt;noise&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Walaupun demikian, seringkali kita tidak bisa menurunkan ISO sampai minimum, karena keterbatasan cahaya. Kalau nekat memakai ISO 100 di kondisi gelap, kita akan terpaksa membuka aperture lebar-lebar, atau menurunkan shutter speed. Seringkali kondisi ini tidak memungkinkan, seperti kita akan bahas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;aperture&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;aperture&quot;&gt;Aperture&lt;/h2&gt;
+
+&lt;p&gt;Aperture adalah lubang di lensa, ditunjukkan dengan angka &lt;code class=&quot;highlighter-rouge&quot;&gt;f/xx&lt;/code&gt;, contohnya &lt;code class=&quot;highlighter-rouge&quot;&gt;f/2&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;f/16&lt;/code&gt;. Semakin kecil angkanya, semakin besar lubangnya. Berikut adalah contoh lensa yang dibuka di &lt;code class=&quot;highlighter-rouge&quot;&gt;f/2&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/bukaan-besar.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lensa yang sama, dibuka di &lt;code class=&quot;highlighter-rouge&quot;&gt;f/16&lt;/code&gt; tampak seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/bukaan-kecil.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kalau bukaan lebar, cahaya yang direkam sensor menjadi lebih banyak, sehingga kita bisa menurunkan ISO. Walaupun demikian, ruang tajam (&lt;em&gt;depth-of-field&lt;/em&gt;) menjadi sempit. Coba lihat foto berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/dof-sempit.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Objek di dekat kamera tampak tajam, sedangkan objek yang jauh tampak blur. Foto di atas dibuat dengan &lt;code class=&quot;highlighter-rouge&quot;&gt;f/2&lt;/code&gt;. Sekarang kita coba dengan &lt;code class=&quot;highlighter-rouge&quot;&gt;f/16&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/dof-lebar.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kita bisa lihat bahwa objek yang jauh tidak se-blur sebelumnya.&lt;/p&gt;
+
+&lt;p&gt;Seringkali kita tidak bisa membuka lensa lebar-lebar karena beberapa faktor, diantaranya:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;lensa kita cuma bisa dibuka sampai &lt;code class=&quot;highlighter-rouge&quot;&gt;f/3.5&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;kita ingin objek dekat dan jauh sama tajamnya, misalnya ketika memotret banyak orang dalam 5 saf. Orang di saf depan dan belakang harus tajam&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&quot;shutter-speed&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;shutter-speed&quot;&gt;Shutter Speed&lt;/h2&gt;
+
+&lt;p&gt;Shutter speed (kecepatan rana) adalah kecepatan kamera &lt;code class=&quot;highlighter-rouge&quot;&gt;berkedip&lt;/code&gt;. Semakin lama dia membuka rana, semakin banyak cahaya masuk. Shutter speed di kamera saya bisa diatur mulai dari terbuka selama kita inginkan (bulb), sampai ke 1/4000 detik. Bila shutter speed cepat, kita bisa membekukan gerakan. Contohnya di foto berikut, kita bisa membekukan air muncrat di udara.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/shutter-cepat.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Foto di atas dibuat dengan shutter speed 1/250 detik&lt;/p&gt;
+
+&lt;p&gt;Bila shutter speed rendah, subjek akan terlihat blur bila dia bergerak dengan kecepatan tinggi. Bisa dilihat di foto berikut.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/shutter-lambat.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lompatan subjek terlalu cepat untuk shutter speed 1/100 detik&lt;/p&gt;
+
+&lt;p&gt;Bila terlalu lama dibuka, bahkan kita bisa membuat mobil tidak terlihat. Di foto berikut, kita hanya melihat kilasan lampu rem. Mobilnya sendiri tidak terlihat.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/long-exposure.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Foto di atas dibuat dengan shutter speed 20 detik.&lt;/p&gt;
+
+&lt;h3 id=&quot;panduan-memilih-shutter-speed&quot;&gt;Panduan memilih shutter speed&lt;/h3&gt;
+
+&lt;p&gt;Untuk membuat foto benda diam (contohnya produk atau potret orang berpose), shutter speed yang digunakan bebas berapa saja. Yang perlu diperhatikan adalah, kalau kamera kita pegang shutter speed jangan kurang dari 1/focal-length-lensa. Contohnya, bila kita menggunakan lensa 85mm, maka shutter speed jangan kurang dari 1/85 detik. Ini tujuannya untuk menghindari gambar blur karena tangan kita goyang pada saat memotret. Semakin panjang focal-length lensa, biasanya sudut pandangnya sempit. Sedikit gerakan saja, gesernya jauh. Ditambah lagi dengan faktor berat, semakin panjang focal-length, biasanya lensa semakin berat. Ini menyulitkan kita untuk memegang kamera dengan stabil.&lt;/p&gt;
+
+&lt;p&gt;Bila kita ingin memotret anak-anak berlarian, shutter speed harus agak tinggi supaya mampu membekukan gerakan subjek. Saya biasa menggunakan shutter speed di atas 1/100 detik.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;stop&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;memahami-stop&quot;&gt;Memahami stop&lt;/h2&gt;
+
+&lt;p&gt;Jumlah cahaya yang ada di sekeliling kita dihitung dalam skala EV (exposure value). Penjelasan teknisnya bisa dibaca &lt;a href=&quot;http://en.wikipedia.org/wiki/Exposure_value&quot;&gt;di Wikipedia&lt;/a&gt;. Fotografer pada umumnya mengenal selisih terang gelap dengan istilah &lt;code class=&quot;highlighter-rouge&quot;&gt;stop&lt;/code&gt;. Kalau kita dengar seperti ini&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fotonya terlalu terang 1 stop.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Artinya cahaya di foto kita dua kali lebih banyak dari seharusnya.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Coba dikurangi cahayanya 1 stop.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Artinya kita harus mengurangi cahaya setengah dari sebelumnya.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Naikkan 2 stop.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Artinya kita harus tambah 4x lipat. Satu stop pertama menjadi 2x lipat, dan satu stop berikutnya menjadi 4x lipat.&lt;/p&gt;
+
+&lt;p&gt;Kita bisa menaik-turunkan exposure dengan mengubah tiga variabel di atas. Contoh:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Turunkan 1 stop.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bisa dilakukan dengan cara mengubah shutter speed dari 1/100 detik menjadi 1/200 detik, aperture dan ISO tidak berubah.
+Atau bisa juga dilakukan dengan mengubah ISO dari 400 menjadi 200, aperture dan shutter speed tidak berubah.
+Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan ISO tidak berubah.&lt;/p&gt;
+
+&lt;p&gt;Di kamera jaman sekarang, biasanya satu kali klik setting berubah 1/3 stop. Jadi untuk turun satu stop dari ISO 400, kita harus putar 3 klik. Klik pertama menjadi ISO 320, klik kedua menjadi ISO 250, klik ketiga barulah sampai di ISO 200.&lt;/p&gt;
+
+&lt;p&gt;Demikian juga shutter speed, untuk turun satu stop dari 1/100 menjadi 1/200, putar 3 klik. Klik pertama menjadi 1/125, klik kedua menjadi 1/160, klik ketiga sampailah kita di 1/200.&lt;/p&gt;
+
+&lt;p&gt;Untuk ISO dan shutter speed mudah. Cukup kali/bagi dua saja setiap stop. Contohnya, ISO 100 naik 1 stop menjadi ISO 200. Shutter speed 1/400 turun 2 stop menjadi 1/100.&lt;/p&gt;
+
+&lt;p&gt;Yang lebih &lt;em&gt;tricky&lt;/em&gt; adalah menghitung aperture, atau sering disebut dengan &lt;em&gt;f-stop&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;tips-menghafal-f-stop&quot;&gt;Tips menghafal f-stop&lt;/h3&gt;
+
+&lt;p&gt;Seperti perkalian 1-10, sebaiknya kita hafalkan stop. Ini akan memudahkan kita menghitung exposure, apalagi nanti pada waktu menggunakan flash. Semakin cepat kita hitung, semakin cepat kita mengubah setting, sehingga subjeknya tidak keburu &lt;em&gt;bete&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Triknya, gunakan kelipatan dua dan tujuh. Berikut urutan aperture dengan selisih 1 stop:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;f/1.4&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;f/2&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;f/2.8&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;f/4&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;f/5.6&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;f/8&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;f/11&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;f/16&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;f/22&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;f/32&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yang ditandai &lt;em&gt;miring&lt;/em&gt; adalah kelipatan 7, sedangkan yang &lt;strong&gt;tebal&lt;/strong&gt; adalah kelipatan 2. Mudah kan?&lt;/p&gt;
+
+&lt;p&gt;Contoh soal:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Metering kita over 2 stop di 1/200 dan f/5.6. Kita ingin shutter speed tetap, berapa setting aperture yang sesuai?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jawabannya disisakan buat PR pembaca ;)&lt;/p&gt;
+
+&lt;p&gt;Sepanjang &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;artikel pertama mengenai metering&lt;/a&gt; dan artikel ini mengenai segitiga exposure, kita selalu menggunakan mode exposure manual. Sekarang setelah konsepnya kita pahami, kita bisa mencoba mode otomatis yang disediakan kamera.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;pasm&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mode-pasm&quot;&gt;Mode PASM&lt;/h2&gt;
+
+&lt;p&gt;Kamera DSLR umumnya dilengkapi dengan minimal empat pilihan exposure, yaitu:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Manual : tentukan sendiri ketiga variabel exposure&lt;/li&gt;
+  &lt;li&gt;Aperture Priority : tentukan ISO dan aperture, shutter speed otomatis dipilihkan kamera&lt;/li&gt;
+  &lt;li&gt;Shutter Priority : tentukan ISO dan shutter speed, aperture otomatis dipilihkan kamera&lt;/li&gt;
+  &lt;li&gt;Programmed Auto : tentukan ISO, kamera memilihkan kombinasi aperture dan shutter speed yang tepat. Pada waktu memutar dial, kamera akan menawarkan kombinasi lain. Misalnya pertama kita ditawari f/4 dan 1/200. Begitu kita putar, kita akan ditawari f/5.6 dan 1/100. Putar lagi, ditawari f/3.5 dan 1/400. Begitu seterusnya.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Keempat pilihan ini biasa disebut dengan istilah mode PASM. Aperture Priority di Nikon simbolnya A, di Canon Av. Shutter priority di Nikon simbolnya S, di Canon Tv.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;compensation&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;exposure-compensation&quot;&gt;Exposure Compensation&lt;/h3&gt;
+
+&lt;p&gt;Seperti sudah dijelaskan di &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;artikel sebelumnya&lt;/a&gt; –di bagian Metering dan Middle Grey–, kadangkala kita ingin secara sengaja membuat &lt;em&gt;overexposure&lt;/em&gt; atau &lt;em&gt;underexposure&lt;/em&gt;. Misalnya pada waktu ingin memotret baju putih atau baju hitam.&lt;/p&gt;
+
+&lt;p&gt;Kalau kita menggunakan setting Manual, kita tinggal sesuaikan tiga variabel sehingga indikator metering ada di sisi &lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt; untuk overexposure dan &lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt; untuk underexposure. Tapi kalau kita menggunakan mode lain (P,A,S) bagaimana caranya? Kamera pasti secara otomatis akan mengatur variabel sisanya supaya metering berada di tengah.&lt;/p&gt;
+
+&lt;p&gt;Jawabannya, ada fitur lain yang harus kita gunakan, yaitu exposure compensation. Tombolnya ditandai dengan simbol berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/exposure-compensation.jpg&quot; alt=&quot; 200 &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Gambar diambil &lt;a href=&quot;http://www.maryga.com/exposure-compensation-definition/&quot;&gt;dari sini&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bagaimana cara kerjanya?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Misalnya hasil metering menghasilkan 1/100 dan f/4. Bila kita mau underexposed satu 1 stop, berarti ada 2 kemungkinan:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1/200 dan f/4&lt;/li&gt;
+  &lt;li&gt;1/100 dan f/5.6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bila kita sedang berada di mode Shutter Priority, kamera akan mengubah shutter speed, sehingga kita akan diberikan 1/200 untuk f/4 yang kita pilih.&lt;/p&gt;
+
+&lt;p&gt;Bila kita sedang berada di mode Aperture Priority, 1/100 adalah pilihan kita sendiri, sehingga kamera akan menawarkan f/5.6 sebagai pasangannya.&lt;/p&gt;
+
+&lt;p&gt;Bila kita menggunakan mode Programmed Auto, pilihan 1/100 dan f/4 tidak akan diberikan ke kita. Kamera hanya akan menawarkan 1/200 f/4 atau 1/100 f/5.6&lt;/p&gt;
+
+&lt;h3 id=&quot;mode-mana-yang-sebaiknya-digunakan-&quot;&gt;Mode mana yang sebaiknya digunakan ??&lt;/h3&gt;
+
+&lt;p&gt;Sebetulnya terserah preferensi masing-masing. Saya sendiri selalu menggunakan mode Manual. Soalnya percuma juga menggunakan Aperture atau Shutter Priority, tetap saja kita harus mempertimbangkan over dan under dan menyesuaikannya dengan tombol Exposure Compensation. Akan lebih mudah buat saya melatih refleks penggantian shutter/aperture. Cukup menghafalkan dua tombol apapun situasinya.&lt;/p&gt;
+
+&lt;p&gt;Kalau butuh referensi lebih lanjut, bisa tonton video berikut ini&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KQw28-3LEU4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Supaya belajarnya lebih jelas dan tidak mengawang-awang, ada aplikasi simulator yang tersedia gratis di internet.&lt;/p&gt;
+
+&lt;iframe src=&quot;http://camerasim.com/embed/camera-simulator/&quot; frameborder=&quot;0&quot; width=&quot;550&quot; height=&quot;570&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Dia menyediakan dua mode belajar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://camerasim.com/camera-simulator/&quot;&gt;tanpa penjelasan, tapi bisa mode ~~P~~ASM. Seperti yang saya embed di atas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://camerasim.com/slr-camera-explained/&quot;&gt;full manual dengan penjelasan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><summary type="html">Segitiga Exposure</summary></entry><entry><title type="html">Thought Process</title><link href="http://localhost:4000/proses/thought-process/" rel="alternate" type="text/html" title="Thought Process" /><published>2013-11-08T10:31:00+07:00</published><updated>2013-11-08T10:31:00+07:00</updated><id>http://localhost:4000/proses/thought-process</id><content type="html" xml:base="http://localhost:4000/proses/thought-process/">&lt;p&gt;Kita sering melihat foto bagus di internet. Coba saja browsing ke &lt;a href=&quot;http://www.500px.com&quot;&gt;500px&lt;/a&gt;, &lt;a href=&quot;http://www.flickr.com&quot;&gt;Flickr&lt;/a&gt;, dan berbagai website sharing foto lainnya. Kita sering berpikir bahwa fotografer yang membuat foto bagus tersebut adalah orang jenius yang cuma lahir 10 orang setiap tahunnya. Kita yang &lt;em&gt;manusia biasa&lt;/em&gt; tidak akan bisa membuat karya sebagus itu.&lt;/p&gt;
+
+&lt;p&gt;Tapi kenyataannya tidak demikian. Semua fotografer itu ya manusia biasa seperti kita. Kenapa mereka bisa menghasilkan karya yang bagus? Tipsnya cuma ada dua:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Pemahaman konsep dasar&lt;/li&gt;
+  &lt;li&gt;Latihan&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Di artikel ini, saya akan membuat daftar link yang membahas proses berpikir (&lt;em&gt;thought process&lt;/em&gt;) fotografer dalam menghasilkan karya yang bagus. Kita akan melihat prosesnya mulai dari analisa situasi, trial-and-error, menemukan ide, dan akhirnya melakukan eksekusi dengan sempurna. Isi artikel akan terus diupdate tiap kali saya menemukan link bagus.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://strobist.blogspot.com/2007/04/on-assignment-hero-fan.html&quot;&gt;Foto fans serial TV Heroes. Oleh David Hobby, Mr. Strobist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://strobist.blogspot.com/2013/09/my-week-with-heisler-pt-2.html&quot;&gt;Greg Heisler memotret di kafe gelap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://strobist.blogspot.com/2013/10/my-week-with-heisler-pt-3.html&quot;&gt;Greg Heisler memotret di siang hari&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mr. Strobist membahas &lt;a href=&quot;http://strobist.blogspot.com/2009/12/on-assignment-what-me-worry.html&quot;&gt;persiapan photoshoot&lt;/a&gt; dan &lt;a href=&quot;http://strobist.blogspot.com/2010/02/on-assignment-trip-jennings.html&quot;&gt;kegiatan pada saat photoshoot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mr. Strobist memotret arena panjat tebing &lt;a href=&quot;http://strobist.blogspot.com/2010/04/on-assignment-earth-treks-pt-1.html&quot;&gt;bagian pertama&lt;/a&gt; dan &lt;a href=&quot;http://strobist.blogspot.com/2010/04/on-assignment-earth-treks-pt-2.html&quot;&gt;bagian kedua&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://strobist.blogspot.com/2010/01/twenty-questions.html&quot;&gt;Hal-hal yang harus dipertimbangkan pada saat mendapat assignment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://strobist.blogspot.com/2006/07/on-assignment-pool-portrait.html&quot;&gt;Analisa situasi, manajemen waktu, dan problem solving&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_NaDkjdF_dU&quot;&gt;Joe McNally memotret atlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><summary type="html">Kita sering melihat foto bagus di internet. Coba saja browsing ke 500px, Flickr, dan berbagai website sharing foto lainnya. Kita sering berpikir bahwa fotografer yang membuat foto bagus tersebut adalah orang jenius yang cuma lahir 10 orang setiap tahunnya. Kita yang manusia biasa tidak akan bisa membuat karya sebagus itu.</summary></entry><entry><title type="html">Exposure dan Metering</title><link href="http://localhost:4000/teknik/exposure-dan-metering/" rel="alternate" type="text/html" title="Exposure dan Metering" /><published>2013-11-04T17:20:00+07:00</published><updated>2013-11-04T17:20:00+07:00</updated><id>http://localhost:4000/teknik/exposure-dan-metering</id><content type="html" xml:base="http://localhost:4000/teknik/exposure-dan-metering/">&lt;p&gt;Saya pertama belajar fotografi di tahun 1995, menggunakan kamera film Nikon F3. Di tahun itu belajar fotografi tidak semudah sekarang. Saat ini, kita tinggal cari di Youtube, video tutorial sangat berlimpah. Mulai dari pengenalan kamera, komposisi, lighting, teknik berpose dan mengarahkan model, apapun yang kita butuhkan tersedia. Panduan saya di jaman dulu adalah buku saku &lt;a href=&quot;http://www.amazon.com/KODAK-Pocket-Guide-35MM-Photography/dp/0879857692&quot;&gt;Kodak Pocket Guide to 35mm Photography&lt;/a&gt; milik teman sesama pehobi.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/kodak-pocket-guide.jpg&quot; alt=&quot; Kodak Pocket Guide &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Foto diambil dari Amazon.com&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Di rentang waktu antara 1997 - 2012 saya tidak pegang kamera SLR. Begitu ketemu kamera di tahun 2012, yang saya pegang adalah DSLR, digital SLR. Tentu perbedaan teknologinya sangat signifikan. Walaupun demikian, ternyata prinsip-prinsip fotografi yang sayup-sayup masih ada di ingatan saya peninggalan tahun 1997 masih berlaku.&lt;/p&gt;
+
+&lt;p&gt;Pada artikel ini, kita akan membahas tentang prinsip-prinsip dasar exposure. Suatu konsep fundamental yang tak lekang dimakan waktu.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;apa-itu-exposure-&quot;&gt;Apa itu Exposure ?&lt;/h2&gt;
+
+&lt;p&gt;Exposure bahasa Indonesianya adalah pencahayaan. Di jaman film dulu, exposure artinya kita memaparkan (expose) film ke cahaya. Di jaman digital sekarang, film diganti dengan sensor. Kalau cahaya yang dipaparkan terlalu banyak, istilah di film dulu adalah &lt;em&gt;terbakar&lt;/em&gt;. Kalau dicetak hasilnya putih belaka. Kalau cahaya kurang, gambarnya menjadi gelap. Dalam bahasa Inggris, foto yang kelebihan cahaya disebut &lt;em&gt;overexposed&lt;/em&gt; atau biasa disingkat dengan &lt;em&gt;over&lt;/em&gt; saja. Foto yang kekurangan cahaya disebut &lt;em&gt;underexposed&lt;/em&gt;, biasa disingkat menjadi &lt;em&gt;under&lt;/em&gt; saja.&lt;/p&gt;
+
+&lt;p&gt;Enaknya belajar foto di masa digital, kita bisa langsung tahu apakah hasil jepretan kita &lt;em&gt;over&lt;/em&gt; atau &lt;em&gt;under&lt;/em&gt; dengan cara melihat LCD di belakang kamera. Di jaman film dulu, harus menunggu beberapa hari/minggu sampai film selesai dicuci dan dicetak, barulah kita tahu hasilnya benar atau salah. Pada waktu kita lihat hasilnya, kita sudah lupa setting yang dipakai pada waktu memotret :D Jadi, di jaman film dulu, sangat penting kita menghitung cahaya dengan teliti, agar hasilnya tidak &lt;em&gt;under&lt;/em&gt; atau &lt;em&gt;over&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Walaupun banyak kemudahan di era digital, penting bagi kita untuk bisa mendapatkan &lt;em&gt;exposure&lt;/em&gt; yang tepat dalam sekali jepret. Kalau setiap kali harus lihat LCD dulu, momen-nya keburu lewat.&lt;/p&gt;
+
+&lt;p&gt;Sejak jaman Nikon F3 dulu, kamera sudah dilengkapi dengan pengukur cahaya (light meter). Sebelum era F3, fotografer harus membawa alat pengukur terpisah. Cara kerjanya:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ukur cahaya dengan light meter&lt;/li&gt;
+  &lt;li&gt;Baca hasil pengukuran&lt;/li&gt;
+  &lt;li&gt;Setting kamera sesuai hasil pengukuran&lt;/li&gt;
+  &lt;li&gt;Jepret&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/nikon-f3.jpeg&quot; alt=&quot; Nikon F3 &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;foto diambil dari &lt;a href=&quot;http://en.wikipedia.org/wiki/File:Nikon_F3_with_HP_viewfinder.jpeg&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Tapi sejak ada light meter dalam kamera, tidak perlu lagi alat pengukur terpisah. Fotografer bisa melihat pengukuran cahaya dan langsung menyesuaikan setting kamera tanpa matanya perlu meninggalkan lubang intip (viewfinder). Tampilan light meter di kamera saya seperti ini:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/lightmeter-viewfinder.jpg&quot; alt=&quot; Light Meter dalam Viewfinder &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Di layar LCD juga ada tampilan light meter.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/lightmeter-lcd.jpg&quot; alt=&quot; Light Meter dalam LCD &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kalau indikator berat ke arah &lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt;, maka setting kamera kita kelebihan cahaya.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/metering-overexposed.png&quot; alt=&quot; Light Meter Over Exposed &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Demikian sebaliknya, kalau mengarah ke &lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt;, maka kita perlu menambah cahaya yang ditangkap kamera. Intinya, kita mengatur setting kamera supaya posisi indikator ada di tengah.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/metering-properly-exposed.png&quot; alt=&quot; Light Meter Properly Exposed &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ilustrasi di atas diambil dari &lt;a href=&quot;http://www.nikonusa.com/pdf/manuals/dslr/D5100RM\_EN.pdf‎&quot;&gt;Reference Manual Nikon D5100&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Setting apa yang harus diubah? Hanya ada 3 variabel, sehingga mudah dihafal. Dengan sedikit latihan, prosesnya akan menjadi otomatis tanpa membutuhkan banyak berpikir. Sama seperti kita menghitung perkalian 0-10. Berapa &lt;code class=&quot;highlighter-rouge&quot;&gt;7x8&lt;/code&gt;?&lt;/p&gt;
+
+&lt;p&gt;Tiga variabel ini disebut dengan segitiga exposure:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;ISO. Ini adalah sensitivitas sensor kamera. Semakin besar angkanya, sensor semakin sensitif sehingga sedikit cahaya saja sudah cukup.&lt;/li&gt;
+  &lt;li&gt;Aperture / diafragma. Ini adalah lubang dalam lensa. Semakin besar angkanya, lubang semakin kecil. Semakin kecil lubang, semakin sedikit cahaya yang diterima sensor.&lt;/li&gt;
+  &lt;li&gt;Shutter speed. Ini adalah kecepatan kamera &lt;em&gt;berkedip&lt;/em&gt; dalam detik. Semakin cepat kedipan kamera, semakin sedikit cahaya yang diterima sensor.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Segitiga exposure lebih mudah dipahami dengan ilustrasi berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/exposure-triangle.jpg&quot; alt=&quot; Exposure Triangle &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ilustrasi diambil &lt;a href=&quot;http://www.lightandmatter.org/2011/general-photography-articles/learn-photography/photographys-unifying-theory-the-f-stop/&quot;&gt;dari sini&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apa pengaruh ketiga variabel tersebut pada hasil foto kita?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Penjelasan dan contohnya dijelaskan secara lebih rinci &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/segitiga-exposure/&quot;&gt;di artikel ini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dengan bermodalkan ketiga variabel segitiga exposure, berikut adalah workflow yang biasa saya gunakan:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Setting ISO sesuai kondisi. Siang di luar, ISO 100. Siang dalam ruangan,  ISO 200-400. Malam hari, ISO 1600 ke atas. Tidak ada patokan kaku, ini hanya setting awal saja. Masih mungkin berubah di langkah selanjutnya.&lt;/li&gt;
+  &lt;li&gt;Setting aperture sesuai depth of field yang diinginkan. Biasanya saya pakai f/4 - f/8 untuk street atau action. f/2.8 kebawah untuk portrait.&lt;/li&gt;
+  &lt;li&gt;Intip viewfinder, sesuaikan shutter speed sampai metering pas. Kalau shutter terlalu rendah (dibawah 1/30), naikkan ISO.&lt;/li&gt;
+  &lt;li&gt;Jepret&lt;/li&gt;
+  &lt;li&gt;Periksa histogram. Kalau tidak sesuai, ulangi dari langkah #1.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;contoh-kasus&quot;&gt;Contoh Kasus&lt;/h3&gt;
+
+&lt;p&gt;Situasi: anak-anak bermain di kolam pada siang hari. Set ISO menjadi 100. Kita ingin membekukan cipratan air yang dimainkan anak-anak. Untuk itu kita set shutter speed yang tinggi, misalnya 1/400 detik. Intip viewfinder, sesuaikan aperture sampai indikator light meter ada di tengah, misalnya didapatkan nilai f/8. &lt;a href=&quot;http://www.flickr.com/photos/9177567@N08/10512675224/meta/&quot;&gt;Jepret&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3749/10512675224_eacfb29947_c.jpg&quot; alt=&quot; The Last Water Bender &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Contoh kedua, di dalam ruangan. Set ISO menjadi 400 sebagai titik awal. Kita ingin membuat portrait orang. Biasanya kita buka aperture selebar mungkin, misalnya f/1.8. Intip viewfinder, sesuaikan shutter speed sampai indikator light meter ada di tengah. Ternyata didapatkan 1/80. Karena ini foto orang tidak bergerak, shutter speed tidak perlu sebesar itu. Kita bisa turunkan menjadi 1/60 sehingga ISO juga bisa turun menjadi 320. ISO rendah kualitas fotonya lebih baik. Sebetulnya bisa diturunkan lagi menjadi 1/30 dan ISO 180. Tapi saya takut kehilangan momen, sehingga cukup sampai di 1/60 dan ISO 320 langsung saya &lt;a href=&quot;http://www.flickr.com/photos/9177567@N08/10663109326/meta/&quot;&gt;jepret&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg&quot; alt=&quot; Abah dan HP &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;histogram&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;histogram&quot;&gt;Histogram&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apa itu histogram?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Histogram adalah grafik yang menunjukkan jumlah pixel untuk tiap tingkat terang tertentu. Kita menggunakan histogram untuk mengecek apakah foto kita terlalu terang atau terlalu gelap.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Kenapa tidak lihat saja preview di LCD?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Preview LCD suka menipu. Bila kita lihat LCD di tengah hari bolong, dia akan terlihat gelap. Karena terlihat gelap, maka kita akan jepret lagi dengan menambah cahaya. Akibatnya foto kita malah jadi overexposed. Demikian juga sebaliknya di malam hari, LCD akan terlihat terang, sehingga kita cenderung memotret lagi dengan cahaya dikurangi. Akibatnya fotonya malah jadi underexposed. Supaya tidak bias dengan kondisi cahaya sekitar, lebih aman kalau kita lihat histogram. Bentuknya seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/histogram.jpg&quot; alt=&quot; Histogram &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sisi paling kiri adalah pixel yang gelap. Makin ke kanan makin terang. Jadi kalau foto kita overexposed, histogram akan terlihat berat ke kanan seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/histogram-over.jpg&quot; alt=&quot; Histogram Over &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sedangkan kalau fotonya underexposed, histogram akan terlihat berat di kiri seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/histogram-under.jpg&quot; alt=&quot; Histogram Under &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk rata-rata foto yang kita buat, histogram biasanya akan rata atau cenderung ke tengah&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/histogram-normal.jpg&quot; alt=&quot; Histogram Normal &quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apakah kita harus selalu membuat histogram berat di tengah?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tidak, tergantung objek yang difoto. Coba perhatikan foto berikut&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/background-over.jpg&quot; alt=&quot; Background Over &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Foto ini sudah &lt;em&gt;benar&lt;/em&gt;, karena exposure di wajah subjek sudah tepat. Walaupun demikian, latar belakangnya putih total. Ini disebut dengan istilah &lt;code class=&quot;highlighter-rouge&quot;&gt;clipping&lt;/code&gt;. Artinya kamera sudah tidak mampu merekam informasi karena selisih antara bagian gelap dan terang terlalu jauh.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;dynamic-range&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;dynamic-range&quot;&gt;Dynamic Range&lt;/h2&gt;
+
+&lt;p&gt;Selisih gelap-terang yang bisa direkam kamera disebut dengan istilah &lt;code class=&quot;highlighter-rouge&quot;&gt;dynamic range&lt;/code&gt;. Foto di atas diambil dalam ruangan yang gelap, sedangkan latar belakangnya di luar ruangan pada siang hari. Dalam histogram, clipping ditunjukkan dengan lonjakan nilai di pojok histogram.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/histogram-background-over.jpg&quot; alt=&quot; Histogram Background Over &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bila &lt;em&gt;clipping&lt;/em&gt; terjadi di bagian terang (highlight) maka disebut &lt;em&gt;highlight clipping&lt;/em&gt;. Bisa juga terjadi &lt;em&gt;shadow clipping&lt;/em&gt; bila terjadi di bagian gelap (shadow). Bila kita cetak &lt;em&gt;highlight clipping&lt;/em&gt; di atas kertas putih, printer tidak akan mengeluarkan tinta sama sekali.&lt;/p&gt;
+
+&lt;p&gt;Masalah keterbatasan &lt;em&gt;dynamic range&lt;/em&gt; kamera akan sangat terasa bila kita memotret pakaian hitam-putih di siang hari. Mau mendapatkan detail di pakaian putih, baju hitamnya clipping. Sebaliknya kalau kita ambil detail di pakaian hitam, bagian putih dan langit akan clipping sehingga tidak terlihat batasnya. Berikut contohnya&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/highlight-clipping.jpg&quot; alt=&quot; Highlight Clipping &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pada foto di atas, kita tidak bisa membedakan batas jilbab dan langit, karena keduanya clipping.&lt;/p&gt;
+
+&lt;p&gt;Dalam menghadapi kondisi ini, kita bisa &lt;em&gt;mengangkat&lt;/em&gt; tingkat terang dari bagian gelap menggunakan flash. Kita kembali ke foto awal yang backgroundnya clipping ini&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/background-over.jpg&quot; alt=&quot; Background Over &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pertama, sesuaikan metering supaya background terlihat. Konsekuensinya, subjek akan &lt;em&gt;underexposed&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/subject-under.jpg&quot; alt=&quot; Background Proper, Subject Under &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Setelah itu, gunakan flash untuk &lt;em&gt;mengangkat&lt;/em&gt; tingkat terang dari subjek, sehingga seimbang dengan latarnya. Hasilnya seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/subject-bg-proper.jpg&quot; alt=&quot; Background &amp;amp; Subject Proper &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Teknik seperti ini (menyeimbangkan tingkat cahaya berbagai bagian dalam foto) disebut dengan istilah &lt;em&gt;tonal compression&lt;/em&gt;. Jika ingin melihat fotografer pro melakukannya, silahkan tonton Michael Grecco memotret Martin Scorsese di video berikut.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_nHKBRbqgos&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Perhatikan lampu di kiri bawah subjek.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/grecco-grid-spot.png&quot; alt=&quot; Grid Spot &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Itu tujuannya untuk menerangi baju hitam Martin Scorsese supaya tidak &lt;em&gt;clipping&lt;/em&gt;, mengingat latar belakangnya langit siang yang terang.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/grecco-cloth-detail.png&quot; alt=&quot; Dark Cloth Bright Subject &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;setting-light-meter&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;setting-light-meter&quot;&gt;Setting Light Meter&lt;/h2&gt;
+
+&lt;p&gt;Pada contoh kasus &lt;em&gt;high dynamic range&lt;/em&gt; di atas, kita perlu menyesuaikan metering supaya bagian yang penting dari foto terukur dengan baik. Misalnya kalau kita membuat &lt;em&gt;portrait&lt;/em&gt; (foto yang ada orangnya), tentu bagian yang penting adalah orang, bukan backgroundnya. Dengan demikian, kita harus memastikan exposure di orang tepat, tidak peduli latarnya &lt;em&gt;clipping&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bagaimana cara agar light meter hanya mengukur subjek saja?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Di kamera jaman sekarang, umumnya light meter tersedia dalam 3 mode:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;matrix (Nikon) / evaluative (Canon) : seluruh bagian foto akan diukur dan dirata-rata bagian terang dan gelapnya&lt;/li&gt;
+  &lt;li&gt;center weight : seluruh bagian foto akan diukur, tapi bagian tengah mendapat bobot lebih besar&lt;/li&gt;
+  &lt;li&gt;spot : hanya mengukur satu titik saja di foto&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Berikut pilihan mode metering di kamera Nikon dan Canon&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/canikon-metering-icons.jpg&quot; alt=&quot; Canon Nikon Metering Mode &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Gambar diambil &lt;a href=&quot;http://www.porters.com/blog/?p=2417&quot;&gt;dari sini&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sebagai contoh, kita akan memotret subjek dalam kondisi backlit, yaitu cahaya datang dari belakang subjek. Agar subjek pas pencahayaannya, saya gunakan spot meter di wajah subjek.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/spot-meter.jpg&quot; alt=&quot; Spot Metering &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Di spot meter, posisi indikator light meter akan berada di tengah. Sedangkan untuk setting yang sama, bila kita gunakan mode matrix metering, posisi indikator akan berada di posisi &lt;em&gt;overexposed&lt;/em&gt; karena yang dihitung oleh kamera adalah keseluruhan frame (termasuk latar yang sangat terang), bukan hanya subjeknya saja.&lt;/p&gt;
+
+&lt;p&gt;Walaupun demikian, biasanya saya malas untuk mengubah-ubah setting metering. Kalau sudah terbiasa menganalisa kondisi pencahayaan, kita akan secara otomatis tahu bahwa subjek kita jauh lebih gelap daripada sisa frame, sehingga kita akan langsung memotret dengan kondisi &lt;em&gt;overexposed&lt;/em&gt; di mode Matrix Metering.&lt;/p&gt;
+
+&lt;p&gt;Lebih detail mengenai berbagai mode metering bisa ditonton di video berikut&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/B1H3WYkODWA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Kapan dan bagaimana cara menggunakannya bisa dibaca &lt;a href=&quot;http://blog.mingthein.com/2013/01/04/metering-part-two/&quot;&gt;di penjelasan Ming Thein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;middle-grey&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;metering-dan-middle-grey&quot;&gt;Metering dan Middle Grey&lt;/h2&gt;
+
+&lt;p&gt;Bagaimanapun canggihnya light meter kamera, tetap saja dia tidak bisa mengerti apa yang sedang kita potret. Dia hanya bisa mengarahkan agar tingkat kecerahan ada di tengah-tengah. Tidak terlalu terang, tidak terlalu gelap. Dalam dunia fotografi, posisi tengah-tengah ini disebut middle grey.&lt;/p&gt;
+
+&lt;p&gt;Untuk membuktikannya, kita bisa memotret kertas putih dan kertas hitam. Arahkan kamera ke kertas putih sehingga memenuhi seluruh frame. Setting segitiga exposure supaya posisi indikator light meter ada di tengah. Kemudian jepret dan lihat hasilnya. Histogram akan tampak &lt;em&gt;benar&lt;/em&gt; berada di posisi tengah. Tapi kalau kita lihat fotonya, kertas putih akan terlihat abu-abu.&lt;/p&gt;
+
+&lt;p&gt;Demikian juga sebaliknya dengan kertas hitam. Bila kita posisikan indikator di tengah, hasilnya akan menjadi kertas abu-abu sama seperti kertas putih.&lt;/p&gt;
+
+&lt;p&gt;Untuk lebih jelasnya, silahkan baca percobaan yang dilakukan &lt;a href=&quot;http://www.scantips.com/lights/metering.html&quot;&gt;di sini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;kesimpulan&quot;&gt;Kesimpulan&lt;/h2&gt;
+
+&lt;p&gt;Kamera memiliki pengukur cahaya (light meter) yang canggih, bisa disetting dalam berbagai mode (matrix, center-weighted, spot). Light meter kamera menilai sesuatu terlalu terang atau terlalu gelap dengan membandingkannya dengan posisi pertengahan (middle-grey). Seringkali &lt;em&gt;middle-grey&lt;/em&gt; ini tidak sesuai dengan kondisi yang kita akan foto, misalnya memotret baju putih atau baju hitam. Untuk itu, kita perlu menyesuaikan setting kamera kita dan tidak begitu saja menuruti anjuran light meter.&lt;/p&gt;
+
+&lt;p&gt;Setelah kita memotret, kita bisa verifikasi hasilnya dengan menggunakan histogram. Seperti halnya light meter, posisi histogram juga tidak selalu harus ditengah. Sesuaikan dengan kondisi yang kita foto.&lt;/p&gt;
+
+&lt;p&gt;Untuk menyesuaikan kamera agar bisa mengambil foto (exposure) sesuai keinginan kita, ada tiga variabel yang bisa diubah:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ISO&lt;/li&gt;
+  &lt;li&gt;Aperture&lt;/li&gt;
+  &lt;li&gt;Shutter speed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pelajari lebih dalam mengenai ketiga variabel ini dalam &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/segitiga-exposure/&quot;&gt;artikel lanjutan mengenai segitiga exposure&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Metering dan exposure ini merupakan konsep fundamental dalam fotografi, tidak berubah sejak pertama saya pegang kamera (tahun 1997) dan sepertinya tidak akan berubah di masa yang akan datang. Oleh karena itu kita perlu menguasai konsep ini dengan benar dan berlatih mengubah setting tiga variabel agar menjadi refleks dan bisa dilakukan tanpa berpikir, seperti perkalian 1-10.&lt;/p&gt;
+
+&lt;p&gt;Dengan menguasai mode Manual dan memahami tentang exposure dan metering, kita tidak perlu pusing-pusing mempelajari segala macam mode yang disediakan kamera seperti &lt;em&gt;Scene&lt;/em&gt;, &lt;em&gt;Portrait&lt;/em&gt;, &lt;em&gt;Landscape&lt;/em&gt;, &lt;em&gt;Sport&lt;/em&gt;, dan berbagai mode lainnya.&lt;/p&gt;</content><summary type="html">Saya pertama belajar fotografi di tahun 1995, menggunakan kamera film Nikon F3. Di tahun itu belajar fotografi tidak semudah sekarang. Saat ini, kita tinggal cari di Youtube, video tutorial sangat berlimpah. Mulai dari pengenalan kamera, komposisi, lighting, teknik berpose dan mengarahkan model, apapun yang kita butuhkan tersedia. Panduan saya di jaman dulu adalah buku saku Kodak Pocket Guide to 35mm Photography milik teman sesama pehobi.</summary></entry><entry><title type="html">Tips Memotret dengan Handphone</title><link href="http://localhost:4000/referensi/tips-memotret-dengan-handphone/" rel="alternate" type="text/html" title="Tips Memotret dengan Handphone" /><published>2013-10-31T09:36:00+07:00</published><updated>2013-10-31T09:36:00+07:00</updated><id>http://localhost:4000/referensi/tips-memotret-dengan-handphone</id><content type="html" xml:base="http://localhost:4000/referensi/tips-memotret-dengan-handphone/">&lt;p&gt;Smartphone jaman sekarang sudah bisa menghasilkan kualitas foto yang sangat baik. Ditambah lagi dengan adanya berbagai filter kreatif dan Instagram, sangat memudahkan kita untuk membuat dan mengekspresikan kreativitas kita.&lt;/p&gt;
+
+&lt;p&gt;Walaupun demikian, yang lebih penting adalah visi dan skill yang dimiliki pembuat foto, yang dirangkum dalam &lt;a href=&quot;http://www.digitalinformationworld.com/2013/10/phone-tography-101-infographic-tips-and.html&quot;&gt;infografis dari &lt;code class=&quot;highlighter-rouge&quot;&gt;Totally Rad&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;</content><summary type="html">Smartphone jaman sekarang sudah bisa menghasilkan kualitas foto yang sangat baik. Ditambah lagi dengan adanya berbagai filter kreatif dan Instagram, sangat memudahkan kita untuk membuat dan mengekspresikan kreativitas kita.</summary></entry><entry><title type="html">Membeli Perlengkapan</title><link href="http://localhost:4000/gears/membeli-perlengkapan/" rel="alternate" type="text/html" title="Membeli Perlengkapan" /><published>2013-10-17T08:57:00+07:00</published><updated>2013-10-17T08:57:00+07:00</updated><id>http://localhost:4000/gears/membeli-perlengkapan</id><content type="html" xml:base="http://localhost:4000/gears/membeli-perlengkapan/">&lt;p&gt;Hobi fotografi identik dengan biaya tinggi. 
 Untuk bisa memulai, kita harus beli kamera yang harganya mahal.
 Setelah itu, beli lensa, aksesoris ini itu, yang harganya juga selangit.
 Memang benar, fotografi bukan hal yang murah. 
