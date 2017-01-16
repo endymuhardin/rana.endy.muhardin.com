@@ -4,13 +4,117 @@
  <title>12" di belakang kamera</title>
  <link href="http://rana.endy.muhardin.com/atom.xml" rel="self"/>
  <link href="http://rana.endy.muhardin.com/"/>
- <updated>2016-11-22T10:26:29+07:00</updated>
+ <updated>2017-01-16T10:56:12+07:00</updated>
  <id>http://rana.endy.muhardin.com</id>
  <author>
    <name></name>
    <email>endy.muhardin@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tips Menggunakan Flash</title>
+   <link href="http://rana.endy.muhardin.com/lighting/tips-menggunakan-flash/"/>
+   <updated>2017-01-16T07:55:00+07:00</updated>
+   <id>http://rana.endy.muhardin.com/lighting/tips-menggunakan-flash</id>
+   <content type="html">&lt;p&gt;Pada &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/subject-isolation/&quot;&gt;artikel terdahulu&lt;/a&gt;, kita telah membahas tentang beberapa cara untuk membuat subjek foto menjadi jelas dan menarik perhatian, mengalahkan elemen-elemen pendukungnya. Salah satu caranya adalah menggunakan teknik pencahayaan. Di artikel ini, saya akan berbagi teknik yang biasa saya pakai dalam mengatur pencahayaan untuk menonjolkan subjek.&lt;/p&gt;
+
+&lt;p&gt;Ada beberapa langkah yang biasanya saya lakukan:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Mengambil foto dengan eksposur normal. Bila belum paham apa itu eksposur normal, bisa baca &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;artikel yang ini&lt;/a&gt; dulu sebelum melanjutkan.&lt;/li&gt;
+  &lt;li&gt;Turunkan eksposur satu atau dua stop agar keseluruhan gambar menjadi kurang cahaya (underexposed). Ini tujuannya untuk mengurangi dominasi semua elemen-elemen dalam frame (termasuk subjek utama).&lt;/li&gt;
+  &lt;li&gt;Kembalikan eksposur subjek utama menjadi normal tanpa menaikkan eksposur elemen lain. Untuk ini, kita gunakan flash.&lt;/li&gt;
+  &lt;li&gt;Sesuaikan seperlunya sampai oke.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mari kita lihat prakteknya.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;eksposur-normal&quot;&gt;Eksposur Normal&lt;/h2&gt;
+
+&lt;p&gt;Pada langkah pertama ini, kita ambil dulu foto secara normal. Sesuaikan &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/segitiga-exposure/&quot;&gt;segitiga eksposur&lt;/a&gt; agar jarum lightmeter berada di posisi tengah dan ambil foto. Berikut adalah hasilnya.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/endymuhardin/32202438381/&quot;&gt;&lt;img src=&quot;http://c1.staticflickr.com/1/671/32202438381_1d9bede857_k.jpg&quot; alt=&quot;Eksposur Normal&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Foto di atas dibuat dengan setting 1/30 - f/1.8 - ISO 640.&lt;/p&gt;
+
+&lt;p&gt;Seperti kita lihat, subjek utama terekspos dengan baik, tapi lampu-lampu di latar belakang juga sangat terang sehingga mengalihkan perhatian kita.&lt;/p&gt;
+
+&lt;h2 id=&quot;under-expose&quot;&gt;Under Expose&lt;/h2&gt;
+
+&lt;p&gt;Selanjutnya, kita turunkan eksposur satu stop menjadi 1/30 - f/1.8 - ISO 320. Berikut hasilnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/endymuhardin/31480365384/in/album-72157675417522654/&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/433/31480365384_f8e548aa08_k.jpg&quot; alt=&quot;Underexposed 1 stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kita bisa lihat bahwa lampu di belakang menjadi lebih redup. Tetapi subjek utama kita juga menjadi gelap.&lt;/p&gt;
+
+&lt;h2 id=&quot;tambahkan-flash&quot;&gt;Tambahkan Flash&lt;/h2&gt;
+
+&lt;p&gt;Untuk mengangkat exposur subjek utama saja, tanpa mempengaruhi latarnya, kita gunakan flash. Di sini saya menggunakan mode TTL, dimana kamera membantu kita menghitung power flash secara otomatis. Kalau kita pakai setting manual, maka perlu coba-coba sampai mendapatkan eksposur yang pas. Lebih lanjut tentang pengaturan power flash akan kita bahas pada artikel terpisah.&lt;/p&gt;
+
+&lt;p&gt;Berikut hasil fotonya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/endymuhardin/32172309262/in/album-72157675417522654/&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/473/32172309262_b50079bc7c_k.jpg&quot; alt=&quot;Dengan Flash&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bila kita lihat EXIFnya, di sini saya turunkan lagi exposure latar 1 2/3 stop menjadi 1/100 - f/1.8 - ISO 320. Sehingga totalnya kita telah membuat keseluruhan frame underexposed 2 2/3 stop.&lt;/p&gt;
+
+&lt;p&gt;Nah, coba bandingkan dengan foto yang pertama tadi. Menurut saya, foto yang terakhir lebih menonjolkan subjek utama dengan latar belakang sebagai pelengkap saja. Berbeda dengan foto pertama dimana semua elemen (subjek dan latar) sama-sama terang, bahkan latarnya lebih terang, sehingga berebut perhatian.&lt;/p&gt;
+
+&lt;h2 id=&quot;contoh-lain&quot;&gt;Contoh Lain&lt;/h2&gt;
+
+&lt;p&gt;Mari kita coba sekali lagi.&lt;/p&gt;
+
+&lt;h3 id=&quot;under-exposed-3-stop&quot;&gt;Under Exposed 3 Stop&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/endymuhardin/32321281715/in/album-72157675417522654/&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/268/32321281715_4bef4cf780_k.jpg&quot; alt=&quot;Under 2 Stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;1/40 - f/2.8 - ISO 1000&lt;/p&gt;
+
+&lt;h3 id=&quot;tambahkan-flash-1&quot;&gt;Tambahkan Flash&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/endymuhardin/31944487190/in/album-72157675417522654/&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/324/31944487190_89b7aa7a7b_k.jpg&quot; alt=&quot;-2 stop pakai flash&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;1/40 - f/2.8 - ISO 1000&lt;/p&gt;
+
+&lt;h2 id=&quot;cloudy-white-balance&quot;&gt;Cloudy White Balance&lt;/h2&gt;
+
+&lt;p&gt;Bila kita memotret dengan flash begitu saja, biasanya hasil fotonya tidak terlihat alami. Ini disebabkan karena warna flash sangat putih. Sedangkan di dunia nyata, amat jarang kita temui cahaya yang benar-benar putih. Oleh karena itu, kita  gunakan setting white balance &lt;em&gt;Cloudy&lt;/em&gt; agar warna flashnya menjadi agak warm (sedikit kuning). Idealnya sih kita menggunakan gel. Tapi apa daya kita tidak selalu membawa peralatan lengkap, sehingga setting WB Cloudy menjadi solusi alternatif.&lt;/p&gt;
+
+&lt;p&gt;Mari kita lihat prakteknya. Foto-foto pada contoh kali ini dibuat oleh om Anton. Silahkan kunjungi &lt;a href=&quot;https://www.flickr.com/photos/antonrd/&quot;&gt;akun Flickrnya&lt;/a&gt; untuk melihat karya-karyanya yang lain.&lt;/p&gt;
+
+&lt;h3 id=&quot;under-exposed-3-stop-1&quot;&gt;Under Exposed 3 Stop&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/endymuhardin/31510400203/in/album-72157675417522654/&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/446/31510400203_66a33f3e0c_k.jpg&quot; alt=&quot;Under 3 stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;1/30 - f/1.2 - ISO 100&lt;/p&gt;
+
+&lt;h3 id=&quot;tambahkan-flash-2&quot;&gt;Tambahkan Flash&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/endymuhardin/31479536124/in/album-72157675417522654/&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/352/31479536124_033ef15f8d_k.jpg&quot; alt=&quot;Under 3 Stop dengan Flash&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Perhatikan bahwa cahaya flashnya putih. Terlihat kurang alami, flash banget.&lt;/p&gt;
+
+&lt;h3 id=&quot;cloudy-white-balance-1&quot;&gt;Cloudy White Balance&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/endymuhardin/31944415820/in/album-72157675417522654/&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/484/31944415820_5ee8f7e54c_k.jpg&quot; alt=&quot;Flash + Cloudy WB&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nah, terlihat lebih alami. Bahkan subjeknya juga terlihat lebih bahagia :D&lt;/p&gt;
+
+&lt;h2 id=&quot;penutup&quot;&gt;Penutup&lt;/h2&gt;
+
+&lt;p&gt;Demikian tips singkat cara menggunakan flash, yaitu:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Underexpose beberapa stop&lt;/li&gt;
+  &lt;li&gt;Tambahkan flash&lt;/li&gt;
+  &lt;li&gt;Gunakan WB Cloudy&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Selamat mencoba …&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Stock Photo</title>
