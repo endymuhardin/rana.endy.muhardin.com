@@ -69,6 +69,8 @@ Mari kita coba sekali lagi.
 
 Bila kita memotret dengan flash begitu saja, biasanya hasil fotonya tidak terlihat alami. Ini disebabkan karena warna flash sangat putih. Sedangkan di dunia nyata, amat jarang kita temui cahaya yang benar-benar putih. Oleh karena itu, kita  gunakan setting white balance _Cloudy_ agar warna flashnya menjadi agak warm (sedikit kuning). Idealnya sih kita menggunakan gel. Tapi apa daya kita tidak selalu membawa peralatan lengkap, sehingga setting WB Cloudy menjadi solusi alternatif.
 
+Tips ini saya dapatkan dari [Om Joe McNally](http://blog.joemcnally.com/), ahlinya Nikon CLS.
+
 Mari kita lihat prakteknya. Foto-foto pada contoh kali ini dibuat oleh om Anton. Silahkan kunjungi [akun Flickrnya](https://www.flickr.com/photos/antonrd/) untuk melihat karya-karyanya yang lain.
 
 ### Under Exposed 3 Stop ###
@@ -97,4 +99,4 @@ Demikian tips singkat cara menggunakan flash, yaitu:
 2. Tambahkan flash
 3. Gunakan WB Cloudy
 
-Selamat mencoba ... 
+Selamat mencoba ...
