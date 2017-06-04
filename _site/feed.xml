@@ -1,5 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://rana.endy.muhardin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://rana.endy.muhardin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rana.endy.muhardin.com/" rel="alternate" type="text/html" /><updated>2017-01-16T11:03:48+07:00</updated><id>http://rana.endy.muhardin.com//</id><title type="html">12” di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
-</subtitle><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><entry><title type="html">Tips Menggunakan Flash</title><link href="http://rana.endy.muhardin.com/lighting/tips-menggunakan-flash/" rel="alternate" type="text/html" title="Tips Menggunakan Flash" /><published>2017-01-16T07:55:00+07:00</published><updated>2017-01-16T07:55:00+07:00</updated><id>http://rana.endy.muhardin.com/lighting/tips-menggunakan-flash</id><content type="html" xml:base="http://rana.endy.muhardin.com/lighting/tips-menggunakan-flash/">&lt;p&gt;Pada &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/subject-isolation/&quot;&gt;artikel terdahulu&lt;/a&gt;, kita telah membahas tentang beberapa cara untuk membuat subjek foto menjadi jelas dan menarik perhatian, mengalahkan elemen-elemen pendukungnya. Salah satu caranya adalah menggunakan teknik pencahayaan. Di artikel ini, saya akan berbagi teknik yang biasa saya pakai dalam mengatur pencahayaan untuk menonjolkan subjek.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://rana.endy.muhardin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://rana.endy.muhardin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rana.endy.muhardin.com/" rel="alternate" type="text/html" /><updated>2017-06-04T11:48:35+07:00</updated><id>http://rana.endy.muhardin.com//</id><title type="html">12” di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
+</subtitle><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><entry><title type="html">Raw vs JPEG</title><link href="http://rana.endy.muhardin.com/editing/raw-vs-jpeg/" rel="alternate" type="text/html" title="Raw vs JPEG" /><published>2017-06-04T08:00:00+07:00</published><updated>2017-06-04T08:00:00+07:00</updated><id>http://rana.endy.muhardin.com/editing/raw-vs-jpeg</id><content type="html" xml:base="http://rana.endy.muhardin.com/editing/raw-vs-jpeg/">&lt;p&gt;Bila kita menggunakan kamera DSLR ataupun Mirrorless, biasanya kita akan mendapati pilihan kualitas gambar. Di kamera Nikon, biasanya pilihannya adalah:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Raw&lt;/li&gt;
+  &lt;li&gt;Fine&lt;/li&gt;
+  &lt;li&gt;Normal&lt;/li&gt;
+  &lt;li&gt;Basic&lt;/li&gt;
+  &lt;li&gt;Raw + Fine&lt;/li&gt;
+  &lt;li&gt;Raw + Normal&lt;/li&gt;
+  &lt;li&gt;Raw + Basic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fine, Normal, dan Basic akan menghasilkan file berekstensi &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt;, masing-masing dibedakan dari kualitas pemrosesannya. Fine artinya paling bagus, Normal biasa saja, Basic artinya seadanya. Sedangkan Raw akan menghasilkan file berekstensi &lt;code class=&quot;highlighter-rouge&quot;&gt;NEF&lt;/code&gt; (Nikon), &lt;code class=&quot;highlighter-rouge&quot;&gt;CR2&lt;/code&gt; (Canon), &lt;code class=&quot;highlighter-rouge&quot;&gt;RAF&lt;/code&gt; (Fuji), atau lainnya. Tidak ada pilihan kualitas bagus, sedang, seadanya untuk file Raw.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apa itu file Raw?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;File raw menyimpan data apa adanya yang ditangkap sensor kamera. Sedangkan file &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt; adalah file yang sudah diedit atau diolah oleh prosesor kamera. Bila kita ingin mencetak atau sharing foto di medsos, kita membutuhkan file &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt;. Kita tidak bisa menggunakan file Raw karena ukurannya yang besar (bisa mencapai 40 MB per foto) dan kondisinya yang belum diproses.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lalu apa gunanya file Raw? Kenapa kita tidak pakai JPG saja?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Alasan pertama, teknik pemrosesan yang dilakukan oleh kamera belum tentu sesuai dengan keinginan kita. Masalah white balance, sharpening, pewarnaan, exposure, dan sebagainya, adalah masalah selera masing-masing fotografer. Analoginya, kita serahkan foto kita ke editor lain, lalu membiarkan dia mengedit suka-suka selera dia. Nah, editor lain ini adalah para insinyur pabrik kamera. Kalau kita terima beres &lt;code class=&quot;highlighter-rouge&quot;&gt;jpg&lt;/code&gt; sama saja kita ikut apa selera insinyur Nikon/Canon/Fuji/dsb.&lt;/p&gt;
+
+&lt;p&gt;Alasan kedua, file Raw lebih bisa dimanipulasi daripada JPG, karena data yang ada dalam file jauh lebih banyak. Bandingkan saja ukuran filenya. File Raw ukurannya 20-40 MB, sedangkan file JPG hanya 5-10 MB saja. Dengan data yang lebih banyak, maka file bisa diedit dengan lebih ekstrim.&lt;/p&gt;
+
+&lt;p&gt;Untuk alasan kedua ini, biasanya untuk keperluan pekerjaan (fotografi yang dibayar client), para fotografer cari selamat dengan menggunakan file Raw. File raw dapat menyelamatkan foto yang tadinya sudah hopeless. Berikut contohnya.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Foto ini saya buat dengan menggunakan setting Raw + Fine. Artinya kamera akan menyimpan file &lt;code class=&quot;highlighter-rouge&quot;&gt;NEF&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt;. Pertama, kita tampilkan &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt;nya dulu. Ini hasilnya&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;(http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021.JPG)&quot; alt=&quot;[Original JPEG](http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021.JPG)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hitam, tidak ada apa-apa di sana. Kalo kita amati dengan seksama, ada sedikit detail di sana, tapi jelas kalau ini foto pekerjaan, tentu tidak bisa kita deliver ke client. Kasus ini sangat mungkin terjadi misalnya bila flash kita gagal menyala.&lt;/p&gt;
+
+&lt;p&gt;Sekarang kita load file &lt;code class=&quot;highlighter-rouge&quot;&gt;NEF&lt;/code&gt; dari foto di atas ke dalam aplikasi. Ada banyak aplikasi yang bisa mengolah file Raw, misalnya yang berbayar Adobe Lightroom, Capture One, dan lainnya. Untuk yang gratisan ada &lt;a href=&quot;http://darktable.org&quot;&gt;Darktable&lt;/a&gt;, &lt;a href=&quot;http://rawtherapee.com/&quot;&gt;Raw Therapee&lt;/a&gt;, &lt;a href=&quot;http://photivo.org/&quot;&gt;Photivo&lt;/a&gt;, &lt;a href=&quot;http://ufraw.sourceforge.net/&quot;&gt;UFRaw&lt;/a&gt;, dan sebagainya. Pada contoh ini, kita akan gunakan RawTherapee.&lt;/p&gt;
+
+&lt;p&gt;Berikut tampilannya dalam aplikasi sebelum diedit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;(http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/00-d5600-raw-original.png)&quot; alt=&quot;[Raw Therapee sebelum edit](http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/00-d5600-raw-original.png)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sekarang, kita naikkan exposure 7 stop. Ini kira-kira sama dengan menaikkan ISO dari 100 menjadi 12800. Berikut hasilnya dalam aplikasi&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;(http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/01-d5600-raw-processed.png)&quot; alt=&quot;[Raw Therapee setelah edit](http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/01-d5600-raw-processed.png)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kalau kita zoom 100% memang akan terlihat banyak noise&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;(http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/02-d5600-raw-100.png)&quot; alt=&quot;[Zoom 100%](http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/02-d5600-raw-100.png)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tapi tetap lebih baik dibandingkan versi sebelum edit tadi.&lt;/p&gt;
+
+&lt;p&gt;Setelah kita export menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt;, lumayanlah. Dalam ukuran kecil masih bisa dishare di medsos. Dengan pengeditan lebih lanjut, mungkin ini masih bisa dicetak. Berikut file &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt; hasil export dari &lt;code class=&quot;highlighter-rouge&quot;&gt;NEF&lt;/code&gt; tadi.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;(http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021-edit.jpg)&quot; alt=&quot;[JPG hasil edit]((http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021-edit.jpg))&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Menaikkan exposure sampai 7 stop seperti ini tidak mungkin dilakukan bila filenya &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt;. Silahkan dicoba sendiri kalau tidak percaya 😁. Ini filenya saya kasi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021.JPG&quot;&gt;File JPEG asli dari kamera&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021.NEF&quot;&gt;File RAW asli dari kamera&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021-edit.jpg&quot;&gt;File JPEG hasil export setelah dinaikkan 7 stop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ini baru memperbaiki exposure. Yang lebih sulit adalah memperbaiki white balance. Bila kita cuma punya &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt;, apa boleh buat, kita cuma bisa konversi jadi hitam putih. Karena informasi warnanya sudah hilang, tidak bisa dikembalikan lagi. Kalau kita punya RAW, kita bisa dengan mudah mengganti white balance di aplikasi.&lt;/p&gt;
+
+&lt;p&gt;Walaupun demikian, untuk pemakaian sehari-hari mungkin tidak mengapa hanya memotret &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt; saja, soalnya file Raw ukurannya lumayan juga. Kalau satu file 25 MB, sehari piknik (misalnya dapat 100 foto) sudah butuh 2.5 GB.&lt;/p&gt;
+
+&lt;p&gt;Silahkan dipertimbangkan sendiri plus-minusnya. Mendingan beli harddisk atau kehilangan foto 😋&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><summary type="html">Bila kita menggunakan kamera DSLR ataupun Mirrorless, biasanya kita akan mendapati pilihan kualitas gambar. Di kamera Nikon, biasanya pilihannya adalah:
+
+
+  Raw
+  Fine
+  Normal
+  Basic
+  Raw + Fine
+  Raw + Normal
+  Raw + Basic
+
+
+Fine, Normal, dan Basic akan menghasilkan file berekstensi JPG, masing-masing dibedakan dari kualitas pemrosesannya. Fine artinya paling bagus, Normal biasa saja, Basic artinya seadanya. Sedangkan Raw akan menghasilkan file berekstensi NEF (Nikon), CR2 (Canon), RAF (Fuji), atau lainnya. Tidak ada pilihan kualitas bagus, sedang, seadanya untuk file Raw.
+
+
+  Apa itu file Raw?
+
+
+File raw menyimpan data apa adanya yang ditangkap sensor kamera. Sedangkan file JPG adalah file yang sudah diedit atau diolah oleh prosesor kamera. Bila kita ingin mencetak atau sharing foto di medsos, kita membutuhkan file JPG. Kita tidak bisa menggunakan file Raw karena ukurannya yang besar (bisa mencapai 40 MB per foto) dan kondisinya yang belum diproses.
+
+
+  Lalu apa gunanya file Raw? Kenapa kita tidak pakai JPG saja?
+
+
+Alasan pertama, teknik pemrosesan yang dilakukan oleh kamera belum tentu sesuai dengan keinginan kita. Masalah white balance, sharpening, pewarnaan, exposure, dan sebagainya, adalah masalah selera masing-masing fotografer. Analoginya, kita serahkan foto kita ke editor lain, lalu membiarkan dia mengedit suka-suka selera dia. Nah, editor lain ini adalah para insinyur pabrik kamera. Kalau kita terima beres jpg sama saja kita ikut apa selera insinyur Nikon/Canon/Fuji/dsb.
+
+Alasan kedua, file Raw lebih bisa dimanipulasi daripada JPG, karena data yang ada dalam file jauh lebih banyak. Bandingkan saja ukuran filenya. File Raw ukurannya 20-40 MB, sedangkan file JPG hanya 5-10 MB saja. Dengan data yang lebih banyak, maka file bisa diedit dengan lebih ekstrim.
+
+Untuk alasan kedua ini, biasanya untuk keperluan pekerjaan (fotografi yang dibayar client), para fotografer cari selamat dengan menggunakan file Raw. File raw dapat menyelamatkan foto yang tadinya sudah hopeless. Berikut contohnya.</summary></entry><entry><title type="html">Tips Menggunakan Flash</title><link href="http://rana.endy.muhardin.com/lighting/tips-menggunakan-flash/" rel="alternate" type="text/html" title="Tips Menggunakan Flash" /><published>2017-01-16T07:55:00+07:00</published><updated>2017-01-16T07:55:00+07:00</updated><id>http://rana.endy.muhardin.com/lighting/tips-menggunakan-flash</id><content type="html" xml:base="http://rana.endy.muhardin.com/lighting/tips-menggunakan-flash/">&lt;p&gt;Pada &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/subject-isolation/&quot;&gt;artikel terdahulu&lt;/a&gt;, kita telah membahas tentang beberapa cara untuk membuat subjek foto menjadi jelas dan menarik perhatian, mengalahkan elemen-elemen pendukungnya. Salah satu caranya adalah menggunakan teknik pencahayaan. Di artikel ini, saya akan berbagi teknik yang biasa saya pakai dalam mengatur pencahayaan untuk menonjolkan subjek.&lt;/p&gt;
 
 &lt;p&gt;Ada beberapa langkah yang biasanya saya lakukan:&lt;/p&gt;
 
@@ -1731,8 +1829,4 @@ Foto diambil dari Amazon.com
 
 Di rentang waktu antara 1997 - 2012 saya tidak pegang kamera SLR. Begitu ketemu kamera di tahun 2012, yang saya pegang adalah DSLR, digital SLR. Tentu perbedaan teknologinya sangat signifikan. Walaupun demikian, ternyata prinsip-prinsip fotografi yang sayup-sayup masih ada di ingatan saya peninggalan tahun 1997 masih berlaku.
 
-Pada artikel ini, kita akan membahas tentang prinsip-prinsip dasar exposure. Suatu konsep fundamental yang tak lekang dimakan waktu.</summary></entry><entry><title type="html">Tips Memotret dengan Handphone</title><link href="http://rana.endy.muhardin.com/referensi/tips-memotret-dengan-handphone/" rel="alternate" type="text/html" title="Tips Memotret dengan Handphone" /><published>2013-10-31T09:36:00+07:00</published><updated>2013-10-31T09:36:00+07:00</updated><id>http://rana.endy.muhardin.com/referensi/tips-memotret-dengan-handphone</id><content type="html" xml:base="http://rana.endy.muhardin.com/referensi/tips-memotret-dengan-handphone/">&lt;p&gt;Smartphone jaman sekarang sudah bisa menghasilkan kualitas foto yang sangat baik. Ditambah lagi dengan adanya berbagai filter kreatif dan Instagram, sangat memudahkan kita untuk membuat dan mengekspresikan kreativitas kita.&lt;/p&gt;
-
-&lt;p&gt;Walaupun demikian, yang lebih penting adalah visi dan skill yang dimiliki pembuat foto, yang dirangkum dalam &lt;a href=&quot;http://www.digitalinformationworld.com/2013/10/phone-tography-101-infographic-tips-and.html&quot;&gt;infografis dari &lt;code class=&quot;highlighter-rouge&quot;&gt;Totally Rad&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><summary type="html">Smartphone jaman sekarang sudah bisa menghasilkan kualitas foto yang sangat baik. Ditambah lagi dengan adanya berbagai filter kreatif dan Instagram, sangat memudahkan kita untuk membuat dan mengekspresikan kreativitas kita.
-
-Walaupun demikian, yang lebih penting adalah visi dan skill yang dimiliki pembuat foto, yang dirangkum dalam infografis dari Totally Rad</summary></entry></feed>
+Pada artikel ini, kita akan membahas tentang prinsip-prinsip dasar exposure. Suatu konsep fundamental yang tak lekang dimakan waktu.</summary></entry></feed>
