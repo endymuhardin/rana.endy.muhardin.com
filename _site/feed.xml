@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://rana.endy.muhardin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://rana.endy.muhardin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rana.endy.muhardin.com/" rel="alternate" type="text/html" /><updated>2017-06-04T11:48:35+07:00</updated><id>http://rana.endy.muhardin.com//</id><title type="html">12” di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://rana.endy.muhardin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://rana.endy.muhardin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rana.endy.muhardin.com/" rel="alternate" type="text/html" /><updated>2017-06-04T11:59:31+07:00</updated><id>http://rana.endy.muhardin.com//</id><title type="html">12” di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
 </subtitle><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><entry><title type="html">Raw vs JPEG</title><link href="http://rana.endy.muhardin.com/editing/raw-vs-jpeg/" rel="alternate" type="text/html" title="Raw vs JPEG" /><published>2017-06-04T08:00:00+07:00</published><updated>2017-06-04T08:00:00+07:00</updated><id>http://rana.endy.muhardin.com/editing/raw-vs-jpeg</id><content type="html" xml:base="http://rana.endy.muhardin.com/editing/raw-vs-jpeg/">&lt;p&gt;Bila kita menggunakan kamera DSLR ataupun Mirrorless, biasanya kita akan mendapati pilihan kualitas gambar. Di kamera Nikon, biasanya pilihannya adalah:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -33,7 +33,7 @@
 
 &lt;p&gt;Foto ini saya buat dengan menggunakan setting Raw + Fine. Artinya kamera akan menyimpan file &lt;code class=&quot;highlighter-rouge&quot;&gt;NEF&lt;/code&gt; dan &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt;. Pertama, kita tampilkan &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt;nya dulu. Ini hasilnya&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;(http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021.JPG)&quot; alt=&quot;[Original JPEG](http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021.JPG)&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021.JPG&quot; alt=&quot;Original JPEG&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Hitam, tidak ada apa-apa di sana. Kalo kita amati dengan seksama, ada sedikit detail di sana, tapi jelas kalau ini foto pekerjaan, tentu tidak bisa kita deliver ke client. Kasus ini sangat mungkin terjadi misalnya bila flash kita gagal menyala.&lt;/p&gt;
 
@@ -41,21 +41,21 @@
 
 &lt;p&gt;Berikut tampilannya dalam aplikasi sebelum diedit.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;(http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/00-d5600-raw-original.png)&quot; alt=&quot;[Raw Therapee sebelum edit](http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/00-d5600-raw-original.png)&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/00-d5600-raw-original.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/00-d5600-raw-original.png&quot; alt=&quot;Raw Therapee sebelum edit&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Sekarang, kita naikkan exposure 7 stop. Ini kira-kira sama dengan menaikkan ISO dari 100 menjadi 12800. Berikut hasilnya dalam aplikasi&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;(http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/01-d5600-raw-processed.png)&quot; alt=&quot;[Raw Therapee setelah edit](http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/01-d5600-raw-processed.png)&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/01-d5600-raw-processed.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/01-d5600-raw-processed.png&quot; alt=&quot;Raw Therapee setelah edit&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Kalau kita zoom 100% memang akan terlihat banyak noise&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;(http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/02-d5600-raw-100.png)&quot; alt=&quot;[Zoom 100%](http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/02-d5600-raw-100.png)&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/02-d5600-raw-100.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/02-d5600-raw-100.png&quot; alt=&quot;Zoom 100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Tapi tetap lebih baik dibandingkan versi sebelum edit tadi.&lt;/p&gt;
 
 &lt;p&gt;Setelah kita export menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt;, lumayanlah. Dalam ukuran kecil masih bisa dishare di medsos. Dengan pengeditan lebih lanjut, mungkin ini masih bisa dicetak. Berikut file &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt; hasil export dari &lt;code class=&quot;highlighter-rouge&quot;&gt;NEF&lt;/code&gt; tadi.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;(http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021-edit.jpg)&quot; alt=&quot;[JPG hasil edit]((http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021-edit.jpg))&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021-edit.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/raw-vs-jpeg/DSC_0021-edit.jpg&quot; alt=&quot;JPG hasil edit&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Menaikkan exposure sampai 7 stop seperti ini tidak mungkin dilakukan bila filenya &lt;code class=&quot;highlighter-rouge&quot;&gt;JPG&lt;/code&gt;. Silahkan dicoba sendiri kalau tidak percaya 😁. Ini filenya saya kasi:&lt;/p&gt;
 

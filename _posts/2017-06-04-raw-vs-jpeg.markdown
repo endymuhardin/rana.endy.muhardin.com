@@ -3,7 +3,7 @@ layout: post
 title: "Raw vs JPEG"
 date: 2017-06-04 08:00
 comments: true
-categories: 
+categories:
 - editing
 ---
 
@@ -35,7 +35,7 @@ Untuk alasan kedua ini, biasanya untuk keperluan pekerjaan (fotografi yang dibay
 
 Foto ini saya buat dengan menggunakan setting Raw + Fine. Artinya kamera akan menyimpan file `NEF` dan `JPG`. Pertama, kita tampilkan `JPG`nya dulu. Ini hasilnya
 
-![[Original JPEG]({{site.url}}/images/2017/raw-vs-jpeg/DSC_0021.JPG)](({{site.url}}/images/2017/raw-vs-jpeg/DSC_0021.JPG))
+[![Original JPEG]({{site.url}}/images/2017/raw-vs-jpeg/DSC_0021.JPG)]({{site.url}}/images/2017/raw-vs-jpeg/DSC_0021.JPG)
 
 Hitam, tidak ada apa-apa di sana. Kalo kita amati dengan seksama, ada sedikit detail di sana, tapi jelas kalau ini foto pekerjaan, tentu tidak bisa kita deliver ke client. Kasus ini sangat mungkin terjadi misalnya bila flash kita gagal menyala.
 
@@ -43,21 +43,21 @@ Sekarang kita load file `NEF` dari foto di atas ke dalam aplikasi. Ada banyak ap
 
 Berikut tampilannya dalam aplikasi sebelum diedit.
 
-![[Raw Therapee sebelum edit]({{site.url}}/images/2017/raw-vs-jpeg/00-d5600-raw-original.png)](({{site.url}}/images/2017/raw-vs-jpeg/00-d5600-raw-original.png))
+[![Raw Therapee sebelum edit]({{site.url}}/images/2017/raw-vs-jpeg/00-d5600-raw-original.png)]({{site.url}}/images/2017/raw-vs-jpeg/00-d5600-raw-original.png)
 
 Sekarang, kita naikkan exposure 7 stop. Ini kira-kira sama dengan menaikkan ISO dari 100 menjadi 12800. Berikut hasilnya dalam aplikasi
 
-![[Raw Therapee setelah edit]({{site.url}}/images/2017/raw-vs-jpeg/01-d5600-raw-processed.png)](({{site.url}}/images/2017/raw-vs-jpeg/01-d5600-raw-processed.png))
+[![Raw Therapee setelah edit]({{site.url}}/images/2017/raw-vs-jpeg/01-d5600-raw-processed.png)]({{site.url}}/images/2017/raw-vs-jpeg/01-d5600-raw-processed.png)
 
 Kalau kita zoom 100% memang akan terlihat banyak noise
 
-![[Zoom 100%]({{site.url}}/images/2017/raw-vs-jpeg/02-d5600-raw-100.png)](({{site.url}}/images/2017/raw-vs-jpeg/02-d5600-raw-100.png))
+[![Zoom 100%]({{site.url}}/images/2017/raw-vs-jpeg/02-d5600-raw-100.png)]({{site.url}}/images/2017/raw-vs-jpeg/02-d5600-raw-100.png)
 
 Tapi tetap lebih baik dibandingkan versi sebelum edit tadi.
 
 Setelah kita export menjadi `JPG`, lumayanlah. Dalam ukuran kecil masih bisa dishare di medsos. Dengan pengeditan lebih lanjut, mungkin ini masih bisa dicetak. Berikut file `JPG` hasil export dari `NEF` tadi.
 
-![[JPG hasil edit](({{site.url}}/images/2017/raw-vs-jpeg/DSC_0021-edit.jpg))](({{site.url}}/images/2017/raw-vs-jpeg/DSC_0021-edit.jpg))
+[![JPG hasil edit]({{site.url}}/images/2017/raw-vs-jpeg/DSC_0021-edit.jpg)]({{site.url}}/images/2017/raw-vs-jpeg/DSC_0021-edit.jpg)
 
 Menaikkan exposure sampai 7 stop seperti ini tidak mungkin dilakukan bila filenya `JPG`. Silahkan dicoba sendiri kalau tidak percaya 😁. Ini filenya saya kasi:
 
@@ -70,4 +70,3 @@ Ini baru memperbaiki exposure. Yang lebih sulit adalah memperbaiki white balance
 Walaupun demikian, untuk pemakaian sehari-hari mungkin tidak mengapa hanya memotret `JPG` saja, soalnya file Raw ukurannya lumayan juga. Kalau satu file 25 MB, sehari piknik (misalnya dapat 100 foto) sudah butuh 2.5 GB.
 
 Silahkan dipertimbangkan sendiri plus-minusnya. Mendingan beli harddisk atau kehilangan foto 😋
-
