@@ -1,0 +1,111 @@
+---
+layout: post
+title: "Menggunakan EXIF Data"
+date: 2017-06-11 08:00
+comments: true
+categories:
+- aplikasi
+---
+
+Di era digital ini, kamera yang kita gunakan akan menulis berbagai informasi ke file foto kita, termasuk juga kamera handphone. Informasi ini disebut dengan data EXIF. Data EXIF ini berguna untuk kita analisa di kemudian hari. Misalnya kita ingin tahu setting kamera yang digunakan pada waktu memotret foto tersebut.
+
+[![Exif Data]({{site.url}}/images/2017/exiftool/exif-map.png)]({{site.url}}/images/2017/exiftool/exif-map.png)
+
+Atau kita ingin mengelompokkan / mencari semua foto yang diambil dengan lensa tertentu. Bisa juga untuk menampilkan foto-foto yang kita ambil di dalam peta. Semua bisa didapatkan dengan melihat data EXIF.
+
+[![Exif Data]({{site.url}}/images/2017/exiftool/photomap.png)]({{site.url}}/images/2017/exiftool/photomap.png)
+
+Untuk membaca dan menulis data EXIF, kita bisa gunakan [aplikasi bernama exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/). Aplikasi ini sering saya gunakan untuk mengelola foto, karena dia memiliki fitur diantaranya:
+
+* TOC
+{:toc}
+
+<!--more-->
+
+## Memindahkan File dari Memory Card ##
+
+Aplikasi `exiftool` biasa saya gunakan untuk memindahkan file dari memory card ke harddisk. Saya biasanya menggunakan aturan penamaan `yyyy/MM/dd`, jadi bila foto tersebut diambil di 11 Juni 2017, maka dia akan disimpan dengan struktur folder seperti ini
+
+[![Exif Data]({{site.url}}/images/2017/exiftool/struktur-folder.png)]({{site.url}}/images/2017/exiftool/struktur-folder.png)
+
+Untuk memindahkan file dengan struktur tersebut, perintahnya adalah sebagai berikut
+
+```
+exiftool -progress '-Directory<CreateDate' -d "/Users/endymuhardin/Pictures/%Y/%m/%d" -r /Volumes/NIKON\ D5600/
+```
+
+Dengan cara di atas, kita tinggal menjalankan satu baris perintah dan seluruh isi memory card kita akan pindah dengan struktur folder yang rapi.
+
+## Membaca Shutter Count ##
+
+Bila kita membeli kamera seken, kita biasanya mengecek kondisi fisik, fungsi-fungsi elektronik, dan sudah berapa jepretan yang dibuat kamera tersebut. Dalam bahasa Inggris disebut dengan istilah shuttercount. Informasi ini biasanya ada di dalam data EXIF. Untuk kamera Nikon, kita bisa baca datanya dengan perintah berikut
+
+```
+exiftool DSC_0220.JPG | grep Shutter
+```
+
+Outputnya seperti ini
+
+```
+Shutter Count                   : 10260
+Shutter Speed                   : 1/60
+```
+
+Dari situ kita bisa melihat bahwa kamera tersebut sudah menjepret 10260 kali. Dari sini kita bisa menilai apakah ini kamera kerja atau kamera piknik.
+
+## Menulis Data Lensa Manual ##
+
+Lensa manual merupakan solusi murah meriah untuk melengkapi persenjataan lensa kita. Lensa-lensa jadul ini dibuat dengan kokoh, materialnya dari besi dan kaca, tidak seperti lensa jaman sekarang yang dibuat dari plastik (baik body maupun optiknya). Kualitas hasilnya tajam dan warnanya bagus. Harganya pun murah.
+
+[![Exif Data]({{site.url}}/images/2017/exiftool/DSC_0227.JPG)]({{site.url}}/images/2017/exiftool/DSC_0227.JPG)
+
+Sayangnya, bila kita menggunakan lensa manual informasi tentang lensa tidak terekam dalam file. Contohnya seperti ini
+
+[![Exif Data]({{site.url}}/images/2017/exiftool/exif-lensa-nodata.png)]({{site.url}}/images/2017/exiftool/exif-lensa-nodata.png)
+
+Ini disebabkan karena lensa manual tidak mengirimkan informasi kepada body kamera tentang focal length, aperture, dan informasi-informasi lensa lainnya. Ya maklum saja, lensa ini dibuat waktu jaman kamera film. Mana ada data EXIF di jaman itu.
+
+Sebelum mulai menulis, kita kumpulkan dulu informasi yang akan dimasukkan ke file. Sebagai contoh, saya ingin memasukkan informasi tentang lensa manual tadi, yaitu:
+
+* Jenis lensa : Nikkor AI 80-200/4.5N
+* Focal length yang digunakan pada saat memotret : 80
+* Ekuivalensi untuk full frame : 80 x 1.5 crop factor = 120
+* Aperture yang digunakan pada saat memotret : 8
+* Aperture Minimum : 4.5
+* Aperture Maksimum : 4.5
+
+Setelah lengkap, kita jalankan perintah berikut
+
+```
+exiftool -Lens="Nikkor 80-200mm f/4.5N AI" -ApertureValue="8" -FNumber="8" -FocalLength="200" -FocalLengthIn35mmFormat="300" -MinFocalLength="80" -MaxFocalLength="200" -MaxApertureAtMinFocal="4.5" -MaxApertureAtMaxFocal="4.5" DSC_0220.JPG
+```
+
+Kita bisa lihat hasilnya pada waktu [diupload ke Flickr](https://www.flickr.com/photos/endymuhardin/34421320943/)
+
+[![Exif Data]({{site.url}}/images/2017/exiftool/exif-lensa-edit.png)]({{site.url}}/images/2017/exiftool/exif-lensa-edit.png)
+
+## Menambahkan informasi Geo Tagging ##
+
+Kamera jaman sekarang umumnya sudah dilengkapi dengan perangkat GPS. Dengan demikian, pada waktu kita mengambil foto kamera akan merekam informasi posisi koordinat latitude/longitude dan menulisnya di EXIF. Bila kita menggunakan kamera handphone, biasanya GPS ini otomatis diaktifkan dan informasi geotaggingnya akan ditulis di file.
+
+Walaupun demikian masih banyak kamera yang belum dilengkapi GPS, padahal kita ingin menambahkan informasi lokasi. Terutama bila kita melakukan street photography ataupun ikut kegiatan photowalk.
+
+Solusinya adalah merekam rute perjalanan kita menggunakan smartphone. Di Android kita bisa gunakan aplikasi [Geo Tracker](https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker) dan di iPhone kita bisa gunakan aplikasi [myTracks](https://itunes.apple.com/us/app/mytracks-the-gps-logger/id358697908).
+
+Nyalakan aplikasi GPS logger tersebut sebelum kita memulai photowalk. Setelah selesai, matikan. Kemudian ambil datanya, biasanya dalam format `GPX` atau `KML`.
+
+Selanjutnya, pindahkan dulu file-file foto dari memory card ke laptop menggunakan cara yang telah dijelaskan di atas. Setelah itu, kita isikan data GPS dari file hasil GPS logger tadi ke dalam foto menggunakan `exiftool`. Berikut perintahnya
+
+```
+exiftool -geotag *.gpx -r "/Users/endymuhardin/Pictures/2017/12"
+```
+
+`exiftool` akan mencocokan jam di file `GPX` dengan jam dalam data EXIF di tiap foto. Jadi pastikan jam di kamera sama dengan jam di smartphone. Kalau sudah terlanjur beda, cari tahu bedanya dan beritahu `exiftool` agar menyesuaikan. Misalnya bila jam di kamera menunjukkan `14:00:30` dan di smartphone `14:00:00`, maka perintahnya menjadi seperti ini
+
+```
+exiftool -geosync=+00:00:30 -geotag *.gpx -r "/Users/endymuhardin/Pictures/2017/12"
+```
+
+Teknik seperti ini digunakan di aplikasi-aplikasi kamera yang baru, seperti misalnya Nikon Snapbridge. Cara kerjanya mirip, yaitu merekam informasi posisi di smartphone, kemudian mengirimkannya ke kamera untuk ditulis dalam data EXIF.
+
+Demikianlah cara menggunakan aplikasi `exiftool` untuk mengelola foto kita. Semoga bermanfaat.

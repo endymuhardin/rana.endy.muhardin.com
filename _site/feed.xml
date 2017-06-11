@@ -1,5 +1,120 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://rana.endy.muhardin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://rana.endy.muhardin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rana.endy.muhardin.com/" rel="alternate" type="text/html" /><updated>2017-06-04T11:59:31+07:00</updated><id>http://rana.endy.muhardin.com//</id><title type="html">12” di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
-</subtitle><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><entry><title type="html">Raw vs JPEG</title><link href="http://rana.endy.muhardin.com/editing/raw-vs-jpeg/" rel="alternate" type="text/html" title="Raw vs JPEG" /><published>2017-06-04T08:00:00+07:00</published><updated>2017-06-04T08:00:00+07:00</updated><id>http://rana.endy.muhardin.com/editing/raw-vs-jpeg</id><content type="html" xml:base="http://rana.endy.muhardin.com/editing/raw-vs-jpeg/">&lt;p&gt;Bila kita menggunakan kamera DSLR ataupun Mirrorless, biasanya kita akan mendapati pilihan kualitas gambar. Di kamera Nikon, biasanya pilihannya adalah:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://rana.endy.muhardin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://rana.endy.muhardin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rana.endy.muhardin.com/" rel="alternate" type="text/html" /><updated>2017-06-11T14:36:15+07:00</updated><id>http://rana.endy.muhardin.com//</id><title type="html">12” di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
+</subtitle><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><entry><title type="html">Menggunakan EXIF Data</title><link href="http://rana.endy.muhardin.com/aplikasi/exiftool/" rel="alternate" type="text/html" title="Menggunakan EXIF Data" /><published>2017-06-11T08:00:00+07:00</published><updated>2017-06-11T08:00:00+07:00</updated><id>http://rana.endy.muhardin.com/aplikasi/exiftool</id><content type="html" xml:base="http://rana.endy.muhardin.com/aplikasi/exiftool/">&lt;p&gt;Di era digital ini, kamera yang kita gunakan akan menulis berbagai informasi ke file foto kita, termasuk juga kamera handphone. Informasi ini disebut dengan data EXIF. Data EXIF ini berguna untuk kita analisa di kemudian hari. Misalnya kita ingin tahu setting kamera yang digunakan pada waktu memotret foto tersebut.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-map.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-map.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Atau kita ingin mengelompokkan / mencari semua foto yang diambil dengan lensa tertentu. Bisa juga untuk menampilkan foto-foto yang kita ambil di dalam peta. Semua bisa didapatkan dengan melihat data EXIF.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/photomap.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/photomap.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk membaca dan menulis data EXIF, kita bisa gunakan &lt;a href=&quot;http://www.sno.phy.queensu.ca/~phil/exiftool/&quot;&gt;aplikasi bernama exiftool&lt;/a&gt;. Aplikasi ini sering saya gunakan untuk mengelola foto, karena dia memiliki fitur diantaranya:&lt;/p&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#memindahkan-file-dari-memory-card&quot; id=&quot;markdown-toc-memindahkan-file-dari-memory-card&quot;&gt;Memindahkan File dari Memory Card&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#membaca-shutter-count&quot; id=&quot;markdown-toc-membaca-shutter-count&quot;&gt;Membaca Shutter Count&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#menulis-data-lensa-manual&quot; id=&quot;markdown-toc-menulis-data-lensa-manual&quot;&gt;Menulis Data Lensa Manual&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#menambahkan-informasi-geo-tagging&quot; id=&quot;markdown-toc-menambahkan-informasi-geo-tagging&quot;&gt;Menambahkan informasi Geo Tagging&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;memindahkan-file-dari-memory-card&quot;&gt;Memindahkan File dari Memory Card&lt;/h2&gt;
+
+&lt;p&gt;Aplikasi &lt;code class=&quot;highlighter-rouge&quot;&gt;exiftool&lt;/code&gt; biasa saya gunakan untuk memindahkan file dari memory card ke harddisk. Saya biasanya menggunakan aturan penamaan &lt;code class=&quot;highlighter-rouge&quot;&gt;yyyy/MM/dd&lt;/code&gt;, jadi bila foto tersebut diambil di 11 Juni 2017, maka dia akan disimpan dengan struktur folder seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/struktur-folder.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/struktur-folder.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk memindahkan file dengan struktur tersebut, perintahnya adalah sebagai berikut&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exiftool -progress '-Directory&amp;lt;CreateDate' -d &quot;/Users/endymuhardin/Pictures/%Y/%m/%d&quot; -r /Volumes/NIKON\ D5600/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Dengan cara di atas, kita tinggal menjalankan satu baris perintah dan seluruh isi memory card kita akan pindah dengan struktur folder yang rapi.&lt;/p&gt;
+
+&lt;h2 id=&quot;membaca-shutter-count&quot;&gt;Membaca Shutter Count&lt;/h2&gt;
+
+&lt;p&gt;Bila kita membeli kamera seken, kita biasanya mengecek kondisi fisik, fungsi-fungsi elektronik, dan sudah berapa jepretan yang dibuat kamera tersebut. Dalam bahasa Inggris disebut dengan istilah shuttercount. Informasi ini biasanya ada di dalam data EXIF. Untuk kamera Nikon, kita bisa baca datanya dengan perintah berikut&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exiftool DSC_0220.JPG | grep Shutter
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Outputnya seperti ini&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Shutter Count                   : 10260
+Shutter Speed                   : 1/60
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Dari situ kita bisa melihat bahwa kamera tersebut sudah menjepret 10260 kali. Dari sini kita bisa menilai apakah ini kamera kerja atau kamera piknik.&lt;/p&gt;
+
+&lt;h2 id=&quot;menulis-data-lensa-manual&quot;&gt;Menulis Data Lensa Manual&lt;/h2&gt;
+
+&lt;p&gt;Lensa manual merupakan solusi murah meriah untuk melengkapi persenjataan lensa kita. Lensa-lensa jadul ini dibuat dengan kokoh, materialnya dari besi dan kaca, tidak seperti lensa jaman sekarang yang dibuat dari plastik (baik body maupun optiknya). Kualitas hasilnya tajam dan warnanya bagus. Harganya pun murah.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/DSC_0227.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/DSC_0227.JPG&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sayangnya, bila kita menggunakan lensa manual informasi tentang lensa tidak terekam dalam file. Contohnya seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-nodata.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-nodata.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ini disebabkan karena lensa manual tidak mengirimkan informasi kepada body kamera tentang focal length, aperture, dan informasi-informasi lensa lainnya. Ya maklum saja, lensa ini dibuat waktu jaman kamera film. Mana ada data EXIF di jaman itu.&lt;/p&gt;
+
+&lt;p&gt;Sebelum mulai menulis, kita kumpulkan dulu informasi yang akan dimasukkan ke file. Sebagai contoh, saya ingin memasukkan informasi tentang lensa manual tadi, yaitu:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jenis lensa : Nikkor AI 80-200/4.5N&lt;/li&gt;
+  &lt;li&gt;Focal length yang digunakan pada saat memotret : 80&lt;/li&gt;
+  &lt;li&gt;Ekuivalensi untuk full frame : 80 x 1.5 crop factor = 120&lt;/li&gt;
+  &lt;li&gt;Aperture yang digunakan pada saat memotret : 8&lt;/li&gt;
+  &lt;li&gt;Aperture Minimum : 4.5&lt;/li&gt;
+  &lt;li&gt;Aperture Maksimum : 4.5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Setelah lengkap, kita jalankan perintah berikut&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exiftool -Lens=&quot;Nikkor 80-200mm f/4.5N AI&quot; -ApertureValue=&quot;8&quot; -FNumber=&quot;8&quot; -FocalLength=&quot;200&quot; -FocalLengthIn35mmFormat=&quot;300&quot; -MinFocalLength=&quot;80&quot; -MaxFocalLength=&quot;200&quot; -MaxApertureAtMinFocal=&quot;4.5&quot; -MaxApertureAtMaxFocal=&quot;4.5&quot; DSC_0220.JPG
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Kita bisa lihat hasilnya pada waktu &lt;a href=&quot;https://www.flickr.com/photos/endymuhardin/34421320943/&quot;&gt;diupload ke Flickr&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-edit.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-edit.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;menambahkan-informasi-geo-tagging&quot;&gt;Menambahkan informasi Geo Tagging&lt;/h2&gt;
+
+&lt;p&gt;Kamera jaman sekarang umumnya sudah dilengkapi dengan perangkat GPS. Dengan demikian, pada waktu kita mengambil foto kamera akan merekam informasi posisi koordinat latitude/longitude dan menulisnya di EXIF. Bila kita menggunakan kamera handphone, biasanya GPS ini otomatis diaktifkan dan informasi geotaggingnya akan ditulis di file.&lt;/p&gt;
+
+&lt;p&gt;Walaupun demikian masih banyak kamera yang belum dilengkapi GPS, padahal kita ingin menambahkan informasi lokasi. Terutama bila kita melakukan street photography ataupun ikut kegiatan photowalk.&lt;/p&gt;
+
+&lt;p&gt;Solusinya adalah merekam rute perjalanan kita menggunakan smartphone. Di Android kita bisa gunakan aplikasi &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker&quot;&gt;Geo Tracker&lt;/a&gt; dan di iPhone kita bisa gunakan aplikasi &lt;a href=&quot;https://itunes.apple.com/us/app/mytracks-the-gps-logger/id358697908&quot;&gt;myTracks&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nyalakan aplikasi GPS logger tersebut sebelum kita memulai photowalk. Setelah selesai, matikan. Kemudian ambil datanya, biasanya dalam format &lt;code class=&quot;highlighter-rouge&quot;&gt;GPX&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;KML&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Selanjutnya, pindahkan dulu file-file foto dari memory card ke laptop menggunakan cara yang telah dijelaskan di atas. Setelah itu, kita isikan data GPS dari file hasil GPS logger tadi ke dalam foto menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;exiftool&lt;/code&gt;. Berikut perintahnya&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exiftool -geotag *.gpx -r &quot;/Users/endymuhardin/Pictures/2017/12&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;exiftool&lt;/code&gt; akan mencocokan jam di file &lt;code class=&quot;highlighter-rouge&quot;&gt;GPX&lt;/code&gt; dengan jam dalam data EXIF di tiap foto. Jadi pastikan jam di kamera sama dengan jam di smartphone. Kalau sudah terlanjur beda, cari tahu bedanya dan beritahu &lt;code class=&quot;highlighter-rouge&quot;&gt;exiftool&lt;/code&gt; agar menyesuaikan. Misalnya bila jam di kamera menunjukkan &lt;code class=&quot;highlighter-rouge&quot;&gt;14:00:30&lt;/code&gt; dan di smartphone &lt;code class=&quot;highlighter-rouge&quot;&gt;14:00:00&lt;/code&gt;, maka perintahnya menjadi seperti ini&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exiftool -geosync=+00:00:30 -geotag *.gpx -r &quot;/Users/endymuhardin/Pictures/2017/12&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Teknik seperti ini digunakan di aplikasi-aplikasi kamera yang baru, seperti misalnya Nikon Snapbridge. Cara kerjanya mirip, yaitu merekam informasi posisi di smartphone, kemudian mengirimkannya ke kamera untuk ditulis dalam data EXIF.&lt;/p&gt;
+
+&lt;p&gt;Demikianlah cara menggunakan aplikasi &lt;code class=&quot;highlighter-rouge&quot;&gt;exiftool&lt;/code&gt; untuk mengelola foto kita. Semoga bermanfaat.&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><summary type="html">Di era digital ini, kamera yang kita gunakan akan menulis berbagai informasi ke file foto kita, termasuk juga kamera handphone. Informasi ini disebut dengan data EXIF. Data EXIF ini berguna untuk kita analisa di kemudian hari. Misalnya kita ingin tahu setting kamera yang digunakan pada waktu memotret foto tersebut.
+
+
+
+Atau kita ingin mengelompokkan / mencari semua foto yang diambil dengan lensa tertentu. Bisa juga untuk menampilkan foto-foto yang kita ambil di dalam peta. Semua bisa didapatkan dengan melihat data EXIF.
+
+
+
+Untuk membaca dan menulis data EXIF, kita bisa gunakan aplikasi bernama exiftool. Aplikasi ini sering saya gunakan untuk mengelola foto, karena dia memiliki fitur diantaranya:</summary></entry><entry><title type="html">Raw vs JPEG</title><link href="http://rana.endy.muhardin.com/editing/raw-vs-jpeg/" rel="alternate" type="text/html" title="Raw vs JPEG" /><published>2017-06-04T08:00:00+07:00</published><updated>2017-06-04T08:00:00+07:00</updated><id>http://rana.endy.muhardin.com/editing/raw-vs-jpeg</id><content type="html" xml:base="http://rana.endy.muhardin.com/editing/raw-vs-jpeg/">&lt;p&gt;Bila kita menggunakan kamera DSLR ataupun Mirrorless, biasanya kita akan mendapati pilihan kualitas gambar. Di kamera Nikon, biasanya pilihannya adalah:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Raw&lt;/li&gt;
@@ -1584,249 +1699,4 @@ Tapi kenyataannya tidak demikian. Semua fotografer itu ya manusia biasa seperti 
   Latihan
 
 
-Di artikel ini, saya akan membuat daftar link yang membahas proses berpikir (thought process) fotografer dalam menghasilkan karya yang bagus. Kita akan melihat prosesnya mulai dari analisa situasi, trial-and-error, menemukan ide, dan akhirnya melakukan eksekusi dengan sempurna. Isi artikel akan terus diupdate tiap kali saya menemukan link bagus.</summary></entry><entry><title type="html">Exposure dan Metering</title><link href="http://rana.endy.muhardin.com/teknik/exposure-dan-metering/" rel="alternate" type="text/html" title="Exposure dan Metering" /><published>2013-11-04T17:20:00+07:00</published><updated>2013-11-04T17:20:00+07:00</updated><id>http://rana.endy.muhardin.com/teknik/exposure-dan-metering</id><content type="html" xml:base="http://rana.endy.muhardin.com/teknik/exposure-dan-metering/">&lt;p&gt;Saya pertama belajar fotografi di tahun 1995, menggunakan kamera film Nikon F3. Di tahun itu belajar fotografi tidak semudah sekarang. Saat ini, kita tinggal cari di Youtube, video tutorial sangat berlimpah. Mulai dari pengenalan kamera, komposisi, lighting, teknik berpose dan mengarahkan model, apapun yang kita butuhkan tersedia. Panduan saya di jaman dulu adalah buku saku &lt;a href=&quot;http://www.amazon.com/KODAK-Pocket-Guide-35MM-Photography/dp/0879857692&quot;&gt;Kodak Pocket Guide to 35mm Photography&lt;/a&gt; milik teman sesama pehobi.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/kodak-pocket-guide.jpg&quot; alt=&quot; Kodak Pocket Guide &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Foto diambil dari Amazon.com&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Di rentang waktu antara 1997 - 2012 saya tidak pegang kamera SLR. Begitu ketemu kamera di tahun 2012, yang saya pegang adalah DSLR, digital SLR. Tentu perbedaan teknologinya sangat signifikan. Walaupun demikian, ternyata prinsip-prinsip fotografi yang sayup-sayup masih ada di ingatan saya peninggalan tahun 1997 masih berlaku.&lt;/p&gt;
-
-&lt;p&gt;Pada artikel ini, kita akan membahas tentang prinsip-prinsip dasar exposure. Suatu konsep fundamental yang tak lekang dimakan waktu.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;apa-itu-exposure-&quot;&gt;Apa itu Exposure ?&lt;/h2&gt;
-
-&lt;p&gt;Exposure bahasa Indonesianya adalah pencahayaan. Di jaman film dulu, exposure artinya kita memaparkan (expose) film ke cahaya. Di jaman digital sekarang, film diganti dengan sensor. Kalau cahaya yang dipaparkan terlalu banyak, istilah di film dulu adalah &lt;em&gt;terbakar&lt;/em&gt;. Kalau dicetak hasilnya putih belaka. Kalau cahaya kurang, gambarnya menjadi gelap. Dalam bahasa Inggris, foto yang kelebihan cahaya disebut &lt;em&gt;overexposed&lt;/em&gt; atau biasa disingkat dengan &lt;em&gt;over&lt;/em&gt; saja. Foto yang kekurangan cahaya disebut &lt;em&gt;underexposed&lt;/em&gt;, biasa disingkat menjadi &lt;em&gt;under&lt;/em&gt; saja.&lt;/p&gt;
-
-&lt;p&gt;Enaknya belajar foto di masa digital, kita bisa langsung tahu apakah hasil jepretan kita &lt;em&gt;over&lt;/em&gt; atau &lt;em&gt;under&lt;/em&gt; dengan cara melihat LCD di belakang kamera. Di jaman film dulu, harus menunggu beberapa hari/minggu sampai film selesai dicuci dan dicetak, barulah kita tahu hasilnya benar atau salah. Pada waktu kita lihat hasilnya, kita sudah lupa setting yang dipakai pada waktu memotret :D Jadi, di jaman film dulu, sangat penting kita menghitung cahaya dengan teliti, agar hasilnya tidak &lt;em&gt;under&lt;/em&gt; atau &lt;em&gt;over&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Walaupun banyak kemudahan di era digital, penting bagi kita untuk bisa mendapatkan &lt;em&gt;exposure&lt;/em&gt; yang tepat dalam sekali jepret. Kalau setiap kali harus lihat LCD dulu, momen-nya keburu lewat.&lt;/p&gt;
-
-&lt;p&gt;Sejak jaman Nikon F3 dulu, kamera sudah dilengkapi dengan pengukur cahaya (light meter). Sebelum era F3, fotografer harus membawa alat pengukur terpisah. Cara kerjanya:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Ukur cahaya dengan light meter&lt;/li&gt;
-  &lt;li&gt;Baca hasil pengukuran&lt;/li&gt;
-  &lt;li&gt;Setting kamera sesuai hasil pengukuran&lt;/li&gt;
-  &lt;li&gt;Jepret&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/nikon-f3.jpeg&quot; alt=&quot; Nikon F3 &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;foto diambil dari &lt;a href=&quot;http://en.wikipedia.org/wiki/File:Nikon_F3_with_HP_viewfinder.jpeg&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Tapi sejak ada light meter dalam kamera, tidak perlu lagi alat pengukur terpisah. Fotografer bisa melihat pengukuran cahaya dan langsung menyesuaikan setting kamera tanpa matanya perlu meninggalkan lubang intip (viewfinder). Tampilan light meter di kamera saya seperti ini:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/lightmeter-viewfinder.jpg&quot; alt=&quot; Light Meter dalam Viewfinder &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Di layar LCD juga ada tampilan light meter.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/lightmeter-lcd.jpg&quot; alt=&quot; Light Meter dalam LCD &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kalau indikator berat ke arah &lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt;, maka setting kamera kita kelebihan cahaya.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/metering-overexposed.png&quot; alt=&quot; Light Meter Over Exposed &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Demikian sebaliknya, kalau mengarah ke &lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt;, maka kita perlu menambah cahaya yang ditangkap kamera. Intinya, kita mengatur setting kamera supaya posisi indikator ada di tengah.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/metering-properly-exposed.png&quot; alt=&quot; Light Meter Properly Exposed &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Ilustrasi di atas diambil dari &lt;a href=&quot;http://www.nikonusa.com/pdf/manuals/dslr/D5100RM\_EN.pdf‎&quot;&gt;Reference Manual Nikon D5100&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Setting apa yang harus diubah? Hanya ada 3 variabel, sehingga mudah dihafal. Dengan sedikit latihan, prosesnya akan menjadi otomatis tanpa membutuhkan banyak berpikir. Sama seperti kita menghitung perkalian 0-10. Berapa &lt;code class=&quot;highlighter-rouge&quot;&gt;7x8&lt;/code&gt;?&lt;/p&gt;
-
-&lt;p&gt;Tiga variabel ini disebut dengan segitiga exposure:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;ISO. Ini adalah sensitivitas sensor kamera. Semakin besar angkanya, sensor semakin sensitif sehingga sedikit cahaya saja sudah cukup.&lt;/li&gt;
-  &lt;li&gt;Aperture / diafragma. Ini adalah lubang dalam lensa. Semakin besar angkanya, lubang semakin kecil. Semakin kecil lubang, semakin sedikit cahaya yang diterima sensor.&lt;/li&gt;
-  &lt;li&gt;Shutter speed. Ini adalah kecepatan kamera &lt;em&gt;berkedip&lt;/em&gt; dalam detik. Semakin cepat kedipan kamera, semakin sedikit cahaya yang diterima sensor.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Segitiga exposure lebih mudah dipahami dengan ilustrasi berikut&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/exposure-triangle.jpg&quot; alt=&quot; Exposure Triangle &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ilustrasi diambil &lt;a href=&quot;http://www.lightandmatter.org/2011/general-photography-articles/learn-photography/photographys-unifying-theory-the-f-stop/&quot;&gt;dari sini&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Apa pengaruh ketiga variabel tersebut pada hasil foto kita?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Penjelasan dan contohnya dijelaskan secara lebih rinci &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/segitiga-exposure/&quot;&gt;di artikel ini&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Dengan bermodalkan ketiga variabel segitiga exposure, berikut adalah workflow yang biasa saya gunakan:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Setting ISO sesuai kondisi. Siang di luar, ISO 100. Siang dalam ruangan,  ISO 200-400. Malam hari, ISO 1600 ke atas. Tidak ada patokan kaku, ini hanya setting awal saja. Masih mungkin berubah di langkah selanjutnya.&lt;/li&gt;
-  &lt;li&gt;Setting aperture sesuai depth of field yang diinginkan. Biasanya saya pakai f/4 - f/8 untuk street atau action. f/2.8 kebawah untuk portrait.&lt;/li&gt;
-  &lt;li&gt;Intip viewfinder, sesuaikan shutter speed sampai metering pas. Kalau shutter terlalu rendah (dibawah 1/30), naikkan ISO.&lt;/li&gt;
-  &lt;li&gt;Jepret&lt;/li&gt;
-  &lt;li&gt;Periksa histogram. Kalau tidak sesuai, ulangi dari langkah #1.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;contoh-kasus&quot;&gt;Contoh Kasus&lt;/h3&gt;
-
-&lt;p&gt;Situasi: anak-anak bermain di kolam pada siang hari. Set ISO menjadi 100. Kita ingin membekukan cipratan air yang dimainkan anak-anak. Untuk itu kita set shutter speed yang tinggi, misalnya 1/400 detik. Intip viewfinder, sesuaikan aperture sampai indikator light meter ada di tengah, misalnya didapatkan nilai f/8. &lt;a href=&quot;http://www.flickr.com/photos/9177567@N08/10512675224/meta/&quot;&gt;Jepret&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3749/10512675224_eacfb29947_c.jpg&quot; alt=&quot; The Last Water Bender &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Contoh kedua, di dalam ruangan. Set ISO menjadi 400 sebagai titik awal. Kita ingin membuat portrait orang. Biasanya kita buka aperture selebar mungkin, misalnya f/1.8. Intip viewfinder, sesuaikan shutter speed sampai indikator light meter ada di tengah. Ternyata didapatkan 1/80. Karena ini foto orang tidak bergerak, shutter speed tidak perlu sebesar itu. Kita bisa turunkan menjadi 1/60 sehingga ISO juga bisa turun menjadi 320. ISO rendah kualitas fotonya lebih baik. Sebetulnya bisa diturunkan lagi menjadi 1/30 dan ISO 180. Tapi saya takut kehilangan momen, sehingga cukup sampai di 1/60 dan ISO 320 langsung saya &lt;a href=&quot;http://www.flickr.com/photos/9177567@N08/10663109326/meta/&quot;&gt;jepret&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg&quot; alt=&quot; Abah dan HP &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;histogram&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;histogram&quot;&gt;Histogram&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Apa itu histogram?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Histogram adalah grafik yang menunjukkan jumlah pixel untuk tiap tingkat terang tertentu. Kita menggunakan histogram untuk mengecek apakah foto kita terlalu terang atau terlalu gelap.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Kenapa tidak lihat saja preview di LCD?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Preview LCD suka menipu. Bila kita lihat LCD di tengah hari bolong, dia akan terlihat gelap. Karena terlihat gelap, maka kita akan jepret lagi dengan menambah cahaya. Akibatnya foto kita malah jadi overexposed. Demikian juga sebaliknya di malam hari, LCD akan terlihat terang, sehingga kita cenderung memotret lagi dengan cahaya dikurangi. Akibatnya fotonya malah jadi underexposed. Supaya tidak bias dengan kondisi cahaya sekitar, lebih aman kalau kita lihat histogram. Bentuknya seperti ini&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/histogram.jpg&quot; alt=&quot; Histogram &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sisi paling kiri adalah pixel yang gelap. Makin ke kanan makin terang. Jadi kalau foto kita overexposed, histogram akan terlihat berat ke kanan seperti ini&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/histogram-over.jpg&quot; alt=&quot; Histogram Over &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sedangkan kalau fotonya underexposed, histogram akan terlihat berat di kiri seperti ini&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/histogram-under.jpg&quot; alt=&quot; Histogram Under &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Untuk rata-rata foto yang kita buat, histogram biasanya akan rata atau cenderung ke tengah&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/histogram-normal.jpg&quot; alt=&quot; Histogram Normal &quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Apakah kita harus selalu membuat histogram berat di tengah?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tidak, tergantung objek yang difoto. Coba perhatikan foto berikut&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/background-over.jpg&quot; alt=&quot; Background Over &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Foto ini sudah &lt;em&gt;benar&lt;/em&gt;, karena exposure di wajah subjek sudah tepat. Walaupun demikian, latar belakangnya putih total. Ini disebut dengan istilah &lt;code class=&quot;highlighter-rouge&quot;&gt;clipping&lt;/code&gt;. Artinya kamera sudah tidak mampu merekam informasi karena selisih antara bagian gelap dan terang terlalu jauh.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;dynamic-range&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;dynamic-range&quot;&gt;Dynamic Range&lt;/h2&gt;
-
-&lt;p&gt;Selisih gelap-terang yang bisa direkam kamera disebut dengan istilah &lt;code class=&quot;highlighter-rouge&quot;&gt;dynamic range&lt;/code&gt;. Foto di atas diambil dalam ruangan yang gelap, sedangkan latar belakangnya di luar ruangan pada siang hari. Dalam histogram, clipping ditunjukkan dengan lonjakan nilai di pojok histogram.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/histogram-background-over.jpg&quot; alt=&quot; Histogram Background Over &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Bila &lt;em&gt;clipping&lt;/em&gt; terjadi di bagian terang (highlight) maka disebut &lt;em&gt;highlight clipping&lt;/em&gt;. Bisa juga terjadi &lt;em&gt;shadow clipping&lt;/em&gt; bila terjadi di bagian gelap (shadow). Bila kita cetak &lt;em&gt;highlight clipping&lt;/em&gt; di atas kertas putih, printer tidak akan mengeluarkan tinta sama sekali.&lt;/p&gt;
-
-&lt;p&gt;Masalah keterbatasan &lt;em&gt;dynamic range&lt;/em&gt; kamera akan sangat terasa bila kita memotret pakaian hitam-putih di siang hari. Mau mendapatkan detail di pakaian putih, baju hitamnya clipping. Sebaliknya kalau kita ambil detail di pakaian hitam, bagian putih dan langit akan clipping sehingga tidak terlihat batasnya. Berikut contohnya&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/highlight-clipping.jpg&quot; alt=&quot; Highlight Clipping &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Pada foto di atas, kita tidak bisa membedakan batas jilbab dan langit, karena keduanya clipping.&lt;/p&gt;
-
-&lt;p&gt;Dalam menghadapi kondisi ini, kita bisa &lt;em&gt;mengangkat&lt;/em&gt; tingkat terang dari bagian gelap menggunakan flash. Kita kembali ke foto awal yang backgroundnya clipping ini&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/background-over.jpg&quot; alt=&quot; Background Over &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Pertama, sesuaikan metering supaya background terlihat. Konsekuensinya, subjek akan &lt;em&gt;underexposed&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/subject-under.jpg&quot; alt=&quot; Background Proper, Subject Under &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Setelah itu, gunakan flash untuk &lt;em&gt;mengangkat&lt;/em&gt; tingkat terang dari subjek, sehingga seimbang dengan latarnya. Hasilnya seperti ini&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/subject-bg-proper.jpg&quot; alt=&quot; Background &amp;amp; Subject Proper &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Teknik seperti ini (menyeimbangkan tingkat cahaya berbagai bagian dalam foto) disebut dengan istilah &lt;em&gt;tonal compression&lt;/em&gt;. Jika ingin melihat fotografer pro melakukannya, silahkan tonton Michael Grecco memotret Martin Scorsese di video berikut.&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_nHKBRbqgos&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Perhatikan lampu di kiri bawah subjek.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/grecco-grid-spot.png&quot; alt=&quot; Grid Spot &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Itu tujuannya untuk menerangi baju hitam Martin Scorsese supaya tidak &lt;em&gt;clipping&lt;/em&gt;, mengingat latar belakangnya langit siang yang terang.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/grecco-cloth-detail.png&quot; alt=&quot; Dark Cloth Bright Subject &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;setting-light-meter&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;setting-light-meter&quot;&gt;Setting Light Meter&lt;/h2&gt;
-
-&lt;p&gt;Pada contoh kasus &lt;em&gt;high dynamic range&lt;/em&gt; di atas, kita perlu menyesuaikan metering supaya bagian yang penting dari foto terukur dengan baik. Misalnya kalau kita membuat &lt;em&gt;portrait&lt;/em&gt; (foto yang ada orangnya), tentu bagian yang penting adalah orang, bukan backgroundnya. Dengan demikian, kita harus memastikan exposure di orang tepat, tidak peduli latarnya &lt;em&gt;clipping&lt;/em&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Bagaimana cara agar light meter hanya mengukur subjek saja?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Di kamera jaman sekarang, umumnya light meter tersedia dalam 3 mode:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;matrix (Nikon) / evaluative (Canon) : seluruh bagian foto akan diukur dan dirata-rata bagian terang dan gelapnya&lt;/li&gt;
-  &lt;li&gt;center weight : seluruh bagian foto akan diukur, tapi bagian tengah mendapat bobot lebih besar&lt;/li&gt;
-  &lt;li&gt;spot : hanya mengukur satu titik saja di foto&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Berikut pilihan mode metering di kamera Nikon dan Canon&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/canikon-metering-icons.jpg&quot; alt=&quot; Canon Nikon Metering Mode &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Gambar diambil &lt;a href=&quot;http://www.porters.com/blog/?p=2417&quot;&gt;dari sini&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Sebagai contoh, kita akan memotret subjek dalam kondisi backlit, yaitu cahaya datang dari belakang subjek. Agar subjek pas pencahayaannya, saya gunakan spot meter di wajah subjek.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/exposure-metering/spot-meter.jpg&quot; alt=&quot; Spot Metering &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Di spot meter, posisi indikator light meter akan berada di tengah. Sedangkan untuk setting yang sama, bila kita gunakan mode matrix metering, posisi indikator akan berada di posisi &lt;em&gt;overexposed&lt;/em&gt; karena yang dihitung oleh kamera adalah keseluruhan frame (termasuk latar yang sangat terang), bukan hanya subjeknya saja.&lt;/p&gt;
-
-&lt;p&gt;Walaupun demikian, biasanya saya malas untuk mengubah-ubah setting metering. Kalau sudah terbiasa menganalisa kondisi pencahayaan, kita akan secara otomatis tahu bahwa subjek kita jauh lebih gelap daripada sisa frame, sehingga kita akan langsung memotret dengan kondisi &lt;em&gt;overexposed&lt;/em&gt; di mode Matrix Metering.&lt;/p&gt;
-
-&lt;p&gt;Lebih detail mengenai berbagai mode metering bisa ditonton di video berikut&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/B1H3WYkODWA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Kapan dan bagaimana cara menggunakannya bisa dibaca &lt;a href=&quot;http://blog.mingthein.com/2013/01/04/metering-part-two/&quot;&gt;di penjelasan Ming Thein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;middle-grey&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;metering-dan-middle-grey&quot;&gt;Metering dan Middle Grey&lt;/h2&gt;
-
-&lt;p&gt;Bagaimanapun canggihnya light meter kamera, tetap saja dia tidak bisa mengerti apa yang sedang kita potret. Dia hanya bisa mengarahkan agar tingkat kecerahan ada di tengah-tengah. Tidak terlalu terang, tidak terlalu gelap. Dalam dunia fotografi, posisi tengah-tengah ini disebut middle grey.&lt;/p&gt;
-
-&lt;p&gt;Untuk membuktikannya, kita bisa memotret kertas putih dan kertas hitam. Arahkan kamera ke kertas putih sehingga memenuhi seluruh frame. Setting segitiga exposure supaya posisi indikator light meter ada di tengah. Kemudian jepret dan lihat hasilnya. Histogram akan tampak &lt;em&gt;benar&lt;/em&gt; berada di posisi tengah. Tapi kalau kita lihat fotonya, kertas putih akan terlihat abu-abu.&lt;/p&gt;
-
-&lt;p&gt;Demikian juga sebaliknya dengan kertas hitam. Bila kita posisikan indikator di tengah, hasilnya akan menjadi kertas abu-abu sama seperti kertas putih.&lt;/p&gt;
-
-&lt;p&gt;Untuk lebih jelasnya, silahkan baca percobaan yang dilakukan &lt;a href=&quot;http://www.scantips.com/lights/metering.html&quot;&gt;di sini&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;kesimpulan&quot;&gt;Kesimpulan&lt;/h2&gt;
-
-&lt;p&gt;Kamera memiliki pengukur cahaya (light meter) yang canggih, bisa disetting dalam berbagai mode (matrix, center-weighted, spot). Light meter kamera menilai sesuatu terlalu terang atau terlalu gelap dengan membandingkannya dengan posisi pertengahan (middle-grey). Seringkali &lt;em&gt;middle-grey&lt;/em&gt; ini tidak sesuai dengan kondisi yang kita akan foto, misalnya memotret baju putih atau baju hitam. Untuk itu, kita perlu menyesuaikan setting kamera kita dan tidak begitu saja menuruti anjuran light meter.&lt;/p&gt;
-
-&lt;p&gt;Setelah kita memotret, kita bisa verifikasi hasilnya dengan menggunakan histogram. Seperti halnya light meter, posisi histogram juga tidak selalu harus ditengah. Sesuaikan dengan kondisi yang kita foto.&lt;/p&gt;
-
-&lt;p&gt;Untuk menyesuaikan kamera agar bisa mengambil foto (exposure) sesuai keinginan kita, ada tiga variabel yang bisa diubah:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ISO&lt;/li&gt;
-  &lt;li&gt;Aperture&lt;/li&gt;
-  &lt;li&gt;Shutter speed&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pelajari lebih dalam mengenai ketiga variabel ini dalam &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/segitiga-exposure/&quot;&gt;artikel lanjutan mengenai segitiga exposure&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Metering dan exposure ini merupakan konsep fundamental dalam fotografi, tidak berubah sejak pertama saya pegang kamera (tahun 1997) dan sepertinya tidak akan berubah di masa yang akan datang. Oleh karena itu kita perlu menguasai konsep ini dengan benar dan berlatih mengubah setting tiga variabel agar menjadi refleks dan bisa dilakukan tanpa berpikir, seperti perkalian 1-10.&lt;/p&gt;
-
-&lt;p&gt;Dengan menguasai mode Manual dan memahami tentang exposure dan metering, kita tidak perlu pusing-pusing mempelajari segala macam mode yang disediakan kamera seperti &lt;em&gt;Scene&lt;/em&gt;, &lt;em&gt;Portrait&lt;/em&gt;, &lt;em&gt;Landscape&lt;/em&gt;, &lt;em&gt;Sport&lt;/em&gt;, dan berbagai mode lainnya.&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><summary type="html">Saya pertama belajar fotografi di tahun 1995, menggunakan kamera film Nikon F3. Di tahun itu belajar fotografi tidak semudah sekarang. Saat ini, kita tinggal cari di Youtube, video tutorial sangat berlimpah. Mulai dari pengenalan kamera, komposisi, lighting, teknik berpose dan mengarahkan model, apapun yang kita butuhkan tersedia. Panduan saya di jaman dulu adalah buku saku Kodak Pocket Guide to 35mm Photography milik teman sesama pehobi.
-
-
-
-Foto diambil dari Amazon.com
-
-Di rentang waktu antara 1997 - 2012 saya tidak pegang kamera SLR. Begitu ketemu kamera di tahun 2012, yang saya pegang adalah DSLR, digital SLR. Tentu perbedaan teknologinya sangat signifikan. Walaupun demikian, ternyata prinsip-prinsip fotografi yang sayup-sayup masih ada di ingatan saya peninggalan tahun 1997 masih berlaku.
-
-Pada artikel ini, kita akan membahas tentang prinsip-prinsip dasar exposure. Suatu konsep fundamental yang tak lekang dimakan waktu.</summary></entry></feed>
+Di artikel ini, saya akan membuat daftar link yang membahas proses berpikir (thought process) fotografer dalam menghasilkan karya yang bagus. Kita akan melihat prosesnya mulai dari analisa situasi, trial-and-error, menemukan ide, dan akhirnya melakukan eksekusi dengan sempurna. Isi artikel akan terus diupdate tiap kali saya menemukan link bagus.</summary></entry></feed>

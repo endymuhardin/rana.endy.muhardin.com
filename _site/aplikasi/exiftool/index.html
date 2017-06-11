@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Menggunakan EXIF Data &middot; 12" di belakang kamera
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/lanyon.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" >
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body class="theme-base-08">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
+</p>
+  </div>
+<div class="sidebar-logo">
+    <img src="http://www.gravatar.com/avatar/a3c8a6a973fc0c0fa3d89cb69c103ad0?s=120" />
+  </div>
+<div id="contact-list" style="text-align:center">
+    
+      <a href="https://flickr.com/photos/endymuhardin">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-flickr fa-stack-1x"></i>
+        </span>
+      </a>
+    
+
+    
+      <a href="https://twitter.com/endymuhardin">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-twitter fa-stack-1x"></i>
+        </span>
+      </a>
+    
+
+    
+      <a href="https://facebook.com/endy.muhardin">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-facebook fa-stack-1x"></i>
+        </span>
+      </a>
+    
+
+    
+      <a href="https://instagram.com/endymuhardin">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-instagram fa-stack-1x"></i>
+        </span>
+      </a>
+    
+    
+    
+    
+      <a href="mailto:endy.muhardin@gmail.com">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-envelope fa-stack-1x"></i>
+        </span>
+      </a>
+    
+    <a href="/atom.xml">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-square-o fa-stack-2x"></i>
+        <i class="fa fa-rss fa-stack-1x"></i>
+      </span>
+    </a>
+</div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about/">About</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/archives/">Archives</a>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+      
+    
+
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2017. All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">12" di belakang kamera</a>
+            <small></small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <div class="post">
+  <h1 class="post-title">Menggunakan EXIF Data</h1>
+  <span class="post-date">11 Jun 2017</span>
+  <p>Di era digital ini, kamera yang kita gunakan akan menulis berbagai informasi ke file foto kita, termasuk juga kamera handphone. Informasi ini disebut dengan data EXIF. Data EXIF ini berguna untuk kita analisa di kemudian hari. Misalnya kita ingin tahu setting kamera yang digunakan pada waktu memotret foto tersebut.</p>
+
+<p><a href="http://rana.endy.muhardin.com/images/2017/exiftool/exif-map.png"><img src="http://rana.endy.muhardin.com/images/2017/exiftool/exif-map.png" alt="Exif Data" /></a></p>
+
+<p>Atau kita ingin mengelompokkan / mencari semua foto yang diambil dengan lensa tertentu. Bisa juga untuk menampilkan foto-foto yang kita ambil di dalam peta. Semua bisa didapatkan dengan melihat data EXIF.</p>
+
+<p><a href="http://rana.endy.muhardin.com/images/2017/exiftool/photomap.png"><img src="http://rana.endy.muhardin.com/images/2017/exiftool/photomap.png" alt="Exif Data" /></a></p>
+
+<p>Untuk membaca dan menulis data EXIF, kita bisa gunakan <a href="http://www.sno.phy.queensu.ca/~phil/exiftool/">aplikasi bernama exiftool</a>. Aplikasi ini sering saya gunakan untuk mengelola foto, karena dia memiliki fitur diantaranya:</p>
+
+<ul id="markdown-toc">
+  <li><a href="#memindahkan-file-dari-memory-card" id="markdown-toc-memindahkan-file-dari-memory-card">Memindahkan File dari Memory Card</a></li>
+  <li><a href="#membaca-shutter-count" id="markdown-toc-membaca-shutter-count">Membaca Shutter Count</a></li>
+  <li><a href="#menulis-data-lensa-manual" id="markdown-toc-menulis-data-lensa-manual">Menulis Data Lensa Manual</a></li>
+  <li><a href="#menambahkan-informasi-geo-tagging" id="markdown-toc-menambahkan-informasi-geo-tagging">Menambahkan informasi Geo Tagging</a></li>
+</ul>
+
+<!--more-->
+
+<h2 id="memindahkan-file-dari-memory-card">Memindahkan File dari Memory Card</h2>
+
+<p>Aplikasi <code class="highlighter-rouge">exiftool</code> biasa saya gunakan untuk memindahkan file dari memory card ke harddisk. Saya biasanya menggunakan aturan penamaan <code class="highlighter-rouge">yyyy/MM/dd</code>, jadi bila foto tersebut diambil di 11 Juni 2017, maka dia akan disimpan dengan struktur folder seperti ini</p>
+
+<p><a href="http://rana.endy.muhardin.com/images/2017/exiftool/struktur-folder.png"><img src="http://rana.endy.muhardin.com/images/2017/exiftool/struktur-folder.png" alt="Exif Data" /></a></p>
+
+<p>Untuk memindahkan file dengan struktur tersebut, perintahnya adalah sebagai berikut</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>exiftool -progress '-Directory&lt;CreateDate' -d "/Users/endymuhardin/Pictures/%Y/%m/%d" -r /Volumes/NIKON\ D5600/
+</code></pre>
+</div>
+
+<p>Dengan cara di atas, kita tinggal menjalankan satu baris perintah dan seluruh isi memory card kita akan pindah dengan struktur folder yang rapi.</p>
+
+<h2 id="membaca-shutter-count">Membaca Shutter Count</h2>
+
+<p>Bila kita membeli kamera seken, kita biasanya mengecek kondisi fisik, fungsi-fungsi elektronik, dan sudah berapa jepretan yang dibuat kamera tersebut. Dalam bahasa Inggris disebut dengan istilah shuttercount. Informasi ini biasanya ada di dalam data EXIF. Untuk kamera Nikon, kita bisa baca datanya dengan perintah berikut</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>exiftool DSC_0220.JPG | grep Shutter
+</code></pre>
+</div>
+
+<p>Outputnya seperti ini</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Shutter Count                   : 10260
+Shutter Speed                   : 1/60
+</code></pre>
+</div>
+
+<p>Dari situ kita bisa melihat bahwa kamera tersebut sudah menjepret 10260 kali. Dari sini kita bisa menilai apakah ini kamera kerja atau kamera piknik.</p>
+
+<h2 id="menulis-data-lensa-manual">Menulis Data Lensa Manual</h2>
+
+<p>Lensa manual merupakan solusi murah meriah untuk melengkapi persenjataan lensa kita. Lensa-lensa jadul ini dibuat dengan kokoh, materialnya dari besi dan kaca, tidak seperti lensa jaman sekarang yang dibuat dari plastik (baik body maupun optiknya). Kualitas hasilnya tajam dan warnanya bagus. Harganya pun murah.</p>
+
+<p><a href="http://rana.endy.muhardin.com/images/2017/exiftool/DSC_0227.JPG"><img src="http://rana.endy.muhardin.com/images/2017/exiftool/DSC_0227.JPG" alt="Exif Data" /></a></p>
+
+<p>Sayangnya, bila kita menggunakan lensa manual informasi tentang lensa tidak terekam dalam file. Contohnya seperti ini</p>
+
+<p><a href="http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-nodata.png"><img src="http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-nodata.png" alt="Exif Data" /></a></p>
+
+<p>Ini disebabkan karena lensa manual tidak mengirimkan informasi kepada body kamera tentang focal length, aperture, dan informasi-informasi lensa lainnya. Ya maklum saja, lensa ini dibuat waktu jaman kamera film. Mana ada data EXIF di jaman itu.</p>
+
+<p>Sebelum mulai menulis, kita kumpulkan dulu informasi yang akan dimasukkan ke file. Sebagai contoh, saya ingin memasukkan informasi tentang lensa manual tadi, yaitu:</p>
+
+<ul>
+  <li>Jenis lensa : Nikkor AI 80-200/4.5N</li>
+  <li>Focal length yang digunakan pada saat memotret : 80</li>
+  <li>Ekuivalensi untuk full frame : 80 x 1.5 crop factor = 120</li>
+  <li>Aperture yang digunakan pada saat memotret : 8</li>
+  <li>Aperture Minimum : 4.5</li>
+  <li>Aperture Maksimum : 4.5</li>
+</ul>
+
+<p>Setelah lengkap, kita jalankan perintah berikut</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>exiftool -Lens="Nikkor 80-200mm f/4.5N AI" -ApertureValue="8" -FNumber="8" -FocalLength="200" -FocalLengthIn35mmFormat="300" -MinFocalLength="80" -MaxFocalLength="200" -MaxApertureAtMinFocal="4.5" -MaxApertureAtMaxFocal="4.5" DSC_0220.JPG
+</code></pre>
+</div>
+
+<p>Kita bisa lihat hasilnya pada waktu <a href="https://www.flickr.com/photos/endymuhardin/34421320943/">diupload ke Flickr</a></p>
+
+<p><a href="http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-edit.png"><img src="http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-edit.png" alt="Exif Data" /></a></p>
+
+<h2 id="menambahkan-informasi-geo-tagging">Menambahkan informasi Geo Tagging</h2>
+
+<p>Kamera jaman sekarang umumnya sudah dilengkapi dengan perangkat GPS. Dengan demikian, pada waktu kita mengambil foto kamera akan merekam informasi posisi koordinat latitude/longitude dan menulisnya di EXIF. Bila kita menggunakan kamera handphone, biasanya GPS ini otomatis diaktifkan dan informasi geotaggingnya akan ditulis di file.</p>
+
+<p>Walaupun demikian masih banyak kamera yang belum dilengkapi GPS, padahal kita ingin menambahkan informasi lokasi. Terutama bila kita melakukan street photography ataupun ikut kegiatan photowalk.</p>
+
+<p>Solusinya adalah merekam rute perjalanan kita menggunakan smartphone. Di Android kita bisa gunakan aplikasi <a href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker">Geo Tracker</a> dan di iPhone kita bisa gunakan aplikasi <a href="https://itunes.apple.com/us/app/mytracks-the-gps-logger/id358697908">myTracks</a>.</p>
+
+<p>Nyalakan aplikasi GPS logger tersebut sebelum kita memulai photowalk. Setelah selesai, matikan. Kemudian ambil datanya, biasanya dalam format <code class="highlighter-rouge">GPX</code> atau <code class="highlighter-rouge">KML</code>.</p>
+
+<p>Selanjutnya, pindahkan dulu file-file foto dari memory card ke laptop menggunakan cara yang telah dijelaskan di atas. Setelah itu, kita isikan data GPS dari file hasil GPS logger tadi ke dalam foto menggunakan <code class="highlighter-rouge">exiftool</code>. Berikut perintahnya</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>exiftool -geotag *.gpx -r "/Users/endymuhardin/Pictures/2017/12"
+</code></pre>
+</div>
+
+<p><code class="highlighter-rouge">exiftool</code> akan mencocokan jam di file <code class="highlighter-rouge">GPX</code> dengan jam dalam data EXIF di tiap foto. Jadi pastikan jam di kamera sama dengan jam di smartphone. Kalau sudah terlanjur beda, cari tahu bedanya dan beritahu <code class="highlighter-rouge">exiftool</code> agar menyesuaikan. Misalnya bila jam di kamera menunjukkan <code class="highlighter-rouge">14:00:30</code> dan di smartphone <code class="highlighter-rouge">14:00:00</code>, maka perintahnya menjadi seperti ini</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>exiftool -geosync=+00:00:30 -geotag *.gpx -r "/Users/endymuhardin/Pictures/2017/12"
+</code></pre>
+</div>
+
+<p>Teknik seperti ini digunakan di aplikasi-aplikasi kamera yang baru, seperti misalnya Nikon Snapbridge. Cara kerjanya mirip, yaitu merekam informasi posisi di smartphone, kemudian mengirimkannya ke kamera untuk ditulis dalam data EXIF.</p>
+
+<p>Demikianlah cara menggunakan aplikasi <code class="highlighter-rouge">exiftool</code> untuk mengelola foto kita. Semoga bermanfaat.</p>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/editing/raw-vs-jpeg/">
+            Raw vs JPEG
+            <small>04 Jun 2017</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/lighting/tips-menggunakan-flash/">
+            Tips Menggunakan Flash
+            <small>16 Jan 2017</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/bisnis/stock-photo/">
+            Stock Photo
+            <small>21 Nov 2016</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

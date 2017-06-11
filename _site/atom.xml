@@ -4,13 +4,129 @@
  <title>12" di belakang kamera</title>
  <link href="http://rana.endy.muhardin.com/atom.xml" rel="self"/>
  <link href="http://rana.endy.muhardin.com/"/>
- <updated>2017-06-04T11:59:31+07:00</updated>
+ <updated>2017-06-11T14:36:15+07:00</updated>
  <id>http://rana.endy.muhardin.com</id>
  <author>
    <name></name>
    <email>endy.muhardin@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Menggunakan EXIF Data</title>
+   <link href="http://rana.endy.muhardin.com/aplikasi/exiftool/"/>
+   <updated>2017-06-11T08:00:00+07:00</updated>
+   <id>http://rana.endy.muhardin.com/aplikasi/exiftool</id>
+   <content type="html">&lt;p&gt;Di era digital ini, kamera yang kita gunakan akan menulis berbagai informasi ke file foto kita, termasuk juga kamera handphone. Informasi ini disebut dengan data EXIF. Data EXIF ini berguna untuk kita analisa di kemudian hari. Misalnya kita ingin tahu setting kamera yang digunakan pada waktu memotret foto tersebut.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-map.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-map.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Atau kita ingin mengelompokkan / mencari semua foto yang diambil dengan lensa tertentu. Bisa juga untuk menampilkan foto-foto yang kita ambil di dalam peta. Semua bisa didapatkan dengan melihat data EXIF.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/photomap.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/photomap.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk membaca dan menulis data EXIF, kita bisa gunakan &lt;a href=&quot;http://www.sno.phy.queensu.ca/~phil/exiftool/&quot;&gt;aplikasi bernama exiftool&lt;/a&gt;. Aplikasi ini sering saya gunakan untuk mengelola foto, karena dia memiliki fitur diantaranya:&lt;/p&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#memindahkan-file-dari-memory-card&quot; id=&quot;markdown-toc-memindahkan-file-dari-memory-card&quot;&gt;Memindahkan File dari Memory Card&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#membaca-shutter-count&quot; id=&quot;markdown-toc-membaca-shutter-count&quot;&gt;Membaca Shutter Count&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#menulis-data-lensa-manual&quot; id=&quot;markdown-toc-menulis-data-lensa-manual&quot;&gt;Menulis Data Lensa Manual&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#menambahkan-informasi-geo-tagging&quot; id=&quot;markdown-toc-menambahkan-informasi-geo-tagging&quot;&gt;Menambahkan informasi Geo Tagging&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;memindahkan-file-dari-memory-card&quot;&gt;Memindahkan File dari Memory Card&lt;/h2&gt;
+
+&lt;p&gt;Aplikasi &lt;code class=&quot;highlighter-rouge&quot;&gt;exiftool&lt;/code&gt; biasa saya gunakan untuk memindahkan file dari memory card ke harddisk. Saya biasanya menggunakan aturan penamaan &lt;code class=&quot;highlighter-rouge&quot;&gt;yyyy/MM/dd&lt;/code&gt;, jadi bila foto tersebut diambil di 11 Juni 2017, maka dia akan disimpan dengan struktur folder seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/struktur-folder.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/struktur-folder.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk memindahkan file dengan struktur tersebut, perintahnya adalah sebagai berikut&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exiftool -progress '-Directory&amp;lt;CreateDate' -d &quot;/Users/endymuhardin/Pictures/%Y/%m/%d&quot; -r /Volumes/NIKON\ D5600/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Dengan cara di atas, kita tinggal menjalankan satu baris perintah dan seluruh isi memory card kita akan pindah dengan struktur folder yang rapi.&lt;/p&gt;
+
+&lt;h2 id=&quot;membaca-shutter-count&quot;&gt;Membaca Shutter Count&lt;/h2&gt;
+
+&lt;p&gt;Bila kita membeli kamera seken, kita biasanya mengecek kondisi fisik, fungsi-fungsi elektronik, dan sudah berapa jepretan yang dibuat kamera tersebut. Dalam bahasa Inggris disebut dengan istilah shuttercount. Informasi ini biasanya ada di dalam data EXIF. Untuk kamera Nikon, kita bisa baca datanya dengan perintah berikut&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exiftool DSC_0220.JPG | grep Shutter
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Outputnya seperti ini&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Shutter Count                   : 10260
+Shutter Speed                   : 1/60
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Dari situ kita bisa melihat bahwa kamera tersebut sudah menjepret 10260 kali. Dari sini kita bisa menilai apakah ini kamera kerja atau kamera piknik.&lt;/p&gt;
+
+&lt;h2 id=&quot;menulis-data-lensa-manual&quot;&gt;Menulis Data Lensa Manual&lt;/h2&gt;
+
+&lt;p&gt;Lensa manual merupakan solusi murah meriah untuk melengkapi persenjataan lensa kita. Lensa-lensa jadul ini dibuat dengan kokoh, materialnya dari besi dan kaca, tidak seperti lensa jaman sekarang yang dibuat dari plastik (baik body maupun optiknya). Kualitas hasilnya tajam dan warnanya bagus. Harganya pun murah.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/DSC_0227.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/DSC_0227.JPG&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sayangnya, bila kita menggunakan lensa manual informasi tentang lensa tidak terekam dalam file. Contohnya seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-nodata.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-nodata.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ini disebabkan karena lensa manual tidak mengirimkan informasi kepada body kamera tentang focal length, aperture, dan informasi-informasi lensa lainnya. Ya maklum saja, lensa ini dibuat waktu jaman kamera film. Mana ada data EXIF di jaman itu.&lt;/p&gt;
+
+&lt;p&gt;Sebelum mulai menulis, kita kumpulkan dulu informasi yang akan dimasukkan ke file. Sebagai contoh, saya ingin memasukkan informasi tentang lensa manual tadi, yaitu:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jenis lensa : Nikkor AI 80-200/4.5N&lt;/li&gt;
+  &lt;li&gt;Focal length yang digunakan pada saat memotret : 80&lt;/li&gt;
+  &lt;li&gt;Ekuivalensi untuk full frame : 80 x 1.5 crop factor = 120&lt;/li&gt;
+  &lt;li&gt;Aperture yang digunakan pada saat memotret : 8&lt;/li&gt;
+  &lt;li&gt;Aperture Minimum : 4.5&lt;/li&gt;
+  &lt;li&gt;Aperture Maksimum : 4.5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Setelah lengkap, kita jalankan perintah berikut&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exiftool -Lens=&quot;Nikkor 80-200mm f/4.5N AI&quot; -ApertureValue=&quot;8&quot; -FNumber=&quot;8&quot; -FocalLength=&quot;200&quot; -FocalLengthIn35mmFormat=&quot;300&quot; -MinFocalLength=&quot;80&quot; -MaxFocalLength=&quot;200&quot; -MaxApertureAtMinFocal=&quot;4.5&quot; -MaxApertureAtMaxFocal=&quot;4.5&quot; DSC_0220.JPG
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Kita bisa lihat hasilnya pada waktu &lt;a href=&quot;https://www.flickr.com/photos/endymuhardin/34421320943/&quot;&gt;diupload ke Flickr&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-edit.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-edit.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;menambahkan-informasi-geo-tagging&quot;&gt;Menambahkan informasi Geo Tagging&lt;/h2&gt;
+
+&lt;p&gt;Kamera jaman sekarang umumnya sudah dilengkapi dengan perangkat GPS. Dengan demikian, pada waktu kita mengambil foto kamera akan merekam informasi posisi koordinat latitude/longitude dan menulisnya di EXIF. Bila kita menggunakan kamera handphone, biasanya GPS ini otomatis diaktifkan dan informasi geotaggingnya akan ditulis di file.&lt;/p&gt;
+
+&lt;p&gt;Walaupun demikian masih banyak kamera yang belum dilengkapi GPS, padahal kita ingin menambahkan informasi lokasi. Terutama bila kita melakukan street photography ataupun ikut kegiatan photowalk.&lt;/p&gt;
+
+&lt;p&gt;Solusinya adalah merekam rute perjalanan kita menggunakan smartphone. Di Android kita bisa gunakan aplikasi &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker&quot;&gt;Geo Tracker&lt;/a&gt; dan di iPhone kita bisa gunakan aplikasi &lt;a href=&quot;https://itunes.apple.com/us/app/mytracks-the-gps-logger/id358697908&quot;&gt;myTracks&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nyalakan aplikasi GPS logger tersebut sebelum kita memulai photowalk. Setelah selesai, matikan. Kemudian ambil datanya, biasanya dalam format &lt;code class=&quot;highlighter-rouge&quot;&gt;GPX&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;KML&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Selanjutnya, pindahkan dulu file-file foto dari memory card ke laptop menggunakan cara yang telah dijelaskan di atas. Setelah itu, kita isikan data GPS dari file hasil GPS logger tadi ke dalam foto menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;exiftool&lt;/code&gt;. Berikut perintahnya&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exiftool -geotag *.gpx -r &quot;/Users/endymuhardin/Pictures/2017/12&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;exiftool&lt;/code&gt; akan mencocokan jam di file &lt;code class=&quot;highlighter-rouge&quot;&gt;GPX&lt;/code&gt; dengan jam dalam data EXIF di tiap foto. Jadi pastikan jam di kamera sama dengan jam di smartphone. Kalau sudah terlanjur beda, cari tahu bedanya dan beritahu &lt;code class=&quot;highlighter-rouge&quot;&gt;exiftool&lt;/code&gt; agar menyesuaikan. Misalnya bila jam di kamera menunjukkan &lt;code class=&quot;highlighter-rouge&quot;&gt;14:00:30&lt;/code&gt; dan di smartphone &lt;code class=&quot;highlighter-rouge&quot;&gt;14:00:00&lt;/code&gt;, maka perintahnya menjadi seperti ini&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exiftool -geosync=+00:00:30 -geotag *.gpx -r &quot;/Users/endymuhardin/Pictures/2017/12&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Teknik seperti ini digunakan di aplikasi-aplikasi kamera yang baru, seperti misalnya Nikon Snapbridge. Cara kerjanya mirip, yaitu merekam informasi posisi di smartphone, kemudian mengirimkannya ke kamera untuk ditulis dalam data EXIF.&lt;/p&gt;
+
+&lt;p&gt;Demikianlah cara menggunakan aplikasi &lt;code class=&quot;highlighter-rouge&quot;&gt;exiftool&lt;/code&gt; untuk mengelola foto kita. Semoga bermanfaat.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Raw vs JPEG</title>
