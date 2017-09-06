@@ -1,5 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://rana.endy.muhardin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://rana.endy.muhardin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rana.endy.muhardin.com/" rel="alternate" type="text/html" /><updated>2017-06-11T14:36:15+07:00</updated><id>http://rana.endy.muhardin.com//</id><title type="html">12” di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
-</subtitle><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><entry><title type="html">Menggunakan EXIF Data</title><link href="http://rana.endy.muhardin.com/aplikasi/exiftool/" rel="alternate" type="text/html" title="Menggunakan EXIF Data" /><published>2017-06-11T08:00:00+07:00</published><updated>2017-06-11T08:00:00+07:00</updated><id>http://rana.endy.muhardin.com/aplikasi/exiftool</id><content type="html" xml:base="http://rana.endy.muhardin.com/aplikasi/exiftool/">&lt;p&gt;Di era digital ini, kamera yang kita gunakan akan menulis berbagai informasi ke file foto kita, termasuk juga kamera handphone. Informasi ini disebut dengan data EXIF. Data EXIF ini berguna untuk kita analisa di kemudian hari. Misalnya kita ingin tahu setting kamera yang digunakan pada waktu memotret foto tersebut.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://rana.endy.muhardin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://rana.endy.muhardin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rana.endy.muhardin.com/" rel="alternate" type="text/html" /><updated>2017-09-06T09:52:12+07:00</updated><id>http://rana.endy.muhardin.com//</id><title type="html">12” di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
+</subtitle><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><entry><title type="html">Reparasi YongNuo Stuck di Full Power</title><link href="http://rana.endy.muhardin.com/gears/reparasi-yn-stuck-full-power/" rel="alternate" type="text/html" title="Reparasi YongNuo Stuck di Full Power" /><published>2017-06-11T08:00:00+07:00</published><updated>2017-06-11T08:00:00+07:00</updated><id>http://rana.endy.muhardin.com/gears/reparasi-yn-stuck-full-power</id><content type="html" xml:base="http://rana.endy.muhardin.com/gears/reparasi-yn-stuck-full-power/">&lt;p&gt;Flash YongNuo merupakan paket speedlight dan trigger yang murah meriah dan cukup handal. Rekan-rekan saya di Komunitas Fotografi Bogor banyak yang menggunakan paket flash YongNuo di puluhan wedding dan sangat puas dengan hasilnya.&lt;/p&gt;
+
+&lt;p&gt;Saya sendiri juga menggunakan flash YongNuo selama 3 tahun lebih. Flash pertama yang saya miliki adalah YongNuo YN560-III yang sudah memiliki built-in wireless receiver. Artinya, kita tidak perlu lagi memasang perangkat tambahan untuk mengontrol power dan zoom flash dari jauh.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/yn-family.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/yn-family.jpg&quot; alt=&quot;YongNuo Family&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Setelah itu, saya membeli satu lagi YN560-IV. Versi yang lebih baru ini telah memiliki built-in transmitter dan receiver. Artinya dia bisa mengendalikan power dan zoom flash lain dari jauh.&lt;/p&gt;
+
+&lt;p&gt;Walaupun demikian, flash YongNuo ini memiliki satu penyakit yang cukup umum terjadi. Dia seringkali mengalami kerusakan di pengatur kekuatannya. Kalau sudah terjangkit penyakit ini, berapapun nilai power yang kita set di flash, dia akan selalu menyala dengan full power (&lt;code class=&quot;highlighter-rouge&quot;&gt;1/1&lt;/code&gt;). Termasuk YN560-IV sayapun terjangkit wabah ini. Saking seringnya masalah ini terjadi, kita bisa menemukan banyak referensi di Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/yn-stuck-full-power.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/yn-stuck-full-power.png&quot; alt=&quot;Google YN Stuck on Full Power&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pada artikel kali ini, kita akan mempraktekkan perbaikan YongNuo yang stuck di full power ini dengan mengikuti tutorial dari Youtube.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Dari hasil google, kita menemukan ada yang memposting solusinya, yaitu dengan mengganti satu komponen yang disebut IGBT (&lt;strong&gt;bukan LGBT yaa&lt;/strong&gt;). Artikelnya bisa dibaca &lt;a href=&quot;https://www.dpreview.com/forums/thread/3778930?page=2#forum-post-56304478&quot;&gt;di sini&lt;/a&gt;. Selain itu, ada juga yang memposting video cara reparasinya.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;720&quot; height=&quot;405&quot; src=&quot;https://www.youtube.com/embed/ycPYUknwNfY?start=219&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Dari artikel tersebut, terlihat bahwa cara perbaikannya sebetulnya tidak sulit. Hambatan utama adalah mencari komponen penggantinya.&lt;/p&gt;
+
+&lt;p&gt;Setelah lama mencari, akhirnya saya menemukannya di AliExpress dengan harga $0.8 per unit, minimum pembelian 5 unit. Total harganya menjadi 50 ribuan untuk 5 unit, free ongkir :D&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/aliexpress-yn-part.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/aliexpress-yn-part.png&quot; alt=&quot;AliExpress Sparepart&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Silahkan klik &lt;a href=&quot;https://www.aliexpress.com/item/Free-shipping-5PCS-TIG056BF-TIG056-TO-220F-IGBT400V/32443316751.html&quot;&gt;di sini&lt;/a&gt; untuk membelinya.&lt;/p&gt;
+
+&lt;p&gt;Saya order tanggal 18 Agustus 2017, barangnya tiba tanggal 4 September 2017. Lumayanlah untuk free ongkir.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2623.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2623.png&quot; alt=&quot;Paket AliExpress&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Barangnya tiba, sekarang mari kita bongkar flashnya. Pertama, kita buka dulu plastik penutup di sisi flash. Plastik ini direkatkan dengan lem, jadi bisa dicongkel dengan aman.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2629.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2629.JPG&quot; alt=&quot;Sebelum dibongkar&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Setelah plastik lepas, terlihat ada pengait besi. Ini juga tinggal dicongkel saja pakai obeng. Jangan lupa lepaskan baut di bawah kaca flash.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2630.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2630.JPG&quot; alt=&quot;Pengait flash&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash sudah terbuka, kita bisa lihat komponen yang bermasalah.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2632.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2632.JPG&quot; alt=&quot;Komponen bermasalah&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Gunting saja dengan tang, tidak perlu dilepas kakinya karena kita butuh untuk menempelkan kabel. Berikut perbandingannya dengan komponen yang baru kita beli.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2650.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2650.JPG&quot; alt=&quot;Komponen lama vs baru&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Saya menggunakan metode &lt;code class=&quot;highlighter-rouge&quot;&gt;module unit&lt;/code&gt; seperti yang dicontohkan &lt;a href=&quot;https://youtu.be/VOXIHqty7Pc?t=2m30s&quot;&gt;di video ini&lt;/a&gt; supaya kalau rusak lagi, tidak perlu bongkar flashnya. Untuk itu, kita membutuhkan socket yang bisa dikanibal dari power supply komputer bekas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2634.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2634.JPG&quot; alt=&quot;Power Supply Computer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Socket ini memiliki 4 lubang, kebetulan ukurannya pas sekali dengan komponen pengganti.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2638.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2638.JPG&quot; alt=&quot;Pemasangan Socket&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk memasang socket ini di luar flash, kita harus melubangi casingnya. Selanjutnya solder kabelnya ke tempat komponen asli berada. Lalu rakit kembali.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2657.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2657.JPG&quot; alt=&quot;Pemasangan Socket&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Karena lubang socketnya ada 4, sedangkan kaki komponen hanya 3, pastikan kita foto dulu supaya tidak lupa cara pemasangannya.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2659.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2659.JPG&quot; alt=&quot;Pemasangan Socket&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mari kita test. Kita akan memotret lensa dengan menggunakan flash yang dipantulkan (bounce) ke tembok.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/IMG_4777.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/IMG_4777.JPG&quot; alt=&quot;Test Setup&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pertama, kita ambil ambient exposure dulu, tanpa flash. Settingnya adalah &lt;code class=&quot;highlighter-rouge&quot;&gt;1/40&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;f/5.6&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;ISO 100&lt;/code&gt;. Setting yang sama akan kita gunakan selama test. Berikut hasilnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2660.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2660.JPG&quot; alt=&quot;No Flash&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash kita nyalakan dengan power &lt;code class=&quot;highlighter-rouge&quot;&gt;1/32&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2662.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2662.JPG&quot; alt=&quot;Seper tigapuluhdua&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash power &lt;code class=&quot;highlighter-rouge&quot;&gt;1/16&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2663.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2663.JPG&quot; alt=&quot;Seperenambelas&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash power &lt;code class=&quot;highlighter-rouge&quot;&gt;1/8&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2664.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2664.JPG&quot; alt=&quot;Eighth Power&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash power &lt;code class=&quot;highlighter-rouge&quot;&gt;1/4&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2665.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2665.JPG&quot; alt=&quot;Quarter Power&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash power &lt;code class=&quot;highlighter-rouge&quot;&gt;1/2&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2666.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2666.JPG&quot; alt=&quot;Half power&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Terakhir, flash power &lt;code class=&quot;highlighter-rouge&quot;&gt;1/1&lt;/code&gt; alias full power&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2667.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2667.JPG&quot; alt=&quot;Full power&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Alhamdulillah, seperti kita lihat pada hasil test, komponen baru kita telah bisa mengatur power sehingga output dari flash sama dengan pengaturan di layar LCD flash.&lt;/p&gt;
+
+&lt;p&gt;Semoga bermanfaat bagi rekan-rekan yang mengalami masalah serupa. Selamat mencoba.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-edit.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-edit.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><summary type="html">Flash YongNuo merupakan paket speedlight dan trigger yang murah meriah dan cukup handal. Rekan-rekan saya di Komunitas Fotografi Bogor banyak yang menggunakan paket flash YongNuo di puluhan wedding dan sangat puas dengan hasilnya.
+
+Saya sendiri juga menggunakan flash YongNuo selama 3 tahun lebih. Flash pertama yang saya miliki adalah YongNuo YN560-III yang sudah memiliki built-in wireless receiver. Artinya, kita tidak perlu lagi memasang perangkat tambahan untuk mengontrol power dan zoom flash dari jauh.
+
+
+
+Setelah itu, saya membeli satu lagi YN560-IV. Versi yang lebih baru ini telah memiliki built-in transmitter dan receiver. Artinya dia bisa mengendalikan power dan zoom flash lain dari jauh.
+
+Walaupun demikian, flash YongNuo ini memiliki satu penyakit yang cukup umum terjadi. Dia seringkali mengalami kerusakan di pengatur kekuatannya. Kalau sudah terjangkit penyakit ini, berapapun nilai power yang kita set di flash, dia akan selalu menyala dengan full power (1/1). Termasuk YN560-IV sayapun terjangkit wabah ini. Saking seringnya masalah ini terjadi, kita bisa menemukan banyak referensi di Google.
+
+
+
+Pada artikel kali ini, kita akan mempraktekkan perbaikan YongNuo yang stuck di full power ini dengan mengikuti tutorial dari Youtube.</summary></entry><entry><title type="html">Menggunakan EXIF Data</title><link href="http://rana.endy.muhardin.com/aplikasi/exiftool/" rel="alternate" type="text/html" title="Menggunakan EXIF Data" /><published>2017-06-11T08:00:00+07:00</published><updated>2017-06-11T08:00:00+07:00</updated><id>http://rana.endy.muhardin.com/aplikasi/exiftool</id><content type="html" xml:base="http://rana.endy.muhardin.com/aplikasi/exiftool/">&lt;p&gt;Di era digital ini, kamera yang kita gunakan akan menulis berbagai informasi ke file foto kita, termasuk juga kamera handphone. Informasi ini disebut dengan data EXIF. Data EXIF ini berguna untuk kita analisa di kemudian hari. Misalnya kita ingin tahu setting kamera yang digunakan pada waktu memotret foto tersebut.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-map.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-map.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -1668,35 +1781,4 @@ Infografis diambil dari sini
 
 Bingung karena bahasanya Inggris? Butuh penjelasan lebih detail? Harus lihat contoh foto supaya mengerti?
 
-Silahkan klik untuk penjelasan dalam bahasa Indonesia.</summary></entry><entry><title type="html">Thought Process</title><link href="http://rana.endy.muhardin.com/proses/thought-process/" rel="alternate" type="text/html" title="Thought Process" /><published>2013-11-08T10:31:00+07:00</published><updated>2013-11-08T10:31:00+07:00</updated><id>http://rana.endy.muhardin.com/proses/thought-process</id><content type="html" xml:base="http://rana.endy.muhardin.com/proses/thought-process/">&lt;p&gt;Kita sering melihat foto bagus di internet. Coba saja browsing ke &lt;a href=&quot;http://www.500px.com&quot;&gt;500px&lt;/a&gt;, &lt;a href=&quot;http://www.flickr.com&quot;&gt;Flickr&lt;/a&gt;, dan berbagai website sharing foto lainnya. Kita sering berpikir bahwa fotografer yang membuat foto bagus tersebut adalah orang jenius yang cuma lahir 10 orang setiap tahunnya. Kita yang &lt;em&gt;manusia biasa&lt;/em&gt; tidak akan bisa membuat karya sebagus itu.&lt;/p&gt;
-
-&lt;p&gt;Tapi kenyataannya tidak demikian. Semua fotografer itu ya manusia biasa seperti kita. Kenapa mereka bisa menghasilkan karya yang bagus? Tipsnya cuma ada dua:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Pemahaman konsep dasar&lt;/li&gt;
-  &lt;li&gt;Latihan&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Di artikel ini, saya akan membuat daftar link yang membahas proses berpikir (&lt;em&gt;thought process&lt;/em&gt;) fotografer dalam menghasilkan karya yang bagus. Kita akan melihat prosesnya mulai dari analisa situasi, trial-and-error, menemukan ide, dan akhirnya melakukan eksekusi dengan sempurna. Isi artikel akan terus diupdate tiap kali saya menemukan link bagus.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;http://strobist.blogspot.com/2007/04/on-assignment-hero-fan.html&quot;&gt;Foto fans serial TV Heroes. Oleh David Hobby, Mr. Strobist&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://strobist.blogspot.com/2013/09/my-week-with-heisler-pt-2.html&quot;&gt;Greg Heisler memotret di kafe gelap&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://strobist.blogspot.com/2013/10/my-week-with-heisler-pt-3.html&quot;&gt;Greg Heisler memotret di siang hari&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Mr. Strobist membahas &lt;a href=&quot;http://strobist.blogspot.com/2009/12/on-assignment-what-me-worry.html&quot;&gt;persiapan photoshoot&lt;/a&gt; dan &lt;a href=&quot;http://strobist.blogspot.com/2010/02/on-assignment-trip-jennings.html&quot;&gt;kegiatan pada saat photoshoot&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Mr. Strobist memotret arena panjat tebing &lt;a href=&quot;http://strobist.blogspot.com/2010/04/on-assignment-earth-treks-pt-1.html&quot;&gt;bagian pertama&lt;/a&gt; dan &lt;a href=&quot;http://strobist.blogspot.com/2010/04/on-assignment-earth-treks-pt-2.html&quot;&gt;bagian kedua&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://strobist.blogspot.com/2010/01/twenty-questions.html&quot;&gt;Hal-hal yang harus dipertimbangkan pada saat mendapat assignment&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://strobist.blogspot.com/2006/07/on-assignment-pool-portrait.html&quot;&gt;Analisa situasi, manajemen waktu, dan problem solving&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_NaDkjdF_dU&quot;&gt;Joe McNally memotret atlet&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><summary type="html">Kita sering melihat foto bagus di internet. Coba saja browsing ke 500px, Flickr, dan berbagai website sharing foto lainnya. Kita sering berpikir bahwa fotografer yang membuat foto bagus tersebut adalah orang jenius yang cuma lahir 10 orang setiap tahunnya. Kita yang manusia biasa tidak akan bisa membuat karya sebagus itu.
-
-Tapi kenyataannya tidak demikian. Semua fotografer itu ya manusia biasa seperti kita. Kenapa mereka bisa menghasilkan karya yang bagus? Tipsnya cuma ada dua:
-
-
-  Pemahaman konsep dasar
-  Latihan
-
-
-Di artikel ini, saya akan membuat daftar link yang membahas proses berpikir (thought process) fotografer dalam menghasilkan karya yang bagus. Kita akan melihat prosesnya mulai dari analisa situasi, trial-and-error, menemukan ide, dan akhirnya melakukan eksekusi dengan sempurna. Isi artikel akan terus diupdate tiap kali saya menemukan link bagus.</summary></entry></feed>
+Silahkan klik untuk penjelasan dalam bahasa Indonesia.</summary></entry></feed>

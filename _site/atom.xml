@@ -4,13 +4,123 @@
  <title>12" di belakang kamera</title>
  <link href="http://rana.endy.muhardin.com/atom.xml" rel="self"/>
  <link href="http://rana.endy.muhardin.com/"/>
- <updated>2017-06-11T14:36:15+07:00</updated>
+ <updated>2017-09-06T09:52:12+07:00</updated>
  <id>http://rana.endy.muhardin.com</id>
  <author>
    <name></name>
    <email>endy.muhardin@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Reparasi YongNuo Stuck di Full Power</title>
+   <link href="http://rana.endy.muhardin.com/gears/reparasi-yn-stuck-full-power/"/>
+   <updated>2017-06-11T08:00:00+07:00</updated>
+   <id>http://rana.endy.muhardin.com/gears/reparasi-yn-stuck-full-power</id>
+   <content type="html">&lt;p&gt;Flash YongNuo merupakan paket speedlight dan trigger yang murah meriah dan cukup handal. Rekan-rekan saya di Komunitas Fotografi Bogor banyak yang menggunakan paket flash YongNuo di puluhan wedding dan sangat puas dengan hasilnya.&lt;/p&gt;
+
+&lt;p&gt;Saya sendiri juga menggunakan flash YongNuo selama 3 tahun lebih. Flash pertama yang saya miliki adalah YongNuo YN560-III yang sudah memiliki built-in wireless receiver. Artinya, kita tidak perlu lagi memasang perangkat tambahan untuk mengontrol power dan zoom flash dari jauh.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/yn-family.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/yn-family.jpg&quot; alt=&quot;YongNuo Family&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Setelah itu, saya membeli satu lagi YN560-IV. Versi yang lebih baru ini telah memiliki built-in transmitter dan receiver. Artinya dia bisa mengendalikan power dan zoom flash lain dari jauh.&lt;/p&gt;
+
+&lt;p&gt;Walaupun demikian, flash YongNuo ini memiliki satu penyakit yang cukup umum terjadi. Dia seringkali mengalami kerusakan di pengatur kekuatannya. Kalau sudah terjangkit penyakit ini, berapapun nilai power yang kita set di flash, dia akan selalu menyala dengan full power (&lt;code class=&quot;highlighter-rouge&quot;&gt;1/1&lt;/code&gt;). Termasuk YN560-IV sayapun terjangkit wabah ini. Saking seringnya masalah ini terjadi, kita bisa menemukan banyak referensi di Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/yn-stuck-full-power.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/yn-stuck-full-power.png&quot; alt=&quot;Google YN Stuck on Full Power&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pada artikel kali ini, kita akan mempraktekkan perbaikan YongNuo yang stuck di full power ini dengan mengikuti tutorial dari Youtube.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Dari hasil google, kita menemukan ada yang memposting solusinya, yaitu dengan mengganti satu komponen yang disebut IGBT (&lt;strong&gt;bukan LGBT yaa&lt;/strong&gt;). Artikelnya bisa dibaca &lt;a href=&quot;https://www.dpreview.com/forums/thread/3778930?page=2#forum-post-56304478&quot;&gt;di sini&lt;/a&gt;. Selain itu, ada juga yang memposting video cara reparasinya.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;720&quot; height=&quot;405&quot; src=&quot;https://www.youtube.com/embed/ycPYUknwNfY?start=219&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Dari artikel tersebut, terlihat bahwa cara perbaikannya sebetulnya tidak sulit. Hambatan utama adalah mencari komponen penggantinya.&lt;/p&gt;
+
+&lt;p&gt;Setelah lama mencari, akhirnya saya menemukannya di AliExpress dengan harga $0.8 per unit, minimum pembelian 5 unit. Total harganya menjadi 50 ribuan untuk 5 unit, free ongkir :D&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/aliexpress-yn-part.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/aliexpress-yn-part.png&quot; alt=&quot;AliExpress Sparepart&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Silahkan klik &lt;a href=&quot;https://www.aliexpress.com/item/Free-shipping-5PCS-TIG056BF-TIG056-TO-220F-IGBT400V/32443316751.html&quot;&gt;di sini&lt;/a&gt; untuk membelinya.&lt;/p&gt;
+
+&lt;p&gt;Saya order tanggal 18 Agustus 2017, barangnya tiba tanggal 4 September 2017. Lumayanlah untuk free ongkir.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2623.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2623.png&quot; alt=&quot;Paket AliExpress&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Barangnya tiba, sekarang mari kita bongkar flashnya. Pertama, kita buka dulu plastik penutup di sisi flash. Plastik ini direkatkan dengan lem, jadi bisa dicongkel dengan aman.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2629.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2629.JPG&quot; alt=&quot;Sebelum dibongkar&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Setelah plastik lepas, terlihat ada pengait besi. Ini juga tinggal dicongkel saja pakai obeng. Jangan lupa lepaskan baut di bawah kaca flash.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2630.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2630.JPG&quot; alt=&quot;Pengait flash&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash sudah terbuka, kita bisa lihat komponen yang bermasalah.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2632.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2632.JPG&quot; alt=&quot;Komponen bermasalah&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Gunting saja dengan tang, tidak perlu dilepas kakinya karena kita butuh untuk menempelkan kabel. Berikut perbandingannya dengan komponen yang baru kita beli.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2650.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2650.JPG&quot; alt=&quot;Komponen lama vs baru&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Saya menggunakan metode &lt;code class=&quot;highlighter-rouge&quot;&gt;module unit&lt;/code&gt; seperti yang dicontohkan &lt;a href=&quot;https://youtu.be/VOXIHqty7Pc?t=2m30s&quot;&gt;di video ini&lt;/a&gt; supaya kalau rusak lagi, tidak perlu bongkar flashnya. Untuk itu, kita membutuhkan socket yang bisa dikanibal dari power supply komputer bekas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2634.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2634.JPG&quot; alt=&quot;Power Supply Computer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Socket ini memiliki 4 lubang, kebetulan ukurannya pas sekali dengan komponen pengganti.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2638.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2638.JPG&quot; alt=&quot;Pemasangan Socket&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk memasang socket ini di luar flash, kita harus melubangi casingnya. Selanjutnya solder kabelnya ke tempat komponen asli berada. Lalu rakit kembali.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2657.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2657.JPG&quot; alt=&quot;Pemasangan Socket&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Karena lubang socketnya ada 4, sedangkan kaki komponen hanya 3, pastikan kita foto dulu supaya tidak lupa cara pemasangannya.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2659.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2659.JPG&quot; alt=&quot;Pemasangan Socket&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mari kita test. Kita akan memotret lensa dengan menggunakan flash yang dipantulkan (bounce) ke tembok.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/IMG_4777.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/IMG_4777.JPG&quot; alt=&quot;Test Setup&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pertama, kita ambil ambient exposure dulu, tanpa flash. Settingnya adalah &lt;code class=&quot;highlighter-rouge&quot;&gt;1/40&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;f/5.6&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;ISO 100&lt;/code&gt;. Setting yang sama akan kita gunakan selama test. Berikut hasilnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2660.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2660.JPG&quot; alt=&quot;No Flash&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash kita nyalakan dengan power &lt;code class=&quot;highlighter-rouge&quot;&gt;1/32&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2662.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2662.JPG&quot; alt=&quot;Seper tigapuluhdua&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash power &lt;code class=&quot;highlighter-rouge&quot;&gt;1/16&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2663.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2663.JPG&quot; alt=&quot;Seperenambelas&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash power &lt;code class=&quot;highlighter-rouge&quot;&gt;1/8&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2664.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2664.JPG&quot; alt=&quot;Eighth Power&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash power &lt;code class=&quot;highlighter-rouge&quot;&gt;1/4&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2665.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2665.JPG&quot; alt=&quot;Quarter Power&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flash power &lt;code class=&quot;highlighter-rouge&quot;&gt;1/2&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2666.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2666.JPG&quot; alt=&quot;Half power&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Terakhir, flash power &lt;code class=&quot;highlighter-rouge&quot;&gt;1/1&lt;/code&gt; alias full power&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2667.JPG&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/yn-repair/DSC_2667.JPG&quot; alt=&quot;Full power&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Alhamdulillah, seperti kita lihat pada hasil test, komponen baru kita telah bisa mengatur power sehingga output dari flash sama dengan pengaturan di layar LCD flash.&lt;/p&gt;
+
+&lt;p&gt;Semoga bermanfaat bagi rekan-rekan yang mengalami masalah serupa. Selamat mencoba.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-edit.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2017/exiftool/exif-lensa-edit.png&quot; alt=&quot;Exif Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Menggunakan EXIF Data</title>
