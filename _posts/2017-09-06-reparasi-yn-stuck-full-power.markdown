@@ -108,7 +108,3 @@ Terakhir, flash power `1/1` alias full power
 Alhamdulillah, seperti kita lihat pada hasil test, komponen baru kita telah bisa mengatur power sehingga output dari flash sama dengan pengaturan di layar LCD flash.
 
 Semoga bermanfaat bagi rekan-rekan yang mengalami masalah serupa. Selamat mencoba.
-
-
-
-[![Exif Data]({{site.url}}/images/2017/exiftool/exif-lensa-edit.png)]({{site.url}}/images/2017/exiftool/exif-lensa-edit.png)
