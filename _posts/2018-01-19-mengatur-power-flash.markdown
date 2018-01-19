@@ -114,11 +114,11 @@ Bayangan flash semakin berkurang, bayangan ambient semakin jelas.
 
 [![Flash 1/2]({{site.url}}/images/2018/flash-power/flash-1-2.jpg)]({{site.url}}/images/2018/flash-power/flash-1-2.jpg) 
 
-Pada shutter speed 1/2 dengan flash, bayangan ambient sama jelas dengan bayangan dari flash.
+Pada shutter speed 1/2 dengan flash, bayangan ambient sama jelas dengan bayangan dari flash. Ini artinya cahaya dari flash sudah sama terang dengan cahaya ambient.
 
 [![Flash 1/1]({{site.url}}/images/2018/flash-power/flash-1-1.jpg)]({{site.url}}/images/2018/flash-power/flash-1-1.jpg) 
 
-Terakhir, bayangan flash sama sekali hilang, karena terisi oleh cahaya ambient. Sedangkan bayangan ambient kembali seperti semula. Ini artinya pada shutter speed 1 detik, sebetulnya cahaya ambient lebih terang daripada flash.
+Terakhir, bayangan flash sudah hampir hilang, karena terisi oleh cahaya ambient. Sedangkan bayangan ambient kembali seperti semula. Ini artinya pada shutter speed 1 detik, sebetulnya cahaya ambient lebih terang daripada flash.
 
 ## Kesimpulan ##
 
