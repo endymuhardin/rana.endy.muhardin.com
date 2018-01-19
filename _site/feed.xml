@@ -1,5 +1,158 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://rana.endy.muhardin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://rana.endy.muhardin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rana.endy.muhardin.com/" rel="alternate" type="text/html" /><updated>2017-09-06T10:02:07+07:00</updated><id>http://rana.endy.muhardin.com//</id><title type="html">12” di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
-</subtitle><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><entry><title type="html">Reparasi YongNuo Stuck di Full Power</title><link href="http://rana.endy.muhardin.com/gears/reparasi-yn-stuck-full-power/" rel="alternate" type="text/html" title="Reparasi YongNuo Stuck di Full Power" /><published>2017-06-11T08:00:00+07:00</published><updated>2017-06-11T08:00:00+07:00</updated><id>http://rana.endy.muhardin.com/gears/reparasi-yn-stuck-full-power</id><content type="html" xml:base="http://rana.endy.muhardin.com/gears/reparasi-yn-stuck-full-power/">&lt;p&gt;Flash YongNuo merupakan paket speedlight dan trigger yang murah meriah dan cukup handal. Rekan-rekan saya di Komunitas Fotografi Bogor banyak yang menggunakan paket flash YongNuo di puluhan wedding dan sangat puas dengan hasilnya.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://rana.endy.muhardin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://rana.endy.muhardin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rana.endy.muhardin.com/" rel="alternate" type="text/html" /><updated>2018-01-19T22:54:28+07:00</updated><id>http://rana.endy.muhardin.com//</id><title type="html">12” di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
+</subtitle><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><entry><title type="html">Mengatur Power Flash</title><link href="http://rana.endy.muhardin.com/lighting/mengatur-power-flash/" rel="alternate" type="text/html" title="Mengatur Power Flash" /><published>2018-01-19T07:55:00+07:00</published><updated>2018-01-19T07:55:00+07:00</updated><id>http://rana.endy.muhardin.com/lighting/mengatur-power-flash</id><content type="html" xml:base="http://rana.endy.muhardin.com/lighting/mengatur-power-flash/">&lt;p&gt;Pada saat kita memotret menggunakan flash/speedlight, kita menambah sumber cahaya yang mempengaruhi foto kita. Tadinya cuma ada sumber cahaya yang sudah ada (misalnya matahari atau lampu dalam ruangan), kita tambah dengan flash. Karena sumber cahayanya lebih dari satu, maka kita perlu memikirkan bagaimana menyeimbangkan antar keduanya supaya kita bisa mendapatkan hasil foto yang sesuai keinginan.&lt;/p&gt;
+
+&lt;p&gt;Mau berapapun sumber cahaya yang digunakan, pada dasarnya jenis cahaya cuma ada dua :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sumber cahaya yang menyala terus, biasa disebut continuous light. Misalnya lampu ruangan, matahari, lampu video.&lt;/li&gt;
+  &lt;li&gt;Sumber cahaya yang menyala hanya pada waktu memotret, biasa disebut stroboscopic light. Misalnya flash, speedlight, atau lampu studio.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nah pada artikel kali ini, kita akan mencoba mengatur kedua cahaya ini sesuai dengan keinginan kita. Agar bisa mengikuti dengan baik, sebaiknya Anda sudah paham dasar-dasar &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;eksposur dan metering&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Bila ingin ikut mencoba, Anda butuh peralatan berikut :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;kamera&lt;/li&gt;
+  &lt;li&gt;flash&lt;/li&gt;
+  &lt;li&gt;trigger&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Setupnya seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/bts.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/bts.jpg&quot; alt=&quot;Foto BTS&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Objek yang difoto bebas saja. Yang saya gunakan di sini adalah sekrup lightstand.&lt;/p&gt;
+
+&lt;p&gt;Setting kamera yang tidak berubah selama eksperimen adalah sebagai berikut:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ISO : 800&lt;/li&gt;
+  &lt;li&gt;Apterture : f/8&lt;/li&gt;
+  &lt;li&gt;Power Flash : 1/128 + ND 2 stop. Karena power flash sudah paling kecil dan masih terlalu terang, maka terpaksa saya pakaikan gel ND di flash untuk mengurangi power 2 stop.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tanpa-menggunakan-flash--ambient-only&quot;&gt;Tanpa Menggunakan Flash / Ambient Only&lt;/h2&gt;
+
+&lt;p&gt;Pertama, kita ambil foto dengan eksposur yang tepat. Dalam situasi ini, karena latarnya putih, maka metering kita letakkan di posisi kurang lebih over 2 stop. Hasilnya seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-1.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-1.jpg&quot; alt=&quot;Exposure tepat ambient&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kita bisa lihat di histogram bahwa latar putih benar-benar putih (sisi kanan histogram ada kenaikan)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/histogram.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/histogram.jpg&quot; alt=&quot;Histogram eksposur tepat ambient&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Eksposur kita bisa dibilang tepat karena hanya sedikit yang clipping, seperti bisa dilihat di blinking highlight.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/blinking.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/blinking.jpg&quot; alt=&quot;Blinkies&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hanya ada sedikit titik yang clipping. Kalau mau perfeksionis sebetulnya harus diulik lagi supaya background putih kedip-kedip semua dan objectnya sama sekali tidak kedip. Tapi ya untuk keperluan artikel sudah cukup seperti ini.&lt;/p&gt;
+
+&lt;p&gt;Shutter speed yang kita gunakan pada foto pertama ini adalah 1 detik.&lt;/p&gt;
+
+&lt;p&gt;Perhatikan baik-baik letak bayangan pada foto pertama ini. Posisinya ada di kiri objek, bentuknya tidak terlalu panjang. Ini karena lampunya hampir tepat di atas objek.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-1.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-1.jpg&quot; alt=&quot;Bayangan ambient&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Selanjutnya, kita ingin menghilangkan cahaya lampu ruangan. Cahaya yang sudah ada ini, yang bisa kita lihat dengan mata biasa, sering disebut dengan istilah &lt;strong&gt;ambient&lt;/strong&gt;. Jadi nanti kalau baca-baca artikel bahasa Inggris, &lt;strong&gt;ambient&lt;/strong&gt; artinya cahaya yang sudah ada, atau apa adanya.&lt;/p&gt;
+
+&lt;p&gt;Untuk menghilangkan &lt;strong&gt;ambient&lt;/strong&gt;, kita percepat shutter speed. Berikut akan saya tunjukkan rangkaian fotonya.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-4.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-4.jpg&quot; alt=&quot;Ambient 1/4&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-8.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-8.jpg&quot; alt=&quot;Ambient 1/8&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-15.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-15.jpg&quot; alt=&quot;Ambient 1/15&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-30.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-30.jpg&quot; alt=&quot;Ambient 1/30&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-60.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-60.jpg&quot; alt=&quot;Ambient 1/60&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-125.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-125.jpg&quot; alt=&quot;Ambient 1/125&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-200.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-200.jpg&quot; alt=&quot;Ambient 1/200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Seperti kita lihat, pada posisi shutter speed 1/200, hampir semua ambient sudah hilang. Artinya, lampu ruangan sudah tidak lagi masuk ke dalam hasil foto kita.&lt;/p&gt;
+
+&lt;p&gt;Sekarang mari kita nyalakan flashnya.&lt;/p&gt;
+
+&lt;h2 id=&quot;stroboscopic-light&quot;&gt;Stroboscopic Light&lt;/h2&gt;
+
+&lt;p&gt;Flash menyala dalam waktu yang sangat singkat, bisa dalam hitungan 1/1000 detik. Oleh karena itu, shutter speed kita lama atau sebentar, tidak akan berpengaruh pada hasil foto. Buka shutter 10 detik sama saja dengan 1/200 detik. Sensor kamera sama-sama hanya mendapat cahaya selama 1/1000 detik.&lt;/p&gt;
+
+&lt;p&gt;Cahaya sesaat ini disebut dengan istilah stroboscopic atau bahasa Indonesianya berkedip-kedip. Istilah strobist diambil dari kata stroboscopic ini. Artinya kira-kira fotografer yang menggunakan sumber cahaya stroboscopic (misalnya flash).&lt;/p&gt;
+
+&lt;p&gt;Sedangkan ambient light menyala terus menerus, sehingga disebut dengan istilah continuous light. Continuous light –seperti kita lihat di atas– dipengaruhi oleh shutter speed. Semakin lama shutter dibuka, semakin banyak cahaya masuk (karena dia menyala terus), sehingga foto kita semakin terang.&lt;/p&gt;
+
+&lt;p&gt;Perbedaan ini bisa kita manfaatkan untuk mengatur proporsi antara ambient dan flash.&lt;/p&gt;
+
+&lt;p&gt;Sekarang kita nyalakan flashnya. Powernya seperti telah disebutkan, 1/128 (paling kecil) ditambah dengan ND Filter untuk mengurangi lagi powernya.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/gel.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/gel.jpg&quot; alt=&quot;Gel ND 2 stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Berikut foto dengan flash menyala dan shutter speed 1/200&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-200.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-200.jpg&quot; alt=&quot;Flash 1/200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Seperti kita tahu, pada 1/200 ambient bisa dibilang sama sekali tidak ada dalam foto. Berarti 100% cahaya yang ada di sini berasal dari flash. Perhatikan bayangan objek ada di sebelah kanan dirinya. Ini disebabkan oleh flash yang datang dari kiri objek. Sedangkan bayangan lampu ruangan yang tadinya ada di kiri objek sama sekali tidak terlihat.&lt;/p&gt;
+
+&lt;p&gt;Selanjutnya, kita turunkan lagi shutter speed sedikit demi sedikit, untuk memasukkan lagi cahaya ambient ke dalam foto.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-30.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-30.jpg&quot; alt=&quot;Flash 1/30&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-8.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-8.jpg&quot; alt=&quot;Flash 1/8&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Di sini kita lihat bahwa bayangan flash semakin berkurang, karena sudah diterangi ambient. Sedangkan bayangan yang berasal dari ambient sudah mulai muncul di kiri objek.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-4.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-4.jpg&quot; alt=&quot;Flash 1/4&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bayangan flash semakin berkurang, bayangan ambient semakin jelas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-2.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-2.jpg&quot; alt=&quot;Flash 1/2&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pada shutter speed 1/2 dengan flash, bayangan ambient sama jelas dengan bayangan dari flash.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-1.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-1.jpg&quot; alt=&quot;Flash 1/1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Terakhir, bayangan flash sama sekali hilang, karena terisi oleh cahaya ambient. Sedangkan bayangan ambient kembali seperti semula. Ini artinya pada shutter speed 1 detik, sebetulnya cahaya ambient lebih terang daripada flash.&lt;/p&gt;
+
+&lt;h2 id=&quot;kesimpulan&quot;&gt;Kesimpulan&lt;/h2&gt;
+
+&lt;p&gt;Menggunakan flash artinya memasukkan lebih dari satu sumber cahaya ke dalam foto. Karena karakteristiknya berbeda (stroboscopic/kedip vs continuous/nyala terus), maka kita bisa atur dengan shutter speed dan flash power. Berikut panduan singkat pengaturannya&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Menambah ambient saja : lambatkan shutter speed&lt;/li&gt;
+  &lt;li&gt;Mengurangi ambient saja : percepat shutter speed&lt;/li&gt;
+  &lt;li&gt;Menambah flash saja : naikkan power flash&lt;/li&gt;
+  &lt;li&gt;Mengurangi flash saja : kurangi power flash&lt;/li&gt;
+  &lt;li&gt;Menaikkan dua-duanya (ambient &amp;amp; flash) : naikkan ISO atau buka diafragma&lt;/li&gt;
+  &lt;li&gt;Mengurangi dua-duanya (ambient &amp;amp; flash) : turunkan ISO atau tutup diafragma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Demikian penjelasan singkat. Masih bingung? Silahkan coba sendiri.&lt;/p&gt;
+
+&lt;p&gt;Semoga bermanfaat :)&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><summary type="html">Pada saat kita memotret menggunakan flash/speedlight, kita menambah sumber cahaya yang mempengaruhi foto kita. Tadinya cuma ada sumber cahaya yang sudah ada (misalnya matahari atau lampu dalam ruangan), kita tambah dengan flash. Karena sumber cahayanya lebih dari satu, maka kita perlu memikirkan bagaimana menyeimbangkan antar keduanya supaya kita bisa mendapatkan hasil foto yang sesuai keinginan.
+
+Mau berapapun sumber cahaya yang digunakan, pada dasarnya jenis cahaya cuma ada dua :
+
+
+  Sumber cahaya yang menyala terus, biasa disebut continuous light. Misalnya lampu ruangan, matahari, lampu video.
+  Sumber cahaya yang menyala hanya pada waktu memotret, biasa disebut stroboscopic light. Misalnya flash, speedlight, atau lampu studio.
+
+
+Nah pada artikel kali ini, kita akan mencoba mengatur kedua cahaya ini sesuai dengan keinginan kita. Agar bisa mengikuti dengan baik, sebaiknya Anda sudah paham dasar-dasar eksposur dan metering.
+
+Bila ingin ikut mencoba, Anda butuh peralatan berikut :
+
+
+  kamera
+  flash
+  trigger
+
+
+Setupnya seperti ini</summary></entry><entry><title type="html">Reparasi YongNuo Stuck di Full Power</title><link href="http://rana.endy.muhardin.com/gears/reparasi-yn-stuck-full-power/" rel="alternate" type="text/html" title="Reparasi YongNuo Stuck di Full Power" /><published>2017-06-11T08:00:00+07:00</published><updated>2017-06-11T08:00:00+07:00</updated><id>http://rana.endy.muhardin.com/gears/reparasi-yn-stuck-full-power</id><content type="html" xml:base="http://rana.endy.muhardin.com/gears/reparasi-yn-stuck-full-power/">&lt;p&gt;Flash YongNuo merupakan paket speedlight dan trigger yang murah meriah dan cukup handal. Rekan-rekan saya di Komunitas Fotografi Bogor banyak yang menggunakan paket flash YongNuo di puluhan wedding dan sangat puas dengan hasilnya.&lt;/p&gt;
 
 &lt;p&gt;Saya sendiri juga menggunakan flash YongNuo selama 3 tahun lebih. Flash pertama yang saya miliki adalah YongNuo YN560-III yang sudah memiliki built-in wireless receiver. Artinya, kita tidak perlu lagi memasang perangkat tambahan untuk mengontrol power dan zoom flash dari jauh.&lt;/p&gt;
 
@@ -1526,257 +1679,4 @@ Masalahnya, si penanya biasanya tidak tahu apa perbedaan satu lensa dengan yang 
   &lt;li&gt;kontrol warna dengan gel dan setting white balance&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><summary type="html">Enaknya belajar fotografi di jaman Youtube, segala macam tutorial ada. Saking banyaknya, kita kesulitan memilih mana yang bagus mana yang jelek. Mau ditonton semua, bisa-bisa menghabiskan masa remaja.
 
-Untuk menghemat waktu kita semua, saya sudah mengumpulkan beberapa video di Youtube yang bagus cara penyampaiannya. Semoga bermanfaat.</summary></entry><entry><title type="html">Segitiga Exposure</title><link href="http://rana.endy.muhardin.com/teknik/segitiga-exposure/" rel="alternate" type="text/html" title="Segitiga Exposure" /><published>2013-11-12T14:51:00+07:00</published><updated>2013-11-12T14:51:00+07:00</updated><id>http://rana.endy.muhardin.com/teknik/segitiga-exposure</id><content type="html" xml:base="http://rana.endy.muhardin.com/teknik/segitiga-exposure/">&lt;p&gt;Segitiga Exposure&lt;/p&gt;
-
-&lt;p&gt;Pada &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;artikel sebelumnya&lt;/a&gt; kita sudah membahas bahwa untuk mengatur cahaya sesuai indikator light meter, kita bisa mengubah tiga variabel, yaitu:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ISO&lt;/li&gt;
-  &lt;li&gt;Aperture&lt;/li&gt;
-  &lt;li&gt;Shutter Speed&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ketiga variabel ini disebut dengan istilah segitiga exposure / exposure triangle.&lt;/p&gt;
-
-&lt;p&gt;Lalu dari tiga variabel yang tersedia, mana yang kita ubah? Penjelasan singkatnya bisa dilihat di infografik berikut.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/exposure-and-metering.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Infografis diambil &lt;a href=&quot;http://www.photographerabroad.com/image/24924941477&quot;&gt;dari sini&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Bingung karena bahasanya Inggris? Butuh penjelasan lebih detail? Harus lihat contoh foto supaya mengerti?&lt;/p&gt;
-
-&lt;p&gt;Silahkan klik untuk penjelasan dalam bahasa Indonesia.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;a name=&quot;iso&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;iso&quot;&gt;ISO&lt;/h2&gt;
-
-&lt;p&gt;Kita ingin menggunakan ISO serendah mungkin, karena semakin tinggi ISO semakin jelek kualitas fotonya. Bandingkan foto berikut yang diambil dengan ISO 100&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/iso-rendah.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;dengan foto berikut, diambil dengan ISO 1600&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/iso-tinggi.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Seperti kita bisa lihat, foto dengan ISO tinggi terlihat memiliki banyak &lt;em&gt;noise&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Walaupun demikian, seringkali kita tidak bisa menurunkan ISO sampai minimum, karena keterbatasan cahaya. Kalau nekat memakai ISO 100 di kondisi gelap, kita akan terpaksa membuka aperture lebar-lebar, atau menurunkan shutter speed. Seringkali kondisi ini tidak memungkinkan, seperti kita akan bahas.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;aperture&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;aperture&quot;&gt;Aperture&lt;/h2&gt;
-
-&lt;p&gt;Aperture adalah lubang di lensa, ditunjukkan dengan angka &lt;code class=&quot;highlighter-rouge&quot;&gt;f/xx&lt;/code&gt;, contohnya &lt;code class=&quot;highlighter-rouge&quot;&gt;f/2&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;f/16&lt;/code&gt;. Semakin kecil angkanya, semakin besar lubangnya. Berikut adalah contoh lensa yang dibuka di &lt;code class=&quot;highlighter-rouge&quot;&gt;f/2&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/bukaan-besar.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lensa yang sama, dibuka di &lt;code class=&quot;highlighter-rouge&quot;&gt;f/16&lt;/code&gt; tampak seperti ini&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/bukaan-kecil.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kalau bukaan lebar, cahaya yang direkam sensor menjadi lebih banyak, sehingga kita bisa menurunkan ISO. Walaupun demikian, ruang tajam (&lt;em&gt;depth-of-field&lt;/em&gt;) menjadi sempit. Coba lihat foto berikut&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/dof-sempit.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Objek di dekat kamera tampak tajam, sedangkan objek yang jauh tampak blur. Foto di atas dibuat dengan &lt;code class=&quot;highlighter-rouge&quot;&gt;f/2&lt;/code&gt;. Sekarang kita coba dengan &lt;code class=&quot;highlighter-rouge&quot;&gt;f/16&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/dof-lebar.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kita bisa lihat bahwa objek yang jauh tidak se-blur sebelumnya.&lt;/p&gt;
-
-&lt;p&gt;Seringkali kita tidak bisa membuka lensa lebar-lebar karena beberapa faktor, diantaranya:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;lensa kita cuma bisa dibuka sampai &lt;code class=&quot;highlighter-rouge&quot;&gt;f/3.5&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;kita ingin objek dekat dan jauh sama tajamnya, misalnya ketika memotret banyak orang dalam 5 saf. Orang di saf depan dan belakang harus tajam&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a name=&quot;shutter-speed&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;shutter-speed&quot;&gt;Shutter Speed&lt;/h2&gt;
-
-&lt;p&gt;Shutter speed (kecepatan rana) adalah kecepatan kamera &lt;code class=&quot;highlighter-rouge&quot;&gt;berkedip&lt;/code&gt;. Semakin lama dia membuka rana, semakin banyak cahaya masuk. Shutter speed di kamera saya bisa diatur mulai dari terbuka selama kita inginkan (bulb), sampai ke 1/4000 detik. Bila shutter speed cepat, kita bisa membekukan gerakan. Contohnya di foto berikut, kita bisa membekukan air muncrat di udara.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/shutter-cepat.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Foto di atas dibuat dengan shutter speed 1/250 detik&lt;/p&gt;
-
-&lt;p&gt;Bila shutter speed rendah, subjek akan terlihat blur bila dia bergerak dengan kecepatan tinggi. Bisa dilihat di foto berikut.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/shutter-lambat.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lompatan subjek terlalu cepat untuk shutter speed 1/100 detik&lt;/p&gt;
-
-&lt;p&gt;Bila terlalu lama dibuka, bahkan kita bisa membuat mobil tidak terlihat. Di foto berikut, kita hanya melihat kilasan lampu rem. Mobilnya sendiri tidak terlihat.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/long-exposure.jpg&quot; alt=&quot; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Foto di atas dibuat dengan shutter speed 20 detik.&lt;/p&gt;
-
-&lt;h3 id=&quot;panduan-memilih-shutter-speed&quot;&gt;Panduan memilih shutter speed&lt;/h3&gt;
-
-&lt;p&gt;Untuk membuat foto benda diam (contohnya produk atau potret orang berpose), shutter speed yang digunakan bebas berapa saja. Yang perlu diperhatikan adalah, kalau kamera kita pegang shutter speed jangan kurang dari 1/focal-length-lensa. Contohnya, bila kita menggunakan lensa 85mm, maka shutter speed jangan kurang dari 1/85 detik. Ini tujuannya untuk menghindari gambar blur karena tangan kita goyang pada saat memotret. Semakin panjang focal-length lensa, biasanya sudut pandangnya sempit. Sedikit gerakan saja, gesernya jauh. Ditambah lagi dengan faktor berat, semakin panjang focal-length, biasanya lensa semakin berat. Ini menyulitkan kita untuk memegang kamera dengan stabil.&lt;/p&gt;
-
-&lt;p&gt;Bila kita ingin memotret anak-anak berlarian, shutter speed harus agak tinggi supaya mampu membekukan gerakan subjek. Saya biasa menggunakan shutter speed di atas 1/100 detik.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;stop&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;memahami-stop&quot;&gt;Memahami stop&lt;/h2&gt;
-
-&lt;p&gt;Jumlah cahaya yang ada di sekeliling kita dihitung dalam skala EV (exposure value). Penjelasan teknisnya bisa dibaca &lt;a href=&quot;http://en.wikipedia.org/wiki/Exposure_value&quot;&gt;di Wikipedia&lt;/a&gt;. Fotografer pada umumnya mengenal selisih terang gelap dengan istilah &lt;code class=&quot;highlighter-rouge&quot;&gt;stop&lt;/code&gt;. Kalau kita dengar seperti ini&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Fotonya terlalu terang 1 stop.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Artinya cahaya di foto kita dua kali lebih banyak dari seharusnya.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Coba dikurangi cahayanya 1 stop.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Artinya kita harus mengurangi cahaya setengah dari sebelumnya.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Naikkan 2 stop.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Artinya kita harus tambah 4x lipat. Satu stop pertama menjadi 2x lipat, dan satu stop berikutnya menjadi 4x lipat.&lt;/p&gt;
-
-&lt;p&gt;Kita bisa menaik-turunkan exposure dengan mengubah tiga variabel di atas. Contoh:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Turunkan 1 stop.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Bisa dilakukan dengan cara mengubah shutter speed dari 1/100 detik menjadi 1/200 detik, aperture dan ISO tidak berubah.
-Atau bisa juga dilakukan dengan mengubah ISO dari 400 menjadi 200, aperture dan shutter speed tidak berubah.
-Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan ISO tidak berubah.&lt;/p&gt;
-
-&lt;p&gt;Di kamera jaman sekarang, biasanya satu kali klik setting berubah 1/3 stop. Jadi untuk turun satu stop dari ISO 400, kita harus putar 3 klik. Klik pertama menjadi ISO 320, klik kedua menjadi ISO 250, klik ketiga barulah sampai di ISO 200.&lt;/p&gt;
-
-&lt;p&gt;Demikian juga shutter speed, untuk turun satu stop dari 1/100 menjadi 1/200, putar 3 klik. Klik pertama menjadi 1/125, klik kedua menjadi 1/160, klik ketiga sampailah kita di 1/200.&lt;/p&gt;
-
-&lt;p&gt;Untuk ISO dan shutter speed mudah. Cukup kali/bagi dua saja setiap stop. Contohnya, ISO 100 naik 1 stop menjadi ISO 200. Shutter speed 1/400 turun 2 stop menjadi 1/100.&lt;/p&gt;
-
-&lt;p&gt;Yang lebih &lt;em&gt;tricky&lt;/em&gt; adalah menghitung aperture, atau sering disebut dengan &lt;em&gt;f-stop&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;tips-menghafal-f-stop&quot;&gt;Tips menghafal f-stop&lt;/h3&gt;
-
-&lt;p&gt;Seperti perkalian 1-10, sebaiknya kita hafalkan stop. Ini akan memudahkan kita menghitung exposure, apalagi nanti pada waktu menggunakan flash. Semakin cepat kita hitung, semakin cepat kita mengubah setting, sehingga subjeknya tidak keburu &lt;em&gt;bete&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Triknya, gunakan kelipatan dua dan tujuh. Berikut urutan aperture dengan selisih 1 stop:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;f/1.4&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;f/2&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;f/2.8&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;f/4&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;f/5.6&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;f/8&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;f/11&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;f/16&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;f/22&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;f/32&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Yang ditandai &lt;em&gt;miring&lt;/em&gt; adalah kelipatan 7, sedangkan yang &lt;strong&gt;tebal&lt;/strong&gt; adalah kelipatan 2. Mudah kan?&lt;/p&gt;
-
-&lt;p&gt;Contoh soal:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Metering kita over 2 stop di 1/200 dan f/5.6. Kita ingin shutter speed tetap, berapa setting aperture yang sesuai?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Jawabannya disisakan buat PR pembaca ;)&lt;/p&gt;
-
-&lt;p&gt;Sepanjang &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;artikel pertama mengenai metering&lt;/a&gt; dan artikel ini mengenai segitiga exposure, kita selalu menggunakan mode exposure manual. Sekarang setelah konsepnya kita pahami, kita bisa mencoba mode otomatis yang disediakan kamera.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;pasm&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;mode-pasm&quot;&gt;Mode PASM&lt;/h2&gt;
-
-&lt;p&gt;Kamera DSLR umumnya dilengkapi dengan minimal empat pilihan exposure, yaitu:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Manual : tentukan sendiri ketiga variabel exposure&lt;/li&gt;
-  &lt;li&gt;Aperture Priority : tentukan ISO dan aperture, shutter speed otomatis dipilihkan kamera&lt;/li&gt;
-  &lt;li&gt;Shutter Priority : tentukan ISO dan shutter speed, aperture otomatis dipilihkan kamera&lt;/li&gt;
-  &lt;li&gt;Programmed Auto : tentukan ISO, kamera memilihkan kombinasi aperture dan shutter speed yang tepat. Pada waktu memutar dial, kamera akan menawarkan kombinasi lain. Misalnya pertama kita ditawari f/4 dan 1/200. Begitu kita putar, kita akan ditawari f/5.6 dan 1/100. Putar lagi, ditawari f/3.5 dan 1/400. Begitu seterusnya.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Keempat pilihan ini biasa disebut dengan istilah mode PASM. Aperture Priority di Nikon simbolnya A, di Canon Av. Shutter priority di Nikon simbolnya S, di Canon Tv.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;compensation&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;exposure-compensation&quot;&gt;Exposure Compensation&lt;/h3&gt;
-
-&lt;p&gt;Seperti sudah dijelaskan di &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;artikel sebelumnya&lt;/a&gt; –di bagian Metering dan Middle Grey–, kadangkala kita ingin secara sengaja membuat &lt;em&gt;overexposure&lt;/em&gt; atau &lt;em&gt;underexposure&lt;/em&gt;. Misalnya pada waktu ingin memotret baju putih atau baju hitam.&lt;/p&gt;
-
-&lt;p&gt;Kalau kita menggunakan setting Manual, kita tinggal sesuaikan tiga variabel sehingga indikator metering ada di sisi &lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt; untuk overexposure dan &lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt; untuk underexposure. Tapi kalau kita menggunakan mode lain (P,A,S) bagaimana caranya? Kamera pasti secara otomatis akan mengatur variabel sisanya supaya metering berada di tengah.&lt;/p&gt;
-
-&lt;p&gt;Jawabannya, ada fitur lain yang harus kita gunakan, yaitu exposure compensation. Tombolnya ditandai dengan simbol berikut&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2013/11/segitiga-exposure/exposure-compensation.jpg&quot; alt=&quot; 200 &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Gambar diambil &lt;a href=&quot;http://www.maryga.com/exposure-compensation-definition/&quot;&gt;dari sini&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Bagaimana cara kerjanya?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Misalnya hasil metering menghasilkan 1/100 dan f/4. Bila kita mau underexposed satu 1 stop, berarti ada 2 kemungkinan:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1/200 dan f/4&lt;/li&gt;
-  &lt;li&gt;1/100 dan f/5.6&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Bila kita sedang berada di mode Shutter Priority, kamera akan mengubah shutter speed, sehingga kita akan diberikan 1/200 untuk f/4 yang kita pilih.&lt;/p&gt;
-
-&lt;p&gt;Bila kita sedang berada di mode Aperture Priority, 1/100 adalah pilihan kita sendiri, sehingga kamera akan menawarkan f/5.6 sebagai pasangannya.&lt;/p&gt;
-
-&lt;p&gt;Bila kita menggunakan mode Programmed Auto, pilihan 1/100 dan f/4 tidak akan diberikan ke kita. Kamera hanya akan menawarkan 1/200 f/4 atau 1/100 f/5.6&lt;/p&gt;
-
-&lt;h3 id=&quot;mode-mana-yang-sebaiknya-digunakan-&quot;&gt;Mode mana yang sebaiknya digunakan ??&lt;/h3&gt;
-
-&lt;p&gt;Sebetulnya terserah preferensi masing-masing. Saya sendiri selalu menggunakan mode Manual. Soalnya percuma juga menggunakan Aperture atau Shutter Priority, tetap saja kita harus mempertimbangkan over dan under dan menyesuaikannya dengan tombol Exposure Compensation. Akan lebih mudah buat saya melatih refleks penggantian shutter/aperture. Cukup menghafalkan dua tombol apapun situasinya.&lt;/p&gt;
-
-&lt;p&gt;Kalau butuh referensi lebih lanjut, bisa tonton video berikut ini&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KQw28-3LEU4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Supaya belajarnya lebih jelas dan tidak mengawang-awang, ada aplikasi simulator yang tersedia gratis di internet.&lt;/p&gt;
-
-&lt;iframe src=&quot;http://camerasim.com/embed/camera-simulator/&quot; frameborder=&quot;0&quot; width=&quot;550&quot; height=&quot;570&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Dia menyediakan dua mode belajar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://camerasim.com/camera-simulator/&quot;&gt;tanpa penjelasan, tapi bisa mode ~~P~~ASM. Seperti yang saya embed di atas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://camerasim.com/slr-camera-explained/&quot;&gt;full manual dengan penjelasan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><summary type="html">Segitiga Exposure
-
-Pada artikel sebelumnya kita sudah membahas bahwa untuk mengatur cahaya sesuai indikator light meter, kita bisa mengubah tiga variabel, yaitu:
-
-
-  ISO
-  Aperture
-  Shutter Speed
-
-
-Ketiga variabel ini disebut dengan istilah segitiga exposure / exposure triangle.
-
-Lalu dari tiga variabel yang tersedia, mana yang kita ubah? Penjelasan singkatnya bisa dilihat di infografik berikut.
-
-
-
-Infografis diambil dari sini
-
-Bingung karena bahasanya Inggris? Butuh penjelasan lebih detail? Harus lihat contoh foto supaya mengerti?
-
-Silahkan klik untuk penjelasan dalam bahasa Indonesia.</summary></entry></feed>
+Untuk menghemat waktu kita semua, saya sudah mengumpulkan beberapa video di Youtube yang bagus cara penyampaiannya. Semoga bermanfaat.</summary></entry></feed>

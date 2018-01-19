@@ -4,13 +4,156 @@
  <title>12" di belakang kamera</title>
  <link href="http://rana.endy.muhardin.com/atom.xml" rel="self"/>
  <link href="http://rana.endy.muhardin.com/"/>
- <updated>2017-09-06T10:02:07+07:00</updated>
+ <updated>2018-01-19T22:54:28+07:00</updated>
  <id>http://rana.endy.muhardin.com</id>
  <author>
    <name></name>
    <email>endy.muhardin@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Mengatur Power Flash</title>
+   <link href="http://rana.endy.muhardin.com/lighting/mengatur-power-flash/"/>
+   <updated>2018-01-19T07:55:00+07:00</updated>
+   <id>http://rana.endy.muhardin.com/lighting/mengatur-power-flash</id>
+   <content type="html">&lt;p&gt;Pada saat kita memotret menggunakan flash/speedlight, kita menambah sumber cahaya yang mempengaruhi foto kita. Tadinya cuma ada sumber cahaya yang sudah ada (misalnya matahari atau lampu dalam ruangan), kita tambah dengan flash. Karena sumber cahayanya lebih dari satu, maka kita perlu memikirkan bagaimana menyeimbangkan antar keduanya supaya kita bisa mendapatkan hasil foto yang sesuai keinginan.&lt;/p&gt;
+
+&lt;p&gt;Mau berapapun sumber cahaya yang digunakan, pada dasarnya jenis cahaya cuma ada dua :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sumber cahaya yang menyala terus, biasa disebut continuous light. Misalnya lampu ruangan, matahari, lampu video.&lt;/li&gt;
+  &lt;li&gt;Sumber cahaya yang menyala hanya pada waktu memotret, biasa disebut stroboscopic light. Misalnya flash, speedlight, atau lampu studio.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nah pada artikel kali ini, kita akan mencoba mengatur kedua cahaya ini sesuai dengan keinginan kita. Agar bisa mengikuti dengan baik, sebaiknya Anda sudah paham dasar-dasar &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;eksposur dan metering&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Bila ingin ikut mencoba, Anda butuh peralatan berikut :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;kamera&lt;/li&gt;
+  &lt;li&gt;flash&lt;/li&gt;
+  &lt;li&gt;trigger&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Setupnya seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/bts.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/bts.jpg&quot; alt=&quot;Foto BTS&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Objek yang difoto bebas saja. Yang saya gunakan di sini adalah sekrup lightstand.&lt;/p&gt;
+
+&lt;p&gt;Setting kamera yang tidak berubah selama eksperimen adalah sebagai berikut:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ISO : 800&lt;/li&gt;
+  &lt;li&gt;Apterture : f/8&lt;/li&gt;
+  &lt;li&gt;Power Flash : 1/128 + ND 2 stop. Karena power flash sudah paling kecil dan masih terlalu terang, maka terpaksa saya pakaikan gel ND di flash untuk mengurangi power 2 stop.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tanpa-menggunakan-flash--ambient-only&quot;&gt;Tanpa Menggunakan Flash / Ambient Only&lt;/h2&gt;
+
+&lt;p&gt;Pertama, kita ambil foto dengan eksposur yang tepat. Dalam situasi ini, karena latarnya putih, maka metering kita letakkan di posisi kurang lebih over 2 stop. Hasilnya seperti ini&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-1.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-1.jpg&quot; alt=&quot;Exposure tepat ambient&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kita bisa lihat di histogram bahwa latar putih benar-benar putih (sisi kanan histogram ada kenaikan)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/histogram.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/histogram.jpg&quot; alt=&quot;Histogram eksposur tepat ambient&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Eksposur kita bisa dibilang tepat karena hanya sedikit yang clipping, seperti bisa dilihat di blinking highlight.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/blinking.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/blinking.jpg&quot; alt=&quot;Blinkies&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hanya ada sedikit titik yang clipping. Kalau mau perfeksionis sebetulnya harus diulik lagi supaya background putih kedip-kedip semua dan objectnya sama sekali tidak kedip. Tapi ya untuk keperluan artikel sudah cukup seperti ini.&lt;/p&gt;
+
+&lt;p&gt;Shutter speed yang kita gunakan pada foto pertama ini adalah 1 detik.&lt;/p&gt;
+
+&lt;p&gt;Perhatikan baik-baik letak bayangan pada foto pertama ini. Posisinya ada di kiri objek, bentuknya tidak terlalu panjang. Ini karena lampunya hampir tepat di atas objek.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-1.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-1.jpg&quot; alt=&quot;Bayangan ambient&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Selanjutnya, kita ingin menghilangkan cahaya lampu ruangan. Cahaya yang sudah ada ini, yang bisa kita lihat dengan mata biasa, sering disebut dengan istilah &lt;strong&gt;ambient&lt;/strong&gt;. Jadi nanti kalau baca-baca artikel bahasa Inggris, &lt;strong&gt;ambient&lt;/strong&gt; artinya cahaya yang sudah ada, atau apa adanya.&lt;/p&gt;
+
+&lt;p&gt;Untuk menghilangkan &lt;strong&gt;ambient&lt;/strong&gt;, kita percepat shutter speed. Berikut akan saya tunjukkan rangkaian fotonya.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-4.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-4.jpg&quot; alt=&quot;Ambient 1/4&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-8.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-8.jpg&quot; alt=&quot;Ambient 1/8&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-15.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-15.jpg&quot; alt=&quot;Ambient 1/15&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-30.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-30.jpg&quot; alt=&quot;Ambient 1/30&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-60.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-60.jpg&quot; alt=&quot;Ambient 1/60&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-125.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-125.jpg&quot; alt=&quot;Ambient 1/125&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-200.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/ambient-1-200.jpg&quot; alt=&quot;Ambient 1/200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Seperti kita lihat, pada posisi shutter speed 1/200, hampir semua ambient sudah hilang. Artinya, lampu ruangan sudah tidak lagi masuk ke dalam hasil foto kita.&lt;/p&gt;
+
+&lt;p&gt;Sekarang mari kita nyalakan flashnya.&lt;/p&gt;
+
+&lt;h2 id=&quot;stroboscopic-light&quot;&gt;Stroboscopic Light&lt;/h2&gt;
+
+&lt;p&gt;Flash menyala dalam waktu yang sangat singkat, bisa dalam hitungan 1/1000 detik. Oleh karena itu, shutter speed kita lama atau sebentar, tidak akan berpengaruh pada hasil foto. Buka shutter 10 detik sama saja dengan 1/200 detik. Sensor kamera sama-sama hanya mendapat cahaya selama 1/1000 detik.&lt;/p&gt;
+
+&lt;p&gt;Cahaya sesaat ini disebut dengan istilah stroboscopic atau bahasa Indonesianya berkedip-kedip. Istilah strobist diambil dari kata stroboscopic ini. Artinya kira-kira fotografer yang menggunakan sumber cahaya stroboscopic (misalnya flash).&lt;/p&gt;
+
+&lt;p&gt;Sedangkan ambient light menyala terus menerus, sehingga disebut dengan istilah continuous light. Continuous light –seperti kita lihat di atas– dipengaruhi oleh shutter speed. Semakin lama shutter dibuka, semakin banyak cahaya masuk (karena dia menyala terus), sehingga foto kita semakin terang.&lt;/p&gt;
+
+&lt;p&gt;Perbedaan ini bisa kita manfaatkan untuk mengatur proporsi antara ambient dan flash.&lt;/p&gt;
+
+&lt;p&gt;Sekarang kita nyalakan flashnya. Powernya seperti telah disebutkan, 1/128 (paling kecil) ditambah dengan ND Filter untuk mengurangi lagi powernya.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/gel.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/gel.jpg&quot; alt=&quot;Gel ND 2 stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Berikut foto dengan flash menyala dan shutter speed 1/200&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-200.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-200.jpg&quot; alt=&quot;Flash 1/200&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Seperti kita tahu, pada 1/200 ambient bisa dibilang sama sekali tidak ada dalam foto. Berarti 100% cahaya yang ada di sini berasal dari flash. Perhatikan bayangan objek ada di sebelah kanan dirinya. Ini disebabkan oleh flash yang datang dari kiri objek. Sedangkan bayangan lampu ruangan yang tadinya ada di kiri objek sama sekali tidak terlihat.&lt;/p&gt;
+
+&lt;p&gt;Selanjutnya, kita turunkan lagi shutter speed sedikit demi sedikit, untuk memasukkan lagi cahaya ambient ke dalam foto.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-30.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-30.jpg&quot; alt=&quot;Flash 1/30&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-8.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-8.jpg&quot; alt=&quot;Flash 1/8&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Di sini kita lihat bahwa bayangan flash semakin berkurang, karena sudah diterangi ambient. Sedangkan bayangan yang berasal dari ambient sudah mulai muncul di kiri objek.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-4.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-4.jpg&quot; alt=&quot;Flash 1/4&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bayangan flash semakin berkurang, bayangan ambient semakin jelas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-2.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-2.jpg&quot; alt=&quot;Flash 1/2&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pada shutter speed 1/2 dengan flash, bayangan ambient sama jelas dengan bayangan dari flash.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-1.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2018/flash-power/flash-1-1.jpg&quot; alt=&quot;Flash 1/1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Terakhir, bayangan flash sama sekali hilang, karena terisi oleh cahaya ambient. Sedangkan bayangan ambient kembali seperti semula. Ini artinya pada shutter speed 1 detik, sebetulnya cahaya ambient lebih terang daripada flash.&lt;/p&gt;
+
+&lt;h2 id=&quot;kesimpulan&quot;&gt;Kesimpulan&lt;/h2&gt;
+
+&lt;p&gt;Menggunakan flash artinya memasukkan lebih dari satu sumber cahaya ke dalam foto. Karena karakteristiknya berbeda (stroboscopic/kedip vs continuous/nyala terus), maka kita bisa atur dengan shutter speed dan flash power. Berikut panduan singkat pengaturannya&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Menambah ambient saja : lambatkan shutter speed&lt;/li&gt;
+  &lt;li&gt;Mengurangi ambient saja : percepat shutter speed&lt;/li&gt;
+  &lt;li&gt;Menambah flash saja : naikkan power flash&lt;/li&gt;
+  &lt;li&gt;Mengurangi flash saja : kurangi power flash&lt;/li&gt;
+  &lt;li&gt;Menaikkan dua-duanya (ambient &amp;amp; flash) : naikkan ISO atau buka diafragma&lt;/li&gt;
+  &lt;li&gt;Mengurangi dua-duanya (ambient &amp;amp; flash) : turunkan ISO atau tutup diafragma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Demikian penjelasan singkat. Masih bingung? Silahkan coba sendiri.&lt;/p&gt;
+
+&lt;p&gt;Semoga bermanfaat :)&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Reparasi YongNuo Stuck di Full Power</title>
