@@ -212,14 +212,14 @@ Kalau butuh referensi lebih lanjut, bisa tonton video berikut ini
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/KQw28-3LEU4" frameborder="0" allowfullscreen></iframe></div>
 
 
-Supaya belajarnya lebih jelas dan tidak mengawang-awang, ada aplikasi simulator yang tersedia gratis di internet. 
+Supaya belajarnya lebih jelas dan tidak mengawang-awang, ada aplikasi simulator yang tersedia gratis di internet. Namanya [Be The Camera](http://bethecamera.com/)
 
-<iframe src="http://camerasim.com/embed/camera-simulator/" frameborder="0" width="550" height="570" allowfullscreen></iframe>
+Fitur yang disediakan:
 
-Dia menyediakan dua mode belajar:
+* Pilihan jenis kamera, mulai dari smartphone, kamera kecil, sampai kamera besar
+* Pilihan objek dan kondisi. Misalnya terang/gelap, diam/bergerak
+* Setting segitiga exposure (shutter speed, aperture, ISO) dan metering
 
-* [tanpa penjelasan, tapi bisa mode ~~P~~ASM. Seperti yang saya embed di atas](http://camerasim.com/camera-simulator/)
-* [full manual dengan penjelasan](http://camerasim.com/slr-camera-explained/)
 
 ### Workflow ###
 

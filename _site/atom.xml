@@ -4,7 +4,7 @@
  <title>12" di belakang kamera</title>
  <link href="http://rana.endy.muhardin.com/atom.xml" rel="self"/>
  <link href="http://rana.endy.muhardin.com/"/>
- <updated>2018-05-31T09:11:01+07:00</updated>
+ <updated>2018-05-31T09:23:42+07:00</updated>
  <id>http://rana.endy.muhardin.com</id>
  <author>
    <name></name>
@@ -1864,15 +1864,14 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 
 &lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KQw28-3LEU4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;p&gt;Supaya belajarnya lebih jelas dan tidak mengawang-awang, ada aplikasi simulator yang tersedia gratis di internet.&lt;/p&gt;
+&lt;p&gt;Supaya belajarnya lebih jelas dan tidak mengawang-awang, ada aplikasi simulator yang tersedia gratis di internet. Namanya &lt;a href=&quot;http://bethecamera.com/&quot;&gt;Be The Camera&lt;/a&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;http://camerasim.com/embed/camera-simulator/&quot; frameborder=&quot;0&quot; width=&quot;550&quot; height=&quot;570&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Dia menyediakan dua mode belajar:&lt;/p&gt;
+&lt;p&gt;Fitur yang disediakan:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://camerasim.com/camera-simulator/&quot;&gt;tanpa penjelasan, tapi bisa mode ~~P~~ASM. Seperti yang saya embed di atas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://camerasim.com/slr-camera-explained/&quot;&gt;full manual dengan penjelasan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pilihan jenis kamera, mulai dari smartphone, kamera kecil, sampai kamera besar&lt;/li&gt;
+  &lt;li&gt;Pilihan objek dan kondisi. Misalnya terang/gelap, diam/bergerak&lt;/li&gt;
+  &lt;li&gt;Setting segitiga exposure (shutter speed, aperture, ISO) dan metering&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;workflow&quot;&gt;Workflow&lt;/h3&gt;
