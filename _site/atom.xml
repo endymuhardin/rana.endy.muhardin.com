@@ -4,7 +4,7 @@
  <title>12" di belakang kamera</title>
  <link href="http://rana.endy.muhardin.com/atom.xml" rel="self"/>
  <link href="http://rana.endy.muhardin.com/"/>
- <updated>2018-01-19T23:26:27+07:00</updated>
+ <updated>2018-05-31T09:11:01+07:00</updated>
  <id>http://rana.endy.muhardin.com</id>
  <author>
    <name></name>
@@ -1874,6 +1874,28 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
   &lt;li&gt;&lt;a href=&quot;http://camerasim.com/camera-simulator/&quot;&gt;tanpa penjelasan, tapi bisa mode ~~P~~ASM. Seperti yang saya embed di atas&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://camerasim.com/slr-camera-explained/&quot;&gt;full manual dengan penjelasan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&quot;workflow&quot;&gt;Workflow&lt;/h3&gt;
+
+&lt;p&gt;Dengan bermodalkan ketiga variabel segitiga exposure, berikut adalah workflow yang biasa saya gunakan pada saat menggunakan mode Manual :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tentukan aperture. Ini disesuaikan dengan depth of field yang diinginkan. Misalnya kalau mau portrait 1 orang, bisa pakai bukaan lebar (f/2.8 ke bawah). Kalau mau foto grup 3 saf, pakai f/5.6 supaya yang di baris depan dan baris belakang tajam.&lt;/li&gt;
+  &lt;li&gt;Tentukan shutter speed. Bila ada kebutuhan khusus, misalnya gerakan cepat mau dibuat tajam, gunakan 1/250 atau lebih tinggi. Bila tidak ada kebutuhan tertentu, bisa pakai rumus 1/focal-length untuk menghindari getaran tangan yang bisa menyebabkan foto menjadi tidak tajam.&lt;/li&gt;
+  &lt;li&gt;Sesuaikan ISO sampai meteringnya pas atau dikompensasi sesuai kondisi objek yang mau dipotret. Bila objeknya dominan terang, taruh metering di +1 atau lebih. Demikian sebaliknya bila objeknya cenderung gelap, taruh jarum metering di -1 atau kurang.&lt;/li&gt;
+  &lt;li&gt;Jepret.&lt;/li&gt;
+  &lt;li&gt;Periksa histogram. Kalau tidak sesuai, ulangi dari langkah #1.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;contoh-kasus&quot;&gt;Contoh Kasus&lt;/h3&gt;
+
+&lt;p&gt;Situasi: anak-anak bermain di kolam pada siang hari. Kita ingin membekukan cipratan air yang dimainkan anak-anak. Untuk itu kita set shutter speed yang tinggi, misalnya 1/400 detik. Set aperture di nilai yang aman, misalnya f/8. Intip viewfinder, sesuaikan ISO sampai indikator light meter ada di tengah, misalnya didapatkan nilai ISO 200. &lt;a href=&quot;http://www.flickr.com/photos/9177567@N08/10512675224/meta/&quot;&gt;Jepret&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3749/10512675224_eacfb29947_c.jpg&quot; alt=&quot; The Last Water Bender &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Contoh kedua, di dalam ruangan. Kita ingin membuat portrait orang. Biasanya kita buka aperture selebar mungkin, misalnya f/1.8. Karena objek tidak bergerak, kita cukup gunakan shutter speed 1/60 untuk menghindari blur akibat getaran tangan kita. Intip viewfinder, sesuaikan ISO sampai indikator light meter ada di tengah. Ternyata didapatkan ISO 320. &lt;a href=&quot;http://www.flickr.com/photos/9177567@N08/10663109326/meta/&quot;&gt;Jepret&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg&quot; alt=&quot; Abah dan HP &quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1985,26 +2007,6 @@ Opsi terakhir, kita bisa ubah aperture dari f/4 menjadi f/5.6. Shutter speed dan
 &lt;/blockquote&gt;
 
 &lt;p&gt;Penjelasan dan contohnya dijelaskan secara lebih rinci &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/segitiga-exposure/&quot;&gt;di artikel ini&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Dengan bermodalkan ketiga variabel segitiga exposure, berikut adalah workflow yang biasa saya gunakan:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Setting ISO sesuai kondisi. Siang di luar, ISO 100. Siang dalam ruangan,  ISO 200-400. Malam hari, ISO 1600 ke atas. Tidak ada patokan kaku, ini hanya setting awal saja. Masih mungkin berubah di langkah selanjutnya.&lt;/li&gt;
-  &lt;li&gt;Setting aperture sesuai depth of field yang diinginkan. Biasanya saya pakai f/4 - f/8 untuk street atau action. f/2.8 kebawah untuk portrait.&lt;/li&gt;
-  &lt;li&gt;Intip viewfinder, sesuaikan shutter speed sampai metering pas. Kalau shutter terlalu rendah (dibawah 1/30), naikkan ISO.&lt;/li&gt;
-  &lt;li&gt;Jepret&lt;/li&gt;
-  &lt;li&gt;Periksa histogram. Kalau tidak sesuai, ulangi dari langkah #1.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;contoh-kasus&quot;&gt;Contoh Kasus&lt;/h3&gt;
-
-&lt;p&gt;Situasi: anak-anak bermain di kolam pada siang hari. Set ISO menjadi 100. Kita ingin membekukan cipratan air yang dimainkan anak-anak. Untuk itu kita set shutter speed yang tinggi, misalnya 1/400 detik. Intip viewfinder, sesuaikan aperture sampai indikator light meter ada di tengah, misalnya didapatkan nilai f/8. &lt;a href=&quot;http://www.flickr.com/photos/9177567@N08/10512675224/meta/&quot;&gt;Jepret&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3749/10512675224_eacfb29947_c.jpg&quot; alt=&quot; The Last Water Bender &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Contoh kedua, di dalam ruangan. Set ISO menjadi 400 sebagai titik awal. Kita ingin membuat portrait orang. Biasanya kita buka aperture selebar mungkin, misalnya f/1.8. Intip viewfinder, sesuaikan shutter speed sampai indikator light meter ada di tengah. Ternyata didapatkan 1/80. Karena ini foto orang tidak bergerak, shutter speed tidak perlu sebesar itu. Kita bisa turunkan menjadi 1/60 sehingga ISO juga bisa turun menjadi 320. ISO rendah kualitas fotonya lebih baik. Sebetulnya bisa diturunkan lagi menjadi 1/30 dan ISO 180. Tapi saya takut kehilangan momen, sehingga cukup sampai di 1/60 dan ISO 320 langsung saya &lt;a href=&quot;http://www.flickr.com/photos/9177567@N08/10663109326/meta/&quot;&gt;jepret&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg&quot; alt=&quot; Abah dan HP &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;histogram&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;histogram&quot;&gt;Histogram&lt;/h2&gt;
