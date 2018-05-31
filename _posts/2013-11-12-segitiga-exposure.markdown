@@ -220,3 +220,23 @@ Dia menyediakan dua mode belajar:
 
 * [tanpa penjelasan, tapi bisa mode ~~P~~ASM. Seperti yang saya embed di atas](http://camerasim.com/camera-simulator/)
 * [full manual dengan penjelasan](http://camerasim.com/slr-camera-explained/)
+
+### Workflow ###
+
+Dengan bermodalkan ketiga variabel segitiga exposure, berikut adalah workflow yang biasa saya gunakan pada saat menggunakan mode Manual :
+
+1. Tentukan aperture. Ini disesuaikan dengan depth of field yang diinginkan. Misalnya kalau mau portrait 1 orang, bisa pakai bukaan lebar (f/2.8 ke bawah). Kalau mau foto grup 3 saf, pakai f/5.6 supaya yang di baris depan dan baris belakang tajam.
+2. Tentukan shutter speed. Bila ada kebutuhan khusus, misalnya gerakan cepat mau dibuat tajam, gunakan 1/250 atau lebih tinggi. Bila tidak ada kebutuhan tertentu, bisa pakai rumus 1/focal-length untuk menghindari getaran tangan yang bisa menyebabkan foto menjadi tidak tajam.
+3. Sesuaikan ISO sampai meteringnya pas atau dikompensasi sesuai kondisi objek yang mau dipotret. Bila objeknya dominan terang, taruh metering di +1 atau lebih. Demikian sebaliknya bila objeknya cenderung gelap, taruh jarum metering di -1 atau kurang.
+4. Jepret.
+5. Periksa histogram. Kalau tidak sesuai, ulangi dari langkah #1.
+
+### Contoh Kasus ###
+
+Situasi: anak-anak bermain di kolam pada siang hari. Kita ingin membekukan cipratan air yang dimainkan anak-anak. Untuk itu kita set shutter speed yang tinggi, misalnya 1/400 detik. Set aperture di nilai yang aman, misalnya f/8. Intip viewfinder, sesuaikan ISO sampai indikator light meter ada di tengah, misalnya didapatkan nilai ISO 200. [Jepret](http://www.flickr.com/photos/9177567@N08/10512675224/meta/).
+
+![ The Last Water Bender ](http://farm4.staticflickr.com/3749/10512675224_eacfb29947_c.jpg)
+
+Contoh kedua, di dalam ruangan. Kita ingin membuat portrait orang. Biasanya kita buka aperture selebar mungkin, misalnya f/1.8. Karena objek tidak bergerak, kita cukup gunakan shutter speed 1/60 untuk menghindari blur akibat getaran tangan kita. Intip viewfinder, sesuaikan ISO sampai indikator light meter ada di tengah. Ternyata didapatkan ISO 320. [Jepret](http://www.flickr.com/photos/9177567@N08/10663109326/meta/).
+
+![ Abah dan HP ](http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg)

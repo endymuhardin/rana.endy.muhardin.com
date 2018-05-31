@@ -74,24 +74,6 @@ Ilustrasi diambil [dari sini](http://www.lightandmatter.org/2011/general-photogr
 
 Penjelasan dan contohnya dijelaskan secara lebih rinci [di artikel ini](http://rana.endy.muhardin.com/teknik/segitiga-exposure/).
 
-Dengan bermodalkan ketiga variabel segitiga exposure, berikut adalah workflow yang biasa saya gunakan:
-
-1. Setting ISO sesuai kondisi. Siang di luar, ISO 100. Siang dalam ruangan,  ISO 200-400. Malam hari, ISO 1600 ke atas. Tidak ada patokan kaku, ini hanya setting awal saja. Masih mungkin berubah di langkah selanjutnya.
-2. Setting aperture sesuai depth of field yang diinginkan. Biasanya saya pakai f/4 - f/8 untuk street atau action. f/2.8 kebawah untuk portrait.
-3. Intip viewfinder, sesuaikan shutter speed sampai metering pas. Kalau shutter terlalu rendah (dibawah 1/30), naikkan ISO.
-4. Jepret
-5. Periksa histogram. Kalau tidak sesuai, ulangi dari langkah #1.
-
-### Contoh Kasus ###
-
-Situasi: anak-anak bermain di kolam pada siang hari. Set ISO menjadi 100. Kita ingin membekukan cipratan air yang dimainkan anak-anak. Untuk itu kita set shutter speed yang tinggi, misalnya 1/400 detik. Intip viewfinder, sesuaikan aperture sampai indikator light meter ada di tengah, misalnya didapatkan nilai f/8. [Jepret](http://www.flickr.com/photos/9177567@N08/10512675224/meta/).
-
-![ The Last Water Bender ](http://farm4.staticflickr.com/3749/10512675224_eacfb29947_c.jpg)
-
-Contoh kedua, di dalam ruangan. Set ISO menjadi 400 sebagai titik awal. Kita ingin membuat portrait orang. Biasanya kita buka aperture selebar mungkin, misalnya f/1.8. Intip viewfinder, sesuaikan shutter speed sampai indikator light meter ada di tengah. Ternyata didapatkan 1/80. Karena ini foto orang tidak bergerak, shutter speed tidak perlu sebesar itu. Kita bisa turunkan menjadi 1/60 sehingga ISO juga bisa turun menjadi 320. ISO rendah kualitas fotonya lebih baik. Sebetulnya bisa diturunkan lagi menjadi 1/30 dan ISO 180. Tapi saya takut kehilangan momen, sehingga cukup sampai di 1/60 dan ISO 320 langsung saya [jepret](http://www.flickr.com/photos/9177567@N08/10663109326/meta/).
-
-![ Abah dan HP ](http://farm6.staticflickr.com/5536/10663109326_760248c922_c.jpg)
-
 <a name="histogram"></a>
 ## Histogram ##
 
