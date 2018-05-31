@@ -212,7 +212,7 @@ Kalau butuh referensi lebih lanjut, bisa tonton video berikut ini
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/KQw28-3LEU4" frameborder="0" allowfullscreen></iframe></div>
 
 
-Supaya belajarnya lebih jelas dan tidak mengawang-awang, ada aplikasi simulator yang tersedia gratis di internet. Namanya [Be The Camera](http://bethecamera.com/)
+Supaya belajarnya lebih jelas dan tidak mengawang-awang, ada dua aplikasi simulator yang tersedia gratis di internet. Namanya [Be The Camera](http://bethecamera.com/) dan [Canon Play](http://www.canonoutsideofauto.ca/play/)
 
 Fitur yang disediakan:
 
@@ -220,6 +220,9 @@ Fitur yang disediakan:
 * Pilihan objek dan kondisi. Misalnya terang/gelap, diam/bergerak
 * Setting segitiga exposure (shutter speed, aperture, ISO) dan metering
 
+Di antara kedua aplikasi tersebut, [Canon Play](http://www.canonoutsideofauto.ca/play/) lebih bagus buatannya.
+
+Sebetulnya ada satu lagi yang namanya [CameraSim](https://camerasim.com/camerasim-free-web-app/). Sayangnya dia menggunakan Flash, yang sudah tidak disupport lagi oleh mayoritas browser populer jaman now.
 
 ### Workflow ###
 
