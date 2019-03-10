@@ -2,3 +2,6 @@
 .jekyll-metadata
 
 .DS_Store
+
+# Composer's file
+vendor
