@@ -26,7 +26,7 @@ Peralatan yang saya gunakan adalah :
 
 Spesifikasi teknis Godox TT685 bisa dilihat di gambar berikut. Diambil dari [artikel Flash Havoc](http://flashhavoc.com/godox-tt685c-ttl-radio-speedlite-announced/)
 
-[![Spec TT685]({{site.url}}/images/2019/baby-flash/tt685-spec)]({{site.url}}/images/2019/baby-flash/tt685-spec)
+[![Spec TT685]({{site.url}}/images/2019/baby-flash/tt685-spec.png)]({{site.url}}/images/2019/baby-flash/tt685-spec.png)
 
 Dari spec di atas, yang perlu kita perhatikan adalah _Flash Duration_, yaitu berapa lama flash menyala. Ada dua angka di sini, yaitu `1/300` detik sampai `1/20000` detik. Kita ambil angka yang lebih lama, yaitu `1/300` detik.
 
