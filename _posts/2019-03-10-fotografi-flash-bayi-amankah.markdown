@@ -30,11 +30,11 @@ Spesifikasi teknis Godox TT685 bisa dilihat di gambar berikut. Diambil dari [art
 
 Dari spec di atas, yang perlu kita perhatikan adalah _Flash Duration_, yaitu berapa lama flash menyala. Ada dua angka di sini, yaitu `1/300` detik sampai `1/20000` detik. Kita ambil angka yang lebih lama, yaitu `1/300` detik.
 
-Setup pemotretan yang saya lakukan adalah sebagai berikut. 
+Setup pemotretan yang saya lakukan adalah sebagai berikut.
 
 [![BTS Layout]({{site.url}}/images/2019/baby-flash/bts.jpg)]({{site.url}}/images/2019/baby-flash/bts.jpg)
 
-Saya tidak mengukur jarak secara pasti, kira-kira 30-50 cm dari kepala flash ke objek. 
+Saya tidak mengukur jarak secara pasti, kira-kira 30-50 cm dari kepala flash ke objek. Flash juga sebetulnya bisa saja dipasang on-shoe, tidak perlu trigger. Tapi nanti artikel ini gak bisa tayang di `id-strobist` :D
 
 **Disclaimer : Sebenarnya pada kondisi nyata, setup seperti ini sangat tidak dianjurkan. Bukan karena berbahaya, tapi karena hasilnya akan jelek :D Bayangan keras, kontras tinggi, specular highlight tidak terkontrol, dan sebagainya. Mohon jangan ditiru, lalu bilang belajar dari artikel ini ya ...**
 
@@ -91,6 +91,8 @@ dan berikut highlightnya
 [![Blinkies 1/1 - 2 stop]({{site.url}}/images/2019/baby-flash/highlight-sunny-16-2.png)]({{site.url}}/images/2019/baby-flash/highlight-sunny-16-2.png)
 
 Sepertinya sudah pas.
+
+Sebetulnya percobaan ini bisa dilakukan menggunakan light meter supaya lebih akurat. Tapi tidak semua orang punya light meter, jadi saya gunakan metode ini saja yang bisa dilakukan semua orang yang punya flash.
 
 Dari sini kita bisa ambil kesimpulan bahwa:
 
