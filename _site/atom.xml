@@ -4,13 +4,139 @@
  <title>12" di belakang kamera</title>
  <link href="http://rana.endy.muhardin.com/atom.xml" rel="self"/>
  <link href="http://rana.endy.muhardin.com/"/>
- <updated>2018-05-31T09:32:44+07:00</updated>
+ <updated>2019-03-10T18:57:34+07:00</updated>
  <id>http://rana.endy.muhardin.com</id>
  <author>
    <name></name>
    <email>endy.muhardin@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Fotografi Flash untuk Bayi, Amankah??</title>
+   <link href="http://rana.endy.muhardin.com/lighting/fotografi-flash-bayi-amankah/"/>
+   <updated>2019-03-10T07:55:00+07:00</updated>
+   <id>http://rana.endy.muhardin.com/lighting/fotografi-flash-bayi-amankah</id>
+   <content type="html">&lt;p&gt;Beberapa waktu lalu, di &lt;a href=&quot;https://www.facebook.com/groups/idstrobist/&quot;&gt;grup id-strobist&lt;/a&gt; ramai pro-kontra pemakaian flash untuk memotret bayi. Sebenarnya ini perdebatan musiman, tiap ada yang posting foto bayi, pasti debat masalah ini. So, kita tuliskan aja artikel ini supaya bisa membahas masalah ini panjang kali lebar sama dengan luas.&lt;/p&gt;
+
+&lt;p&gt;Sumber kontroversi biasanya adalah &lt;a href=&quot;https://www.dailymail.co.uk/news/peoplesdaily/article-3176237/Three-month-old-baby-left-BLIND-one-eye-family-friend-forgot-turn-flash-mobile-taking-photograph.html&quot;&gt;artikel di Daily Mail&lt;/a&gt; yang menyebutkan bahwa ada bayi yang buta matanya akibat ada tamu yang memotret, menggunakan kamera ponsel, dan lupa mematikan flashnya. Artikel ini sudah disanggah &lt;a href=&quot;https://petapixel.com/2015/07/29/baby-in-china-blinded-by-camera-flash-probably-not/&quot;&gt;artikel lainnya yang diterbitkan oleh Peta Pixel&lt;/a&gt;, dinyatakan hoaks. Juga ada &lt;a href=&quot;https://tirto.id/mitos-pemotretan-bayi-yang-baru-lahir-b1Aq&quot;&gt;artikel berbahasa Indonesia dari Tirto&lt;/a&gt; yang mematahkan mitos ini.&lt;/p&gt;
+
+&lt;p&gt;Tapi ya namanya hoaks, dimana-mana pasti lebih nyaring daripada klarifikasinya. Untuk itu, mari kita uji saja mitos ini secara praktis. Disesuaikan dengan kondisi dan kearifan lokal Nusantara :D&lt;/p&gt;
+
+&lt;p&gt;Pada artikel ini, kita akan coba menembakkan flash berkekuatan maksimal (full power) secara langsung (tidak dipantulkan/bounce), tanpa modifier apapun (payung, softbox, dsb), dari jarak dekat. Kita akan lihat seberapa terang cahaya yang mengenai objek.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Peralatan yang saya gunakan adalah :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kamera Nikon D5600&lt;/li&gt;
+  &lt;li&gt;Lensa kit AF-P 18-55 f/3.5-5.6&lt;/li&gt;
+  &lt;li&gt;Flash Godox TT685N&lt;/li&gt;
+  &lt;li&gt;Trigger Godox XPro-N&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Spesifikasi teknis Godox TT685 bisa dilihat di gambar berikut. Diambil dari &lt;a href=&quot;http://flashhavoc.com/godox-tt685c-ttl-radio-speedlite-announced/&quot;&gt;artikel Flash Havoc&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/tt685-spec&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/tt685-spec&quot; alt=&quot;Spec TT685&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Dari spec di atas, yang perlu kita perhatikan adalah &lt;em&gt;Flash Duration&lt;/em&gt;, yaitu berapa lama flash menyala. Ada dua angka di sini, yaitu &lt;code class=&quot;highlighter-rouge&quot;&gt;1/300&lt;/code&gt; detik sampai &lt;code class=&quot;highlighter-rouge&quot;&gt;1/20000&lt;/code&gt; detik. Kita ambil angka yang lebih lama, yaitu &lt;code class=&quot;highlighter-rouge&quot;&gt;1/300&lt;/code&gt; detik.&lt;/p&gt;
+
+&lt;p&gt;Setup pemotretan yang saya lakukan adalah sebagai berikut.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/bts.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/bts.jpg&quot; alt=&quot;BTS Layout&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Saya tidak mengukur jarak secara pasti, kira-kira 30-50 cm dari kepala flash ke objek.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disclaimer : Sebenarnya pada kondisi nyata, setup seperti ini sangat tidak dianjurkan. Bukan karena berbahaya, tapi karena hasilnya akan jelek :D Bayangan keras, kontras tinggi, specular highlight tidak terkontrol, dan sebagainya. Mohon jangan ditiru, lalu bilang belajar dari artikel ini ya …&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Setting kamera saya awali dengan &lt;a href=&quot;https://en.wikipedia.org/wiki/Sunny_16_rule&quot;&gt;Sunny 16 Rule&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Wah, apa itu Sunny 16 rule?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lho, kamu gak tau ya? Sudah berapa lama jadi fotografer ? :P&lt;/p&gt;
+
+&lt;p&gt;Sunny 16 Rule adalah patokan yang digunakan fotografer jaman dulu (motret masih pakai film, kamera masih manual belum ada lightmeter, sesuatu yang sulit dipahami fotografer generasi live view) untuk menentukan berapa diafragma dan shutter speed yang tepat untuk kondisi siang hari cerah.&lt;/p&gt;
+
+&lt;p&gt;Aturannya seperti ini :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;bila suasana cerah (sunny)&lt;/li&gt;
+  &lt;li&gt;set diafragma ke f/16&lt;/li&gt;
+  &lt;li&gt;maka shutter speed adalah kebalikan dari ASA film yang digunakan (anak jaman now bilangnya ISO)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jadi, kita set bukaan diafragma di f/16, ISO 200, dan kita dapatkan shutter speed 1/200.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Kenapa tidak pakai shutter speed 1/100 ?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Karena saya ingin menghilangkan pengaruh ambient/cahaya ruangan. Supaya cahaya yang ditangkap sensor 100% berasal dari flash. Kalau masih belum paham, baca dulu &lt;a href=&quot;http://rana.endy.muhardin.com/lighting/mengatur-power-flash/&quot;&gt;artikel sebelumnya yang menjelaskan masalah ini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Oke, jadi kita set kamera di &lt;code class=&quot;highlighter-rouge&quot;&gt;ISO200 1/200 f/16&lt;/code&gt;, flash diset ke full power atau &lt;code class=&quot;highlighter-rouge&quot;&gt;1/1&lt;/code&gt;. Berikut hasilnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/sunny-16-0.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/sunny-16-0.png&quot; alt=&quot;Hasil 1/1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Terlihat terlalu terang ya? Kita periksa highlight untuk melihat seberapa banyak terjadi highlight clipping.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Gak tau apa itu highlight clipping?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Silahkan baca &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;artikel terdahulu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Berikut tampilan highlight, terlihat banyak yang kedip-kedip. Artinya foto ini benar-benar overexposed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/highlight-sunny-16-0.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/highlight-sunny-16-0.png&quot; alt=&quot;Blinkies 1/1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Turunkan setting satu stop, menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;ISO100 1/200 f/16&lt;/code&gt;. Berikut hasilnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/sunny-16-1.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/sunny-16-1.png&quot; alt=&quot;Hasil 1/1 - 1 stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;dan berikut highlightnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/highlight-sunny-16-1.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/highlight-sunny-16-1.png&quot; alt=&quot;Blinkies 1/1 - 1 stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Terlihat bahwa yang clipping makin sedikit.&lt;/p&gt;
+
+&lt;p&gt;Coba lagi turunkan 1 stop menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;ISO100 1/200 f/32&lt;/code&gt;. Berikut hasilnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/sunny-16-2.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/sunny-16-2.png&quot; alt=&quot;Hasil 1/1 - 2 stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;dan berikut highlightnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/highlight-sunny-16-2.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/highlight-sunny-16-2.png&quot; alt=&quot;Blinkies 1/1 - 2 stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sepertinya sudah pas.&lt;/p&gt;
+
+&lt;p&gt;Dari sini kita bisa ambil kesimpulan bahwa:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;flash full power&lt;/li&gt;
+  &lt;li&gt;jarak 30-50 cm dari objek&lt;/li&gt;
+  &lt;li&gt;tanpa modifier, diarahkan langsung&lt;/li&gt;
+  &lt;li&gt;nilai exposurenya adalah 2 stop di atas Sunny 16&lt;/li&gt;
+  &lt;li&gt;menyala selama 1/300 detik&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lalu apa manfaatnya pengukuran semacam ini? Amankah dipakai untuk memotret bayi?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nah, mari kita kembali ke kearifan lokal masyarakat kita. Bayi baru lahir umumnya dijemur sama emaknya di bawah matahari pagi. Benar-benar di bawah matahari, bukan di bawah pohon. Belum kena matahari belum afdol. Selama 10-20 menit.&lt;/p&gt;
+
+&lt;p&gt;Sinar matahari cerah, bahasa Inggrisnya kan &lt;em&gt;Sunny&lt;/em&gt;. Berarti berlaku di sini &lt;em&gt;Sunny 16 Rule&lt;/em&gt; tadi.&lt;/p&gt;
+
+&lt;p&gt;Nah, flash kita hanya sedikit lebih terang daripada itu (2 stop tidak banyak kan, beda antara ISO 400 dan ISO 1600 saja), menyala hanya 1/300 detik. Dibandingkan dengan matahari betulan, 10-20 menit.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Menurut Anda? Aman gak?&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Mengatur Power Flash</title>

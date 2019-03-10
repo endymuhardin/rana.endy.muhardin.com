@@ -1,5 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://rana.endy.muhardin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://rana.endy.muhardin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rana.endy.muhardin.com/" rel="alternate" type="text/html" /><updated>2018-05-31T09:32:44+07:00</updated><id>http://rana.endy.muhardin.com//</id><title type="html">12” di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
-</subtitle><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><entry><title type="html">Mengatur Power Flash</title><link href="http://rana.endy.muhardin.com/lighting/mengatur-power-flash/" rel="alternate" type="text/html" title="Mengatur Power Flash" /><published>2018-01-19T07:55:00+07:00</published><updated>2018-01-19T07:55:00+07:00</updated><id>http://rana.endy.muhardin.com/lighting/mengatur-power-flash</id><content type="html" xml:base="http://rana.endy.muhardin.com/lighting/mengatur-power-flash/">&lt;p&gt;Pada saat kita memotret menggunakan flash/speedlight, kita menambah sumber cahaya yang mempengaruhi foto kita. Tadinya cuma ada sumber cahaya yang sudah ada (misalnya matahari atau lampu dalam ruangan), kita tambah dengan flash. Karena sumber cahayanya lebih dari satu, maka kita perlu memikirkan bagaimana menyeimbangkan antar keduanya supaya kita bisa mendapatkan hasil foto yang sesuai keinginan.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://rana.endy.muhardin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://rana.endy.muhardin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://rana.endy.muhardin.com/" rel="alternate" type="text/html" /><updated>2019-03-10T18:57:34+07:00</updated><id>http://rana.endy.muhardin.com//</id><title type="html">12” di belakang kamera</title><subtitle>Tulisan seputar pernak pernik fotografi, teknik lighting, bisnis fotografi
+</subtitle><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><entry><title type="html">Fotografi Flash untuk Bayi, Amankah??</title><link href="http://rana.endy.muhardin.com/lighting/fotografi-flash-bayi-amankah/" rel="alternate" type="text/html" title="Fotografi Flash untuk Bayi, Amankah??" /><published>2019-03-10T07:55:00+07:00</published><updated>2019-03-10T07:55:00+07:00</updated><id>http://rana.endy.muhardin.com/lighting/fotografi-flash-bayi-amankah</id><content type="html" xml:base="http://rana.endy.muhardin.com/lighting/fotografi-flash-bayi-amankah/">&lt;p&gt;Beberapa waktu lalu, di &lt;a href=&quot;https://www.facebook.com/groups/idstrobist/&quot;&gt;grup id-strobist&lt;/a&gt; ramai pro-kontra pemakaian flash untuk memotret bayi. Sebenarnya ini perdebatan musiman, tiap ada yang posting foto bayi, pasti debat masalah ini. So, kita tuliskan aja artikel ini supaya bisa membahas masalah ini panjang kali lebar sama dengan luas.&lt;/p&gt;
+
+&lt;p&gt;Sumber kontroversi biasanya adalah &lt;a href=&quot;https://www.dailymail.co.uk/news/peoplesdaily/article-3176237/Three-month-old-baby-left-BLIND-one-eye-family-friend-forgot-turn-flash-mobile-taking-photograph.html&quot;&gt;artikel di Daily Mail&lt;/a&gt; yang menyebutkan bahwa ada bayi yang buta matanya akibat ada tamu yang memotret, menggunakan kamera ponsel, dan lupa mematikan flashnya. Artikel ini sudah disanggah &lt;a href=&quot;https://petapixel.com/2015/07/29/baby-in-china-blinded-by-camera-flash-probably-not/&quot;&gt;artikel lainnya yang diterbitkan oleh Peta Pixel&lt;/a&gt;, dinyatakan hoaks. Juga ada &lt;a href=&quot;https://tirto.id/mitos-pemotretan-bayi-yang-baru-lahir-b1Aq&quot;&gt;artikel berbahasa Indonesia dari Tirto&lt;/a&gt; yang mematahkan mitos ini.&lt;/p&gt;
+
+&lt;p&gt;Tapi ya namanya hoaks, dimana-mana pasti lebih nyaring daripada klarifikasinya. Untuk itu, mari kita uji saja mitos ini secara praktis. Disesuaikan dengan kondisi dan kearifan lokal Nusantara :D&lt;/p&gt;
+
+&lt;p&gt;Pada artikel ini, kita akan coba menembakkan flash berkekuatan maksimal (full power) secara langsung (tidak dipantulkan/bounce), tanpa modifier apapun (payung, softbox, dsb), dari jarak dekat. Kita akan lihat seberapa terang cahaya yang mengenai objek.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Peralatan yang saya gunakan adalah :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kamera Nikon D5600&lt;/li&gt;
+  &lt;li&gt;Lensa kit AF-P 18-55 f/3.5-5.6&lt;/li&gt;
+  &lt;li&gt;Flash Godox TT685N&lt;/li&gt;
+  &lt;li&gt;Trigger Godox XPro-N&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Spesifikasi teknis Godox TT685 bisa dilihat di gambar berikut. Diambil dari &lt;a href=&quot;http://flashhavoc.com/godox-tt685c-ttl-radio-speedlite-announced/&quot;&gt;artikel Flash Havoc&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/tt685-spec&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/tt685-spec&quot; alt=&quot;Spec TT685&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Dari spec di atas, yang perlu kita perhatikan adalah &lt;em&gt;Flash Duration&lt;/em&gt;, yaitu berapa lama flash menyala. Ada dua angka di sini, yaitu &lt;code class=&quot;highlighter-rouge&quot;&gt;1/300&lt;/code&gt; detik sampai &lt;code class=&quot;highlighter-rouge&quot;&gt;1/20000&lt;/code&gt; detik. Kita ambil angka yang lebih lama, yaitu &lt;code class=&quot;highlighter-rouge&quot;&gt;1/300&lt;/code&gt; detik.&lt;/p&gt;
+
+&lt;p&gt;Setup pemotretan yang saya lakukan adalah sebagai berikut.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/bts.jpg&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/bts.jpg&quot; alt=&quot;BTS Layout&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Saya tidak mengukur jarak secara pasti, kira-kira 30-50 cm dari kepala flash ke objek.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disclaimer : Sebenarnya pada kondisi nyata, setup seperti ini sangat tidak dianjurkan. Bukan karena berbahaya, tapi karena hasilnya akan jelek :D Bayangan keras, kontras tinggi, specular highlight tidak terkontrol, dan sebagainya. Mohon jangan ditiru, lalu bilang belajar dari artikel ini ya …&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Setting kamera saya awali dengan &lt;a href=&quot;https://en.wikipedia.org/wiki/Sunny_16_rule&quot;&gt;Sunny 16 Rule&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Wah, apa itu Sunny 16 rule?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lho, kamu gak tau ya? Sudah berapa lama jadi fotografer ? :P&lt;/p&gt;
+
+&lt;p&gt;Sunny 16 Rule adalah patokan yang digunakan fotografer jaman dulu (motret masih pakai film, kamera masih manual belum ada lightmeter, sesuatu yang sulit dipahami fotografer generasi live view) untuk menentukan berapa diafragma dan shutter speed yang tepat untuk kondisi siang hari cerah.&lt;/p&gt;
+
+&lt;p&gt;Aturannya seperti ini :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;bila suasana cerah (sunny)&lt;/li&gt;
+  &lt;li&gt;set diafragma ke f/16&lt;/li&gt;
+  &lt;li&gt;maka shutter speed adalah kebalikan dari ASA film yang digunakan (anak jaman now bilangnya ISO)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jadi, kita set bukaan diafragma di f/16, ISO 200, dan kita dapatkan shutter speed 1/200.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Kenapa tidak pakai shutter speed 1/100 ?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Karena saya ingin menghilangkan pengaruh ambient/cahaya ruangan. Supaya cahaya yang ditangkap sensor 100% berasal dari flash. Kalau masih belum paham, baca dulu &lt;a href=&quot;http://rana.endy.muhardin.com/lighting/mengatur-power-flash/&quot;&gt;artikel sebelumnya yang menjelaskan masalah ini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Oke, jadi kita set kamera di &lt;code class=&quot;highlighter-rouge&quot;&gt;ISO200 1/200 f/16&lt;/code&gt;, flash diset ke full power atau &lt;code class=&quot;highlighter-rouge&quot;&gt;1/1&lt;/code&gt;. Berikut hasilnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/sunny-16-0.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/sunny-16-0.png&quot; alt=&quot;Hasil 1/1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Terlihat terlalu terang ya? Kita periksa highlight untuk melihat seberapa banyak terjadi highlight clipping.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Gak tau apa itu highlight clipping?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Silahkan baca &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;artikel terdahulu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Berikut tampilan highlight, terlihat banyak yang kedip-kedip. Artinya foto ini benar-benar overexposed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/highlight-sunny-16-0.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/highlight-sunny-16-0.png&quot; alt=&quot;Blinkies 1/1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Turunkan setting satu stop, menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;ISO100 1/200 f/16&lt;/code&gt;. Berikut hasilnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/sunny-16-1.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/sunny-16-1.png&quot; alt=&quot;Hasil 1/1 - 1 stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;dan berikut highlightnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/highlight-sunny-16-1.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/highlight-sunny-16-1.png&quot; alt=&quot;Blinkies 1/1 - 1 stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Terlihat bahwa yang clipping makin sedikit.&lt;/p&gt;
+
+&lt;p&gt;Coba lagi turunkan 1 stop menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;ISO100 1/200 f/32&lt;/code&gt;. Berikut hasilnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/sunny-16-2.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/sunny-16-2.png&quot; alt=&quot;Hasil 1/1 - 2 stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;dan berikut highlightnya&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/highlight-sunny-16-2.png&quot;&gt;&lt;img src=&quot;http://rana.endy.muhardin.com/images/2019/baby-flash/highlight-sunny-16-2.png&quot; alt=&quot;Blinkies 1/1 - 2 stop&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sepertinya sudah pas.&lt;/p&gt;
+
+&lt;p&gt;Dari sini kita bisa ambil kesimpulan bahwa:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;flash full power&lt;/li&gt;
+  &lt;li&gt;jarak 30-50 cm dari objek&lt;/li&gt;
+  &lt;li&gt;tanpa modifier, diarahkan langsung&lt;/li&gt;
+  &lt;li&gt;nilai exposurenya adalah 2 stop di atas Sunny 16&lt;/li&gt;
+  &lt;li&gt;menyala selama 1/300 detik&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lalu apa manfaatnya pengukuran semacam ini? Amankah dipakai untuk memotret bayi?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nah, mari kita kembali ke kearifan lokal masyarakat kita. Bayi baru lahir umumnya dijemur sama emaknya di bawah matahari pagi. Benar-benar di bawah matahari, bukan di bawah pohon. Belum kena matahari belum afdol. Selama 10-20 menit.&lt;/p&gt;
+
+&lt;p&gt;Sinar matahari cerah, bahasa Inggrisnya kan &lt;em&gt;Sunny&lt;/em&gt;. Berarti berlaku di sini &lt;em&gt;Sunny 16 Rule&lt;/em&gt; tadi.&lt;/p&gt;
+
+&lt;p&gt;Nah, flash kita hanya sedikit lebih terang daripada itu (2 stop tidak banyak kan, beda antara ISO 400 dan ISO 1600 saja), menyala hanya 1/300 detik. Dibandingkan dengan matahari betulan, 10-20 menit.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Menurut Anda? Aman gak?&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><summary type="html">Beberapa waktu lalu, di grup id-strobist ramai pro-kontra pemakaian flash untuk memotret bayi. Sebenarnya ini perdebatan musiman, tiap ada yang posting foto bayi, pasti debat masalah ini. So, kita tuliskan aja artikel ini supaya bisa membahas masalah ini panjang kali lebar sama dengan luas.
+
+Sumber kontroversi biasanya adalah artikel di Daily Mail yang menyebutkan bahwa ada bayi yang buta matanya akibat ada tamu yang memotret, menggunakan kamera ponsel, dan lupa mematikan flashnya. Artikel ini sudah disanggah artikel lainnya yang diterbitkan oleh Peta Pixel, dinyatakan hoaks. Juga ada artikel berbahasa Indonesia dari Tirto yang mematahkan mitos ini.
+
+Tapi ya namanya hoaks, dimana-mana pasti lebih nyaring daripada klarifikasinya. Untuk itu, mari kita uji saja mitos ini secara praktis. Disesuaikan dengan kondisi dan kearifan lokal Nusantara :D
+
+Pada artikel ini, kita akan coba menembakkan flash berkekuatan maksimal (full power) secara langsung (tidak dipantulkan/bounce), tanpa modifier apapun (payung, softbox, dsb), dari jarak dekat. Kita akan lihat seberapa terang cahaya yang mengenai objek.</summary></entry><entry><title type="html">Mengatur Power Flash</title><link href="http://rana.endy.muhardin.com/lighting/mengatur-power-flash/" rel="alternate" type="text/html" title="Mengatur Power Flash" /><published>2018-01-19T07:55:00+07:00</published><updated>2018-01-19T07:55:00+07:00</updated><id>http://rana.endy.muhardin.com/lighting/mengatur-power-flash</id><content type="html" xml:base="http://rana.endy.muhardin.com/lighting/mengatur-power-flash/">&lt;p&gt;Pada saat kita memotret menggunakan flash/speedlight, kita menambah sumber cahaya yang mempengaruhi foto kita. Tadinya cuma ada sumber cahaya yang sudah ada (misalnya matahari atau lampu dalam ruangan), kita tambah dengan flash. Karena sumber cahayanya lebih dari satu, maka kita perlu memikirkan bagaimana menyeimbangkan antar keduanya supaya kita bisa mendapatkan hasil foto yang sesuai keinginan.&lt;/p&gt;
 
 &lt;p&gt;Mau berapapun sumber cahaya yang digunakan, pada dasarnya jenis cahaya cuma ada dua :&lt;/p&gt;
 
@@ -1391,292 +1514,4 @@ Dan biasanya selalu diikuti dengan tanggapan klasik juga
   tergantung jenis fotografi apa yang diminati
 
 
-Masalahnya, si penanya biasanya tidak tahu apa perbedaan satu lensa dengan yang lain. Pastinya, spesifikasi dan harganya beda. Tapi apa pengaruhnya terhadap hasil foto? Mari kita bahas.</summary></entry><entry><title type="html">Belajar Lighting</title><link href="http://rana.endy.muhardin.com/referensi/belajar-lighting/" rel="alternate" type="text/html" title="Belajar Lighting" /><published>2013-11-13T09:14:00+07:00</published><updated>2013-11-13T09:14:00+07:00</updated><id>http://rana.endy.muhardin.com/referensi/belajar-lighting</id><content type="html" xml:base="http://rana.endy.muhardin.com/referensi/belajar-lighting/">&lt;p&gt;Enaknya belajar fotografi di jaman Youtube, segala macam tutorial ada. Saking banyaknya, kita kesulitan memilih mana yang bagus mana yang jelek. Mau ditonton semua, bisa-bisa menghabiskan masa remaja.&lt;/p&gt;
-
-&lt;p&gt;Untuk menghemat waktu kita semua, saya sudah mengumpulkan beberapa video di Youtube yang bagus cara penyampaiannya. Semoga bermanfaat.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Di video tutorial ini, para instruktur menggunakan berbagai teknologi dan perangkat lampu. Jangan pusing dengan alat yang belum kita miliki. Perhatikanlah hal-hal berikut:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Penempatan posisi lampu terhadap subjek dan latar&lt;/li&gt;
-  &lt;li&gt;Intensitas cahaya&lt;/li&gt;
-  &lt;li&gt;Penggunaan modifier (payung, softbox, reflektor, gel, dsb)&lt;/li&gt;
-  &lt;li&gt;Bagian subjek yang terang (highlight)&lt;/li&gt;
-  &lt;li&gt;Posisi jatuhnya bayangan (shadow)&lt;/li&gt;
-  &lt;li&gt;Transisi dari highlight ke shadow (fall-off)&lt;/li&gt;
-  &lt;li&gt;Sifat bayangan, hard (tepi bayangan garisnya tegas) atau soft (tepi bayangan memiliki gradasi)&lt;/li&gt;
-  &lt;li&gt;Warna cahaya&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;in-studio&quot;&gt;In Studio&lt;/h2&gt;
-
-&lt;p&gt;Pertama, kita mulai dulu dengan penggunaan satu lampu. Tutorial dari The Slanted Lens ini merupakan fundamental lighting untuk portrait. Di sini kita juga memahami tentang berbagai teknik dan istilah dasar seperti Rembrandt Light, Split Light, Broad Light, Short Light, Butterfly/Paramount Light, Loop Light. Di akhir video ada sedikit penjelasan menggunakan tiga lampu untuk key, fill, dan rim.&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gmmZECtP3oM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Untuk portrait, ada beberapa penggunaan cahaya, yaitu:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;key light : sumber cahaya utama yang menerangi subjek&lt;/li&gt;
-  &lt;li&gt;fill light : sumber cahaya lemah untuk mengurangi (tapi tidak menghilangkan) bayangan agar tidak terlalu kontras&lt;/li&gt;
-  &lt;li&gt;rim/separation light : cahaya untuk menerangi sisi (rim) subjek supaya tidak tercampur (separation) dengan latar&lt;/li&gt;
-  &lt;li&gt;background/kicker light : cahaya untuk menerangi latar belakang supaya lebih joss&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Selanjutnya, tonton video berikut untuk memahami keempat fungsi cahaya tersebut.&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/maM4dWbK0A0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Setelah paham fungsi tersebut, kita bisa melanjutkan menonton video berikut. Intinya adalah, sumber cahaya tidak harus dari lampu, tapi bisa juga dari pantulan cahaya. Dengan bermodalkan satu lampu saja, hasilnya bisa sangat bervariasi. Tapi prinsip dasarnya tetap sama.&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/F9gVQFhCXEQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Asal kita menguasai konsep 4 fungsi lighting tadi, kita bisa menggunakan lampu sebanyak kita mau. Coba tonton video berikut. Sekali lagi, jangan terpaku pada peralatan, tapi perhatikanlah fungsi dan dampak dari masing-masing sumber cahaya.&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/dRgu84ZVYB0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;on-location&quot;&gt;On Location&lt;/h2&gt;
-
-&lt;p&gt;Memotret dalam studio relatif lebih mudah, karena semua faktor bisa kita kendalikan. Yang lebih menantang adalah sesi foto di luar ruangan (outdoor). Hasil fotonya juga lebih bagus, karena latar belakangnya lebih variatif.&lt;/p&gt;
-
-&lt;p&gt;Kita mulai dengan teknik dasar, bagaimana mengatur proporsi cahaya alami (ambient) dengan cahaya dari lampu (strobe). Konsep dasarnya tetap ada di &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/exposure-dan-metering/&quot;&gt;teknik metering&lt;/a&gt; dan &lt;a href=&quot;http://rana.endy.muhardin.com/teknik/segitiga-exposure/&quot;&gt;pengaturan segitiga exposure&lt;/a&gt;. Karena kita menggunakan flash, ada beberapa konsep tambahan:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ISO : mempengaruhi intensitas ambient &lt;strong&gt;dan&lt;/strong&gt; strobe&lt;/li&gt;
-  &lt;li&gt;Aperture : mempengaruhi intensitas ambient &lt;strong&gt;dan&lt;/strong&gt; strobe&lt;/li&gt;
-  &lt;li&gt;Jarak/Power strobe : &lt;strong&gt;hanya&lt;/strong&gt; mempengaruhi intensitas &lt;strong&gt;strobe&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Shutter speed : &lt;strong&gt;hanya&lt;/strong&gt; mempengaruhi intensitas &lt;strong&gt;ambient&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Konsep di atas hanya berlaku kalau kita menggunakan setting manual di kamera dan manual juga di flash. Serba manual ini memudahkan kita untuk memahami cara kerjanya. Kalau nanti sudah paham, barulah kita gunakan mode otomatis (Aperture Priority dan TTL Flash) untuk mempercepat proses.&lt;/p&gt;
-
-&lt;p&gt;Pengaruh shutter speed terhadap ambient bisa dibaca &lt;a href=&quot;http://strobist.blogspot.com/2007/09/lighting-102-33-balancing-flashambient.html&quot;&gt;di sini&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Dengan konsep di atas, berarti kita bisa mengatur intensitas ambient dan strobe secara terpisah. Kita bisa buat ambient gelap dan subjek (yang diterangi strobe) terang, atau sebaliknya. Variasi dalam rasio ambient-strobe ini bisa membuat foto kita lebih &lt;em&gt;punchy&lt;/em&gt;. Kalau tidak percaya, bisa lihat contohnya &lt;a href=&quot;http://strobist.blogspot.com/2006/03/lighting-101-balancing-flash-and.html&quot;&gt;di sini&lt;/a&gt;. Proses berpikir dalam mengatur rasio bisa dibaca &lt;a href=&quot;http://neilvn.com/tangents/zones-of-light/&quot;&gt;di sini&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Setelah paham konsepnya, kita lihat aplikasinya.&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/dTrS-0v-BLg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Perhatikan mulai menit ke 4:00. Fotografer mengurangi shutter speed seiring dengan semakin gelapnya kondisi ambient. Lihat info shutter speed dan jam pemotretan di keterangan foto. Perhatikan bahwa aperture dan ISO tidak berubah, sehingga intensitas strobe tidak berubah. Tahu dari mana bahwa strobe tidak berubah? Lihat dahi subjek yang diterangi oleh strobe. Tingkat terangnya tidak berubah walaupun shutter speed turun terus.&lt;/p&gt;
-
-&lt;p&gt;Amati juga bahwa intensitas ambient (terlihat dari latar belakang langit) juga tidak berubah walaupun hari semakin senja. Ini dimungkinkan karena fotografer mengkompensasi semakin gelapnya langit dengan shutter speed yang semakin lambat.&lt;/p&gt;
-
-&lt;p&gt;Selanjutnya, lihat video berikut&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JuK_erfYaW0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Selalu menggunakan prinsip yang sama. Pertama, fotografer menggunakan matahari sebagai key light. Karena posisi matahari tidak bisa digeser-geser, maka subjek dan kamera yang bergeser. Semakin sore, matahari semakin gelap, sehingga tidak kuat lagi mengambil peran sebagai key. Oleh karena itu, strobe disuruh menjadi key light dan matahari menjadi fill light. Matahari sore warnanya oranye, sedangkan strobe putih, gunakan gel untuk mewarnai strobe supaya sama-sama oranye. Kalau warnanya sudah sama, nanti bisa diputihkan lagi di Photoshop. Terakhir, tambahkan satu strobe lagi supaya karavan terlihat.&lt;/p&gt;
-
-&lt;h2 id=&quot;light-modifier&quot;&gt;Light Modifier&lt;/h2&gt;
-
-&lt;p&gt;Di video-video sebelumnya, kita melihat penggunaan berbagai &lt;em&gt;light modifier&lt;/em&gt; seperti payung, softbox, dan sebagainya. Sebenarnya apa fungsi dari modifier tersebut?&lt;/p&gt;
-
-&lt;p&gt;Fungsi utamanya sebetulnya adalah untuk memperbesar ukuran sumber cahaya relatif terhadap subjek. Kalau hanya lampu saja, maka ukuran lampu lebih kecil dari wajah subjek, sehingga bayangannya &lt;em&gt;hard&lt;/em&gt;. Dengan menggunakan softbox atau payung, ukurannya menjadi besar, sehingga bayangannya menjadi &lt;em&gt;soft&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Selain modifier (softbox atau payung), perlu juga diperhatikan masalah jarak. Matahari adalah sumber cahaya yang besar, bahkan ukurannya lebih besar daripada bumi. Tapi karena jaraknya jauh, maka menjadi kecil kalau dibandingkan dengan wajah subjek. Demikian juga dengan modifier. Percuma kita pakai softbox sebesar gajah kalau ditaruh di jarak 50 meter dari subjeknya.&lt;/p&gt;
-
-&lt;p&gt;Seperti apa perbedaan antara &lt;em&gt;hard&lt;/em&gt; dan &lt;em&gt;soft&lt;/em&gt;, bisa disimak di penjelasan Om Joe McNally berikut&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vIsw495HtSI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Softbox ukurannya bermacam-macam, ada yang besar dan ada yang kecil. Apa bedanya? Simak penjelasan teorinya dari Om Jay P. Morgan berikut&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gVy2nwoataM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Lanjutkan dengan contoh penerapannya&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hmqDGCSDy0s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Payung sama dengan softbox, gunanya untuk memperbesar ukuran sumber cahaya.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Apa bedanya softbox dan payung?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tonton penjelasan dari Om Mark Wallace&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pyJ3YRMnqto&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Selain modifier yang pakai lampu seperti softbox dan payung, ada juga modifier tanpa lampu. Contohnya reflektor (pemantul cahaya) dan scrim/diffuser (untuk menghalangi atau menyebarkan cahaya)&lt;/p&gt;
-
-&lt;p&gt;Contoh penggunaan scrim untuk menyebarkan cahaya didemonstrasikan oleh om Joe McNally di video ini&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eR7wXxvrRMA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Di bagian kedua, scrim digunakan untuk menghalangi cahaya&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AOhscpY-wQo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Reflektor berfungsi untuk memantulkan cahaya. Bisa cahaya dari strobe ataupun cahaya matahari. Biasanya tersedia dalam format 5 in 1, punya 5 sisi dalam 1 unit:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;hitam : untuk menghalangi cahaya (seperti scrim-nya Om Joe)&lt;/li&gt;
-  &lt;li&gt;translucent/semi-transparan : untuk menyebarkan cahaya (seperti scrim-nya Om Joe)&lt;/li&gt;
-  &lt;li&gt;putih : untuk memantulkan cahaya&lt;/li&gt;
-  &lt;li&gt;silver : memantulkan cahaya lebih banyak daripada putih&lt;/li&gt;
-  &lt;li&gt;gold : memantulkan cahaya berwarna emas, seperti matahari sore&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Contoh pemakaiannya bisa dilihat di sini&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QT2XTvuyQms&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Joe McNally pernah mengatakan,&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;John Loengard, the picture editor at Life, always used to tell me, ”If you want something to look interesting, don’t light all of it.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Artinya, kita harus membatasi bagian yang terkena cahaya supaya fotonya lebih menarik. Salah satu cara membatasi cahaya adalah menggunakan grid.&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/g5zxYDSQPNo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Jangan buru-buru beli grid mahal-mahal. Kita bisa bikin sendiri &lt;a href=&quot;http://strobist.blogspot.com/2006/10/free-and-so-easy-diy-grid-spots-for.html&quot;&gt;dari kardus&lt;/a&gt;, &lt;a href=&quot;http://www.flickr.com/photos/71265688@N00/sets/72157594358068593/show/&quot;&gt;coroplast&lt;/a&gt;, atau &lt;a href=&quot;http://lightingmods.blogspot.com/2007/06/diy-black-straws-snoot-grid-part-1.html&quot;&gt;dari sedotan bekas&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Masih banyak lagi jenis-jenis modifier lain seperti didemokan Om Mark Wallace&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8sKK_lvQiVA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;warna&quot;&gt;Warna&lt;/h2&gt;
-
-&lt;p&gt;Flash bisa diwarnai dengan plastik berwarna yang disebut dengan istilah &lt;code class=&quot;highlighter-rouge&quot;&gt;gel&lt;/code&gt;. Tujuannya macam-macam, diantaranya:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;supaya sama dengan ambient. Kalau sudah sama, gampang dinetralisir di Photoshop. Jauh lebih mudah menetralisir cahaya hijau yang seragam, daripada cahaya hijau dari kiri dan putih dari kanan.&lt;/li&gt;
-  &lt;li&gt;untuk menimbulkan efek dramatis&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Yang perlu diperhatikan, begitu kita bermain-main dengan warna, kita harus mematikan fitur &lt;code class=&quot;highlighter-rouge&quot;&gt;Auto White Balance&lt;/code&gt; di kamera. Kita harus mengatur sendiri &lt;code class=&quot;highlighter-rouge&quot;&gt;White Balance&lt;/code&gt; supaya warnanya sesuai dengan yang seharusnya, tidak diatur otomatis oleh kamera.&lt;/p&gt;
-
-&lt;p&gt;Untuk lebih jelasnya, simak penjelasan Om Mark Wallace&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LiPL73mLeJ8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Biasanya fotografer akan menggunakan kertas putih atau abu-abu sebagai patokan warna, sehingga nanti mudah melakukan koreksi di Photoshop. Kertas ini disebut dengan &lt;code class=&quot;highlighter-rouge&quot;&gt;white card&lt;/code&gt; atau &lt;code class=&quot;highlighter-rouge&quot;&gt;grey card&lt;/code&gt;. Bagaimana menggunakannya? Tonton penjelasan dari Om Mark&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/H5rW74-zCQ0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Setelah paham urusan &lt;code class=&quot;highlighter-rouge&quot;&gt;white balance&lt;/code&gt;, kita simak penerapannya oleh Om Joe McNally, bagian pertama&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ntoRpQCY60U&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;dan bagian kedua&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/W3azZ0wIXpo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Kalau mau lebih ekstrim, simak penggunaan gel oleh Om Bryan Peterson&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rK1rlkSKkD8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;intensitas&quot;&gt;Intensitas&lt;/h2&gt;
-
-&lt;p&gt;Seperti kita lihat di video-video di atas, intinya adalah bermain dengan kombinasi dan rasio terang-gelap. Untuk itu, kita harus mahir mengatur intensitas cahaya baik di subjek maupun di lingkungan sekitarnya. Pertama, kita kuasai dulu pengaturan power di strobe&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/E-ro-ST3iuo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Untuk flash kecil (speedlight), silahkan baca user manual merek dan tipe masing-masing.&lt;/p&gt;
-
-&lt;p&gt;Setelah bisa mengatur power, kita harus paham konsep Inverse Square Law. Intinya, bagaimana hubungan antara jarak lampu-subjek-latar terhadap &lt;em&gt;fall off&lt;/em&gt;, perbedaan intensitas cahaya antara subjek dan latarnya. Konsepnya bisa ditonton di sini&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/f5BIvSBjvLg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Dengan memahami konsep Inverse Square Law, kita bisa mengatur agar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;subjek dan latar sama terang&lt;/li&gt;
-  &lt;li&gt;subjek terang, latar gelap&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;hanya dengan mengubah jarak lampu –&amp;gt; subjek –&amp;gt; latar.&lt;/p&gt;
-
-&lt;h2 id=&quot;durasi-cahaya&quot;&gt;Durasi Cahaya&lt;/h2&gt;
-
-&lt;p&gt;Berdasarkan lama menyala, sumber cahaya bisa dibagi dua:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;continuous : menyala terus selama shutter terbuka. Contohnya matahari, lampu rumah.&lt;/li&gt;
-  &lt;li&gt;flash/instant : menyala sesaat saja. Contohnya flash, monolight&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Perbedaan antara keduanya bisa ditonton di sini&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4QaCI_SUc5c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Sumber cahaya instan (flash) hanya menyala sebentar saja. Sekitar 1/1000 detik atau lebih cepat. Oleh karena itu, setting shutter speed di kamera tidak mempengaruhi jumlah cahaya yang direkam sensor. Walaupun demikian, kita tidak bisa menggunakan shutter speed yang terlalu tinggi, karena dibatasi oleh sync-speed. Apa itu sync-speed? Saksikan penjelasan dari Om Mark Wallace&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fOayN2U1xZg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Karena durasi yang singkat, seperti halnya shutter speed, flash juga memiliki kemampuan membekukan gerakan. Semakin singkat durasi flash, semakin cepat gerakan yang bisa dibekukan. Durasi flash diukur dalam satuan &lt;code class=&quot;highlighter-rouge&quot;&gt;t5&lt;/code&gt; (waktu yang dibutuhkan flash sampai nyalanya tinggal 50%) dan &lt;code class=&quot;highlighter-rouge&quot;&gt;t1&lt;/code&gt; (waktu yang dibutuhkan flash sampai cahayanya tinggal 10%). Teori tentang durasi flash bisa dibaca &lt;a href=&quot;http://strobist.blogspot.com/2010/06/rise-and-fall-of-machines-understanding.html&quot;&gt;di sini&lt;/a&gt;. Sedangkan contoh aplikasinya didemokan oleh Om Sam McGuire di sini&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zLGDxKDE05I&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Pemanfaatan durasi flash untuk membekukan gerakan juga bisa dilihat di demo berikut&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/32792549?byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Dengan mengkombinasikan durasi shutter speed dan durasi flash, kita bisa membuat berbagai efek menarik seperti yang dicontohkan Om Bryan Peterson&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Dgnci8MH4sE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;permukaan&quot;&gt;Permukaan&lt;/h2&gt;
-
-&lt;p&gt;Belajar lighting belum lengkap kalau belum memotret permukaan yang aneh-aneh, yaitu:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;tembus pandang. Misalnya gelas, botol, dan sejenisnya&lt;/li&gt;
-  &lt;li&gt;memantulkan cahaya. Misalnya sendok, garpu, panci, dan logam lainnya&lt;/li&gt;
-  &lt;li&gt;bertekstur. Misalnya kain, tembok, lukisan, dan lainnya&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Kita mulai dari permukaan tembus pandang. Silahkan tonton penjelasan Om Karl Taylor.&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IIm-SZHKOW4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Inti dari memotret botol dan gelas adalah menghilangkan tepi sumber cahaya yang terlalu tajam. Ini dilakukan dengan cara &lt;code class=&quot;highlighter-rouge&quot;&gt;diffusion&lt;/code&gt;. Sumber cahaya dihalangi oleh bahan yang tembus cahaya tapi tidak bening. Kita bisa gunakan kertas kalkir yang tersedia di toko buku.&lt;/p&gt;
-
-&lt;p&gt;Dalam memotret benda mengkilap, kita justru harus memotret pantulan cahayanya. Prinsip yang digunakan ada di pelajaran IPA waktu SD, sudut datang cahaya = sudut pantul.&lt;/p&gt;
-
-&lt;p&gt;Berikutnya, memotret benda bertekstur.&lt;/p&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2CnAcWAO5bU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Ada dua pilihan dalam memotret benda bertekstur seperti kain:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;menonjolkan teksturnya. Misalnya memotret jeans.&lt;/li&gt;
-  &lt;li&gt;menyembunyikan teksturnya. Misalnya memotret kemeja resmi.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Untuk menonjolkan tekstur, gunakan cahaya dari samping. Hard light dari sumber cahaya berukuran kecil juga bisa lebih menonjolkan kerutan-kerutan pada objek.&lt;/p&gt;
-
-&lt;p&gt;Sedangkan untuk menyembunyikan tekstur, gunakan cahaya lurus dari depan/atas. Kita bisa gunakan soft light dari sumber cahaya besar untuk membuat kerutan tidak terlalu terlihat.&lt;/p&gt;
-
-&lt;p&gt;Ilustrasinya dijelaskan &lt;a href=&quot;http://photography.tutsplus.com/articles/how-to-photograph-fabric-and-clothes--photo-12330&quot;&gt;di artikel ini&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;kesimpulan&quot;&gt;Kesimpulan&lt;/h2&gt;
-
-&lt;p&gt;Demikianlah berbagai teknik tentang penggunaan lighting. Tidak perlu galau dengan banyaknya video di atas, intinya hanyalah pemahaman terhadap konsep:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;rasio/proporsi intensitas antar beberapa sumber cahaya&lt;/li&gt;
-  &lt;li&gt;sifat bayangan (hard atau soft), sering juga disebut dengan istilah &lt;code class=&quot;highlighter-rouge&quot;&gt;quality of light&lt;/code&gt; di tutorial berbahasa Inggris&lt;/li&gt;
-  &lt;li&gt;warna cahaya&lt;/li&gt;
-  &lt;li&gt;durasi cahaya&lt;/li&gt;
-  &lt;li&gt;karakteristik permukaan&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Dan penguasaan teknik kontrol cahaya:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;kontrol intensitas ambient dengan mengubah shutter speed&lt;/li&gt;
-  &lt;li&gt;kontrol intensitas strobe dengan mengubah power lampu dan jarak lampu-subjek-latar&lt;/li&gt;
-  &lt;li&gt;kontrol sifat bayangan dengan mengubah ukuran sumber cahaya (menggunakan softbox atau payung)&lt;/li&gt;
-  &lt;li&gt;kontrol tempat jatuhnya highlight/shadow dengan mengatur penempatan sumber cahaya dan menggunakan reflektor, grid, snoot, gobo&lt;/li&gt;
-  &lt;li&gt;kontrol warna dengan gel dan setting white balance&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;endy.muhardin@gmail.com&quot;, &quot;email_md5&quot;=&gt;&quot;a3c8a6a973fc0c0fa3d89cb69c103ad0&quot;, &quot;twitter&quot;=&gt;&quot;endymuhardin&quot;, &quot;flickr&quot;=&gt;&quot;endymuhardin&quot;, &quot;instagram&quot;=&gt;&quot;endymuhardin&quot;, &quot;facebook&quot;=&gt;&quot;endy.muhardin&quot;}</name><email>endy.muhardin@gmail.com</email></author><summary type="html">Enaknya belajar fotografi di jaman Youtube, segala macam tutorial ada. Saking banyaknya, kita kesulitan memilih mana yang bagus mana yang jelek. Mau ditonton semua, bisa-bisa menghabiskan masa remaja.
-
-Untuk menghemat waktu kita semua, saya sudah mengumpulkan beberapa video di Youtube yang bagus cara penyampaiannya. Semoga bermanfaat.</summary></entry></feed>
+Masalahnya, si penanya biasanya tidak tahu apa perbedaan satu lensa dengan yang lain. Pastinya, spesifikasi dan harganya beda. Tapi apa pengaruhnya terhadap hasil foto? Mari kita bahas.</summary></entry></feed>
