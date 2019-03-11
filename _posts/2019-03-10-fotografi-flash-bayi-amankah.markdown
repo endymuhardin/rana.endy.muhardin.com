@@ -110,4 +110,8 @@ Sinar matahari cerah, bahasa Inggrisnya kan _Sunny_. Berarti berlaku di sini _Su
 
 Nah, flash kita hanya sedikit lebih terang daripada itu (2 stop tidak banyak kan, beda antara ISO 400 dan ISO 1600 saja), menyala hanya 1/300 detik. Dibandingkan dengan matahari betulan, 10-20 menit.
 
-> Menurut Anda? Aman gak?
+Sebagai perbandingan, berikut foto yang saya ambil jam 8 pagi di depan rumah dengan setting _Sunny 16 Rule_
+
+[![Foto Sunny 16]({{site.url}}/images/2019/baby-flash/sunny-16-real.png)](({{site.url}}/images/2019/baby-flash/sunny-16-real.png))
+
+> Nah jadi bagaimana menurut Anda? Aman gak?
