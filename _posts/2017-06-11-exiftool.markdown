@@ -15,7 +15,7 @@ Atau kita ingin mengelompokkan / mencari semua foto yang diambil dengan lensa te
 
 [![Exif Data]({{site.url}}/images/2017/exiftool/photomap.png)]({{site.url}}/images/2017/exiftool/photomap.png)
 
-Untuk membaca dan menulis data EXIF, kita bisa gunakan [aplikasi bernama exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/). Aplikasi ini sering saya gunakan untuk mengelola foto, karena dia memiliki fitur diantaranya:
+Untuk membaca dan menulis data EXIF, kita bisa gunakan [aplikasi bernama exiftool](https://exiftool.org/). Aplikasi ini sering saya gunakan untuk mengelola foto, karena dia memiliki fitur diantaranya:
 
 * TOC
 {:toc}
